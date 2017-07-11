@@ -1,0 +1,313 @@
+Class;CAplicacion.cls;CAplicacion;Cls\CAplicacion.cls
+Class;CCaja.cls;CCaja;Cls\CCaja.cls
+Class;CDato.cls;CDato;Cls\CDato.cls
+Class;CGrupo.cls;CGrupo;Cls\CGrupo.cls
+Class;cHermesUsuario.cls;cHermesUsuario;Cls\cHermesUsuario.cls
+Class;cInformeTesoreria.cls;cInformeTesoreria;Cls\cInformeTesoreria.cls
+Class;CMedioDePago.Cls;CMedioDePago;Cls\CMedioDePago.Cls
+Class;CMoneda.cls;CMoneda;Cls\CMoneda.cls
+Class;ImpRegTrxs.cls;cImpRegTrxs;Cls\ImpRegTrxs.cls
+Class;ImpresionPlanilla.cls;cImpresionPlanilla;Cls\ImpresionPlanilla.cls
+Class;PlanillaGrupo.cls;cPlanillaGrupo;Cls\PlanillaGrupo.cls
+Class;PlanillaMedioPago.cls;cPlanillaMedioPago;Cls\PlanillaMedioPago.cls
+Class;PlanillaMovimiento.cls;cPlanillaMovimiento;Cls\PlanillaMovimiento.cls
+Class;PlanillaTransaccion.cls;cPlanillaTransaccion;Cls\PlanillaTransaccion.cls
+Class;RegistroTransaccion.cls;cRegistroTransaccion;Cls\RegistroTransaccion.cls
+Class;RTEstado.cls;cRTEstado;Cls\RTEstado.cls
+Class;RTGrupo.cls;cRTGrupo;Cls\RTGrupo.cls
+Class;RTRegistro.cls;cRTRegistro;Cls\RTRegistro.cls
+Class;RTTransaccion.cls;cRTTransaccion;Cls\RTTransaccion.cls
+Module;WindowsAPI.bas;WindowsAPI;Bas\WindowsAPI.bas
+Module;PlataformaDeCajas.bas;PlataformaDeCajas;Bas\PlataformaDeCajas.bas
+Class;CTransaccion.cls;CTransaccion;Cls\CTransaccion.cls
+Module;olspub.bas;mOLSPublic;Bas\olspub.bas
+Module;osspub.bas;mHermes;Bas\osspub.bas
+Class;Mensajes.cls;CMensajes;Cls\Mensajes.cls
+Module;SoporteClases.bas;CSoporteClases;Bas\SoporteClases.bas
+Class;cServicio.Cls;cServicio;Cls\cServicio.Cls
+Module;RTImpresion.Bas;RTImpresion;Bas\RTImpresion.Bas
+Module;ImplementacionDeTransacciones.bas;ImplementacionDeTransacciones;Bas\ImplementacionDeTransacciones.bas
+Class;Sucursal.cls;CSucursal;Cls\Sucursal.cls
+Module;vbasic.bas;RutinasVisualBasic;Bas\vbasic.bas
+Module;DefinicionDeTransacciones.bas;DefinicionDeTransacciones;Bas\DefinicionDeTransacciones.bas
+Class;Usuario.cls;CUsuarioUniversal;Cls\Usuario.cls
+Class;Dispensadora.cls;cDispensadora;Cls\Dispensadora.cls
+Module;Dispensador.bas;Dispensador;Bas\Dispensador.bas
+Module;omegafec2.bas;RutinasDeFechas;Bas\omegafec2.bas
+Form;BloqueoTemporal.frm;;Frm\BloqueoTemporal.frm
+Form;DesgloseEfectivo.Frm;;Frm\DesgloseEfectivo.Frm
+Form;CJASobranteFaltanteDeCaja.Frm;;Frm\CJASobranteFaltanteDeCaja.Frm
+Form;Preferencias.frm;;Frm\Preferencias.frm
+Form;QuickSend.Frm;;Frm\QuickSend.Frm
+Form;Reinyeccion32.Frm;;Frm\Reinyeccion32.Frm
+Form;frmPlanillaCuadratura.frm;;Frm\frmPlanillaCuadratura.frm
+Form;transaccion.frm;;Frm\transaccion.frm
+Form;RegistroTrx32.frm;;Frm\RegistroTrx32.frm
+Form;MediodePago.frm;;Frm\MediodePago.frm
+Form;Grupo.frm;;Frm\Grupo.frm
+Form;Producto.frm;;Frm\Producto.frm
+Form;frmTransacciones.frm;;Frm\frmTransacciones.frm
+Form;AcercaDe.frm;;Frm\AcercaDe.frm
+Form;LCCPrepagoLinea.frm;;Falabella\LCCPrepagoLinea.frm
+Form;CRCPrepagoCredito.frm;;Falabella\CRCPrepagoCredito.frm
+Form;CJACancelacion de ValeVista.frm;;Falabella\CJACancelacion de ValeVista.frm
+Form;AperturaDeDia.Frm;;Frm\AperturaDeDia.Frm
+Form;CJAIngresoTesoreriaGral.Frm;;Frm\CJAIngresoTesoreriaGral.Frm
+Form;CJAEnvioACamara.Frm;;Frm\CJAEnvioACamara.Frm
+Form;CJAIngresoEgresoMultiple.Frm;;Frm\CJAIngresoEgresoMultiple.Frm
+Form;LCCPagoAnticipadoDeCuotas.frm;;Falabella\LCCPagoAnticipadoDeCuotas.frm
+Class;cOperacion.cls;cOperacion;Falabella\Clases Deposito\cOperacion.cls
+Class;cCorte.cls;cCorte;Falabella\Clases Deposito\cCorte.cls
+Class;cBeneficiarioAdicional.cls;cBeneficiarioAdicional;Falabella\Clases Deposito\cBeneficiarioAdicional.cls
+Module;mDepFunciones.Bas;mDepFunciones;Falabella\Modulos Deposito\mDepFunciones.Bas
+Class;cDepProducto.cls;cDepProducto;Falabella\Clases Deposito\cDepProducto.cls
+Class;cMedioEntrega.cls;cMedioEntrega;Falabella\Clases Deposito\cMedioEntrega.cls
+Class;cRentaPeriodica.cls;cRentaPeriodica;Falabella\Clases Deposito\cRentaPeriodica.cls
+Class;cProtesto.cls;cProtesto;Falabella\Clases Deposito\cProtesto.cls
+Class;cFormaLiquidacion.cls;cFormaLiquidacion;Falabella\Clases Deposito\cFormaLiquidacion.cls
+Class;cParidadMoneda.cls;cParidadMoneda;Falabella\Clases Deposito\cParidadMoneda.cls
+Class;cValorParidad.cls;cValorParidad;Falabella\Clases Deposito\cValorParidad.cls
+Module;mDepImpresion.bas;mDepImpresion;Falabella\Modulos Deposito\mDepImpresion.bas
+Module;mMontoEscrito.Bas;mMontoEscrito;Falabella\Modulos Deposito\mMontoEscrito.Bas
+Form;CHDetalleDocumento.frm;;Falabella\Cheques\CHDetalleDocumento.frm
+Form;CJAPagoChequePersonal.Frm;;Falabella\CJAPagoChequePersonal.Frm
+Form;CJAOrdenDePagoINP.Frm;;Falabella\CJAOrdenDePagoINP.Frm
+Form;CJARecepcionDeImpuestos.Frm;;Falabella\CJARecepcionDeImpuestos.Frm
+Form;CVEAbono.frm;;Falabella\CVEAbono.frm
+Class;cCarteraVencida.Cls;cCarteraVencida;Falabella\Clases Cartera Vencida\cCarteraVencida.Cls
+Form;CVELiquidacion.frm;;Falabella\CVELiquidacion.frm
+Class;cBanco.cls;cBanco;Cls\cBanco.cls
+Form;CJAIngFolioPagare.frm;;Falabella\CJAIngFolioPagare.frm
+Form;LCDPagoEstadoDeCuenta.frm;;Falabella\LCDPagoEstadoDeCuenta.frm
+Form;LCDPrepagoLinea.frm;;Falabella\LCDPrepagoLinea.frm
+Form;LCDPagoAnticipadoDeCuotas.frm;;Falabella\LCDPagoAnticipadoDeCuotas.frm
+Class;Producto.cls;cProducto;Cls\Producto.cls
+Class;SolicitudDeEmision.cls;cSolicitudDeEmision;Cls\SolicitudDeEmision.cls
+Class;TipoDeDocumento.cls;cTipoDeDocumento;Cls\TipoDeDocumento.cls
+Class;Documento.cls;cDocumento;Cls\Documento.cls
+Form;CARPagoCompraCartera.frm;;Falabella\CARPagoCompraCartera.frm
+Designer;repComprobanteEmpRelacionada.Dsr;;Reportes\repComprobanteEmpRelacionada.Dsr
+Form;frmGTOConsultaPorRut.frm;;Falabella\Frm Gastos\frmGTOConsultaPorRut.frm
+Form;frmGTODevolucionConvenio.frm;;Falabella\Frm Gastos\frmGTODevolucionConvenio.frm
+Form;frmGTODevolucionCtaGastos.frm;;Falabella\Frm Gastos\frmGTODevolucionCtaGastos.frm
+Form;frmGTOIngresoCtaGastos.frm;;Falabella\Frm Gastos\frmGTOIngresoCtaGastos.frm
+Form;frmGTOIngresoProvConvenio.frm;;Falabella\Frm Gastos\frmGTOIngresoProvConvenio.frm
+Module;mConstantesGastos.bas;mConstantesGastos;Falabella\Modulos Gastos\mConstantesGastos.bas
+Class;cCuentaGastos.cls;cCuentaGastos;Falabella\Clases Gastos\cCuentaGastos.cls
+Class;cGastos.cls;cGastos;Falabella\Clases Gastos\cGastos.cls
+Class;cGastosMontos.cls;cGastosMontos;Falabella\Clases Gastos\cGastosMontos.cls
+Class;cBeneficiarioHipotecario.cls;cHipBeneficiario;Falabella\clases Hipotecario\cBeneficiarioHipotecario.cls
+Designer;comprobante ingreso provision.Dsr;;Falabella\reportes de gastos\comprobante ingreso provision.Dsr
+Designer;repComprobanteIngresoEgresoDocProt.Dsr;;Reportes\repComprobanteIngresoEgresoDocProt.Dsr
+Form;CLIOperacionesConsolidadas.frm;;Falabella\CLIOperacionesConsolidadas.frm
+Module;Cliente.bas;ClienteConsolidado;Falabella\Modulos Cliente\Cliente.bas
+Form;CLIVencimientosConsolidados.frm;;Falabella\CLIVencimientosConsolidados.frm
+Form;CLIInformacionComplementariaCliente.frm;;Falabella\CLIInformacionComplementariaCliente.frm
+Class;cReprogramacion.cls;cReprogramacion;Falabella\Clases Reprogramacion\cReprogramacion.cls
+Class;cOperacionCredito.cls;cOperacionCredito;Falabella\Clases Cliente\cOperacionCredito.cls
+Form;LCCPagoEstadoDeCuenta.frm;;Falabella\LCCPagoEstadoDeCuenta.frm
+Designer;acrComprobantePagoLCC.Dsr;;Reportes\acrComprobantePagoLCC.Dsr
+Form;CRCPagoDeCuota.frm;;Falabella\CRCPagoDeCuota.frm
+Designer;acrComprobantePagoCRC.Dsr;;Reportes\acrComprobantePagoCRC.Dsr
+Form;REXCMRRecaudacion.frm;;Falabella\REXCMRRecaudacion.frm
+Form;REXLiquidacionRecaudacion.frm;;Falabella\REXLiquidacionRecaudacion.frm
+Form;frmCJELecturaCheque.frm;;Frm\frmCJELecturaCheque.frm
+Designer;acrComprobantePagoCMR.Dsr;;Reportes\acrComprobantePagoCMR.Dsr
+Class;cCheques.cls;cCheque;Falabella\Clases Cheque\cCheques.cls
+Form;LCCRefinanAbono.frm;;Falabella\LCCRefinanAbono.frm
+Designer;acrComprobantePagoLCD.Dsr;;Reportes\acrComprobantePagoLCD.Dsr
+Class;CUsuario.cls;CUsuario;Cls\CUsuario.cls
+Class;CJournal.cls;CJournal;Cls\CJournal.cls
+Class;CMonto.cls;CMonto;Cls\CMonto.cls
+Designer;repPlanillaCuadraturaDeCaja.DSR;;Reportes\repPlanillaCuadraturaDeCaja.DSR
+Form;mdiPrincipal.Frm;;Frm\mdiPrincipal.Frm
+Form;CJARemesaEnvio.frm;;Frm\CJARemesaEnvio.frm
+Form;CJARemesaRecepcion.frm;;Frm\CJARemesaRecepcion.frm
+Form;CJAEntregaCaja.frm;;Frm\CJAEntregaCaja.frm
+Designer;repDetalleTransacciones.Dsr;;Reportes\repDetalleTransacciones.Dsr
+Module;ImplementacionDeTransaccionesFueraDeLinea.bas;ImplementacionDeTransaccionesFueraDeLinea;Bas\ImplementacionDeTransaccionesFueraDeLinea.bas
+Module;omegafin2.bas;RutinasFinancieras;Bas\omegafin2.bas
+Form;CJAAdministradorDeCajas.frm;;Frm\CJAAdministradorDeCajas.frm
+Form;CLIPagoMultiple.frm;;Falabella\CLIPagoMultiple.frm
+Class;cVencimientos.cls;cVencimientos;Cls\cVencimientos.cls
+Form;CJASolicitudPrivilegio.frm;;Frm\CJASolicitudPrivilegio.frm
+Designer;repCanjeOficina.Dsr;;Reportes\repCanjeOficina.Dsr
+Designer;acrComprobantePagoMultiple.Dsr;;Reportes\acrComprobantePagoMultiple.Dsr
+Module;LavadoDeDinero.bas;mLavadoDeDinero;Bas\LavadoDeDinero.bas
+Designer;acrComprobanteEgresoHIP.Dsr;;Reportes\acrComprobanteEgresoHIP.Dsr
+Form;HIPLiquidacionCredito.frm;;Falabella\HIPLiquidacionCredito.frm
+Form;HIPPagoDeCuota.frm;;Falabella\HIPPagoDeCuota.frm
+Form;HIPPrepagoMutuoHip.frm;;Falabella\HIPPrepagoMutuoHip.frm
+Form;frmHIPPagoDeCupones.frm;;Falabella\frmHIPPagoDeCupones.frm
+Form;frmHIPPagoDePagare.frm;;Falabella\frmHIPPagoDePagare.frm
+Class;cCredito.cls;cCredito;Cls\cCredito.cls
+Designer;acrComprobanteAvanceEfectivoTcr.Dsr;;Reportes\acrComprobanteAvanceEfectivoTcr.Dsr
+Designer;acrComprobantePagoTCR.Dsr;;Reportes\acrComprobantePagoTCR.Dsr
+Module;mFLDcanj.bas;mFLDcanjeFML;Bas\mFLDcanj.bas
+Module;mFLDcart.bas;mFLDcarteraFML;Bas\mFLDcart.bas
+Module;mFLDcven.bas;mFLDcvencidaFML;Bas\mFLDcven.bas
+Module;mFLDcliC.bas;mFLDcliClienteConsolidadoFML;Bas\mFLDcliC.bas
+Module;mFLDclienteFML.bas;mFLDclienteFML;Bas\mFLDclienteFML.bas
+Module;mFLDcred.bas;mFLDcreditoFML;Bas\mFLDcred.bas
+Module;mFLDdocu.bas;mFLDdocumentoValoradoFML;Bas\mFLDdocu.bas
+Module;mFLDempe.bas;mFLDempextFML;Bas\mFLDempe.bas
+Module;mFLDevap.bas;mFLDevaparamFML;Bas\mFLDevap.bas
+Module;mFLDgast.bas;mFLDgastosFML;Bas\mFLDgast.bas
+Module;mFLDherm.bas;mFLDhermesFML;Bas\mFLDherm.bas
+Module;mFLDhipo.bas;mFLDhipotecarioFML;Bas\mFLDhipo.bas
+Module;mFLDlineaCCFML.bas;mFLDlineaCCFML;Bas\mFLDlineaCCFML.bas
+Module;mFLDlineaCDFML.bas;mFLDlineaCDFML;Bas\mFLDlineaCDFML.bas
+Module;mFLDreca.bas;mFLDrecaudacionExternaFML;Bas\mFLDreca.bas
+Module;mFLDrepr.bas;mFLDreprogramacionDeDeudaFML;Bas\mFLDrepr.bas
+Module;mFLDsgtF.bas;mFLDsgtFML;Bas\mFLDsgtF.bas
+Module;mFLDtarj.bas;mFLDtarjetaCreditoFML;Bas\mFLDtarj.bas
+Module;mFLDdepo.bas;mFLDdepositoFML;Bas\mFLDdepo.bas
+Form;AhoPlazoGiro.frm;;Falabella\Frm Ahorro\AhoPlazoGiro.frm
+Form;frmAhoListaCuentas.frm;;Falabella\Frm Ahorro\frmAhoListaCuentas.frm
+Form;frmAhoPlazoDeposito.Frm;;Falabella\Frm Ahorro\frmAhoPlazoDeposito.Frm
+Form;frmAhoPlazoImpLibreta.frm;;Falabella\Frm Ahorro\frmAhoPlazoImpLibreta.frm
+Form;frmIngresoDepositoDoc.frm;;Falabella\Frm Ahorro\frmIngresoDepositoDoc.frm
+Form;frmListaCuentas.frm;;Falabella\Frm Ahorro\frmListaCuentas.frm
+Class;cAhorroPlazo.Cls;cAhorroPlazo;Falabella\Clases Ahorro\cAhorroPlazo.Cls
+Class;Clasetex.cls;ClaseTextBox;Falabella\Clases Ahorro\Clasetex.cls
+Class;Combo.cls;cCombo;Falabella\Clases Ahorro\Combo.cls
+Module;AhoPlazoFunciones.Bas;AhoPlazoFunciones;Falabella\Modulos Ahorro\AhoPlazoFunciones.Bas
+Module;AhoPlazoRutinas.Bas;AhoPlazoRutinas;Falabella\Modulos Ahorro\AhoPlazoRutinas.Bas
+Module;AhoPlazoTiposUsuario.bas;AhoPlazoTiposUsuario;Falabella\Modulos Ahorro\AhoPlazoTiposUsuario.bas
+Module;mFLDahor.bas;mFLDahorroPlazoFML;Bas\mFLDahor.bas
+Module;ItBase.bas;mItBase;Bas\ItBase.bas
+Module;Itf.bas;mItf;Bas\Itf.bas
+Module;Itio.bas;mItio;Bas\Itio.bas
+Module;Itp.bas;mItp;Bas\Itp.bas
+Module;Itq.bas;mItq;Bas\Itq.bas
+Module;Its.bas;mIts;Bas\Its.bas
+Module;XBase.bas;mXBase;Bas\XBase.bas
+Form;CLIVerificacionHuella.frm;;Falabella\CLIVerificacionHuella.frm
+Form;TCRPagoEstadoCuenta.frm;;Falabella\TCRPagoEstadoCuenta.frm
+Class;cClienteBanco.cls;cClienteBanco;Falabella\Clases Cliente\cClienteBanco.cls
+Designer;acrComprobanteGiroTCR.Dsr;;Reportes\acrComprobanteGiroTCR.Dsr
+Designer;acrComprobantePagoDolarTCR.Dsr;;Reportes\acrComprobantePagoDolarTCR.Dsr
+Class;DSR200.cls;cDSR200;Cls\DSR200.cls
+Form;frmAhoFirma.frm;;Falabella\Frm Ahorro\frmAhoFirma.frm
+Module;mFirmaCliente.bas;mFirmaCliente;Bas\mFirmaCliente.bas
+Form;frmAnulacionRemora.frm;;Falabella\Registos Remotos\frmAnulacionRemora.frm
+Form;frmEnvioDeRemesaRemoto.frm;;Falabella\Registos Remotos\frmEnvioDeRemesaRemoto.frm
+Form;CJAAnticipoDePersonalPorComision.frm;;Frm\CJAAnticipoDePersonalPorComision.frm
+Designer;acrComprobanteAnticipoComision.Dsr;;Reportes\acrComprobanteAnticipoComision.Dsr
+Designer;acrComprobanteIntercambioDivisa.Dsr;;Reportes\acrComprobanteIntercambioDivisa.Dsr
+Form;CJEDesgloseDocumento.frm;;Falabella\CJEDesgloseDocumento.frm
+Module;mFLDcuen.bas;mFLDcuentaCorrienteFML;Falabella\Modulos Cuenta Corriente\mFLDcuen.bas
+Form;frmCJELecturaValeVista.frm;;Frm\frmCJELecturaValeVista.frm
+Form;CLIFirmaDigital.frm;;Falabella\CLIFirmaDigital.frm
+Module;WinApi32.bas;mWinApi32;Bas\WinApi32.bas
+Form;frmCJELecturaDAP.frm;;Frm\frmCJELecturaDAP.frm
+Form;CJEDetalleDesgloseDocumento.frm;;Falabella\CJEDetalleDesgloseDocumento.frm
+Form;frmCJEDesgloseModificarCantidadDocumentos.frm;;Falabella\frmCJEDesgloseModificarCantidadDocumentos.frm
+Form;CLIFotografia.frm;;Falabella\CLIFotografia.frm
+Form;CJAEgresoBancaInversiones.frm;;Falabella\CJAEgresoBancaInversiones.frm
+Form;CJEInfIdentificadorDeLote.frm;;Falabella\CJEInfIdentificadorDeLote.frm
+Designer;repCanjeIdentificadorDeLote.Dsr;;Reportes\repCanjeIdentificadorDeLote.Dsr
+Form;CJAIngresoBancaInversiones.Frm;;Falabella\CJAIngresoBancaInversiones.Frm
+Designer;comprobante ingreso provision convenio.Dsr;;Falabella\reportes de gastos\comprobante ingreso provision convenio.Dsr
+Module;mFLDcaja.bas;mFLDcajaFML;Bas\mFLDcaja.bas
+Module;mValidacionHuella.bas;mValidacionHuella;Bas\mValidacionHuella.bas
+Class;CTerminal.cls;CTerminal;Cls\CTerminal.cls
+Form;CjaIngresoMotivo.frm;;Frm\CjaIngresoMotivo.frm
+Class;DefinicionDeTransaccion.cls;CDefinicionTrx;Cls\DefinicionDeTransaccion.cls
+Form;LCCActivacionDeGiro.Frm;;Falabella\LCCActivacionDeGiro.Frm
+Form;LCCRefinanGiro.frm;;Falabella\LCCRefinanGiro.frm
+Form;RDDLiquidacionReprogramacionDeDeuda.frm;;Falabella\RDDLiquidacionReprogramacionDeDeuda.frm
+Form;TCRAvanceEnEfec.frm;;Falabella\TCRAvanceEnEfec.frm
+Form;TCRGiroEnCuotas.frm;;Falabella\TCRGiroEnCuotas.frm
+Class;cReinversion.cls;cReinversion;Falabella\Clases Deposito\cReinversion.cls
+Form;frmCJELecturaDocumentos.frm;;Frm\frmCJELecturaDocumentos.frm
+Class;cCustodia.cls;cCustodia;Cls\cCustodia.cls
+Form;CJALiquidacionVentaDivisa.frm;;Frm\CJALiquidacionVentaDivisa.frm
+Class;cCuota.cls;cCuota;Cls\cCuota.cls
+Designer;repControlSaldosDiarios.Dsr;;Reportes\repControlSaldosDiarios.Dsr
+Form;CJASaldoSucursal.frm;;Frm\CJASaldoSucursal.frm
+Class;cTarjetaCredito.cls;cTarjetaCredito;Cls\cTarjetaCredito.cls
+Module;Control_ODBC.bas;Control_ODBC;Bas\Control_ODBC.bas
+Form;FrmReversaPagoCmr.frm;;Frm\FrmReversaPagoCmr.frm
+Form;frmTransaccionesRemotas.frm;;Falabella\Registos Remotos\frmTransaccionesRemotas.frm
+Class;cDocumentoCMR.cls;cDocumentoCMR;Cls\cDocumentoCMR.cls
+Designer;repDetalleTransaccionesCMR.Dsr;;Reportes\repDetalleTransaccionesCMR.Dsr
+Module;mFLDtran.bas;mFLDtransferenciaFML;Bas\mFLDtran.bas
+Form;CCTDepositoEnDocumentosCta.frm;;Falabella\CCTDepositoEnDocumentosCta.frm
+Form;CCTDepositoEnDocumentosLin.frm;;Falabella\CCTDepositoEnDocumentosLin.frm
+Form;CCTDepositoEnEfectivoCta.frm;;Falabella\CCTDepositoEnEfectivoCta.frm
+Form;CCTDepositoEnEfectivoLin.frm;;Falabella\CCTDepositoEnEfectivoLin.frm
+Form;CCTGiroCuentaCorriente.frm;;Falabella\CCTGiroCuentaCorriente.frm
+Form;CCTPagoCheque.frm;;Falabella\CCTPagoCheque.frm
+Form;CCTProtestoCheque.frm;;Falabella\CCTProtestoCheque.frm
+Form;CJAIngresoEgresoCProt.frm;;Frm\CJAIngresoEgresoCProt.frm
+Form;AHORemesa.frm;;Falabella\Frm Ahorro\AHORemesa.frm
+Class;cRemesa.cls;cRemesa;Falabella\Clases Ahorro\cRemesa.cls
+Designer;repComprobanteUnicoDepositoAbono.Dsr;;Reportes\repComprobanteUnicoDepositoAbono.Dsr
+Designer;repComprobanteUnicoGirodeCuentasDsr.Dsr;;Reportes\repComprobanteUnicoGirodeCuentasDsr.Dsr
+Form;frmTCRInfSolcitudTarjetaCredito.frm;;Falabella\frmTCRInfSolcitudTarjetaCredito.frm
+Designer;acrSolicitudTarjetaCredito.Dsr;;Reportes\acrSolicitudTarjetaCredito.Dsr
+Form;CRCActivacion.Frm;;Falabella\CRCActivacion.Frm
+Form;CCTPagoChequeEmpresa.frm;;Falabella\CCTPagoChequeEmpresa.frm
+Class;cCreditoLcc.cls;cCreditoLcc;Cls\cCreditoLcc.cls
+Class;Factura.Cls;CFactura;Cls\Factura.Cls
+Class;cPrepagoCredito.cls;cPrepagoCredito;Cls\cPrepagoCredito.cls
+Form;DesgloseMoneda.frm;;Frm\DesgloseMoneda.frm
+Form;CierreDeDia.Frm;;Frm\CierreDeDia.Frm
+Class;cDesgloseEfectivo.cls;cDesgloseEfectivo;Cls\cDesgloseEfectivo.cls
+Designer;repPlanillaCuadraturaDeCajaUniversal.Dsr;;Reportes\repPlanillaCuadraturaDeCajaUniversal.Dsr
+Form;frmCMRConsultaDeudaDisponible.frm;;Falabella\frmCMRConsultaDeudaDisponible.frm
+Form;frmCMRPagoTarjeta.frm;;Falabella\frmCMRPagoTarjeta.frm
+Form;frmCMRPrepagoSuperCash.frm;;Falabella\frmCMRPrepagoSuperCash.frm
+Form;frmCMRRetiroSuperCash.frm;;Falabella\frmCMRRetiroSuperCash.frm
+Module;CMRRutinas.bas;CMRRutinas;Falabella\ModulosCMR\CMRRutinas.bas
+Class;cIdentificacion.cls;cIdentificacion;Cls\cIdentificacion.cls
+Class;cTarjetaCMR.cls;cTarjetaCMR;Falabella\clasesCMR\cTarjetaCMR.cls
+Designer;acrCMRPeruComprobantePagoCreditosVarios.Dsr;;Reportes\acrCMRPeruComprobantePagoCreditosVarios.Dsr
+Designer;acrCMRPeruComprobanteRetiroRapicash.Dsr;;Reportes\acrCMRPeruComprobanteRetiroRapicash.Dsr
+Designer;acrCMRPeruComprobanteRetiroSupercash.Dsr;;Reportes\acrCMRPeruComprobanteRetiroSupercash.Dsr
+Designer;acrCMRPeruComprobantePrepagoSuperCash.Dsr;;Reportes\acrCMRPeruComprobantePrepagoSuperCash.Dsr
+Designer;acrCMRPeruComprobantePagoCuotaInicial.Dsr;;Reportes\acrCMRPeruComprobantePagoCuotaInicial.Dsr
+Class;cTransaccionCMR.cls;cTransaccionCMR;Cls\cTransaccionCMR.cls
+Module;mFLDtarjCja.bas;mFLDtarjetaCajaFML;Bas\mFLDtarjCja.bas
+Form;CLIOperacionesConsolidadasOtro.frm;;Falabella\CLIOperacionesConsolidadasOtro.frm
+Module;mFLDhipoIssac.bas;mFLDhipotecarioissacFML;Bas\mFLDhipoIssac.bas
+Designer;acrCMRPeruComprobantePago.Dsr;;Reportes\acrCMRPeruComprobantePago.Dsr
+Form;CARRecaudacionExterna.frm;;Falabella\CARRecaudacionExterna.frm
+Form;DEPDevolucionCheque.frm;;Falabella\DEPDevolucionCheque.frm
+Form;DEPEmitirPagare.frm;;Falabella\DEPEmitirPagare.frm
+Form;DEPLiquidacionDeposito.frm;;Falabella\DEPLiquidacionDeposito.frm
+Form;DEPNuevoDeposito.frm;;Falabella\DEPNuevoDeposito.frm
+Form;DEPReinversionDeposito.frm;;Falabella\DEPReinversionDeposito.frm
+Form;DVAEmisionValeVistaATerceros.frm;;Falabella\DVAEmisionValeVistaATerceros.frm
+Form;DVAIngresoValeVistaATerceros.frm;;Falabella\DVAIngresoValeVistaATerceros.frm
+Class;cParametroCaja.cls;cParametroCaja;Cls\cParametroCaja.cls
+Form;Opciones.frm;;Frm\Opciones.frm
+Form;frmDepositoChequesRecibidos.frm;;Falabella\frmDepositoChequesRecibidos.frm
+Form;frmCJAIngEgrATM.frm;;Frm\frmCJAIngEgrATM.frm
+Class;cMontoMaximo.cls;cMontoMaximo;Cls\cMontoMaximo.cls
+Designer;repDocumentoMayorCuantia.Dsr;;Reportes\repDocumentoMayorCuantia.Dsr
+Designer;repDesgloseEfectivo.Dsr;;Reportes\repDesgloseEfectivo.Dsr
+Form;CJAIntercambioDivisa.frm;;Frm\CJAIntercambioDivisa.frm
+Form;frmHipIssacPagoCuota.frm;;Falabella\frmHipIssacPagoCuota.frm
+Form;frmHipIssacPrePagoCuota.frm;;Falabella\frmHipIssacPrePagoCuota.frm
+Designer;repDetalleMontoMayorCuantia.Dsr;;Reportes\repDetalleMontoMayorCuantia.Dsr
+Designer;repCanjeDocumentos.Dsr;;Reportes\repCanjeDocumentos.Dsr
+Form;frmCjeSeleccionCheque.frm;;Frm\frmCjeSeleccionCheque.frm
+Form;frmCjaConsultaTraspaso.frm;;Frm\frmCjaConsultaTraspaso.frm
+Form;frmCMRPagoCero.frm;;Falabella\frmCMRPagoCero.frm
+Form;frmCMRRetiroRapicash.frm;;Falabella\frmCMRRetiroRapicash.frm
+Form;frmCMRSeguroSOAT.frm;;Falabella\frmCMRSeguroSOAT.frm
+Form;frmCMRViajesFalabella.frm;;Falabella\frmCMRViajesFalabella.frm
+Designer;repPlanillaTransaccionesTarjetaCMR.Dsr;;Reportes\repPlanillaTransaccionesTarjetaCMR.Dsr
+Class;cSeguro.cls;cSeguro;Cls\cSeguro.cls
+Module;mFLDdocValoCMRPeru.bas;mFLDdocValoradoCMRPeruFML;Bas\mFLDdocValoCMRPeru.bas
+Form;frmModificacionNombre.frm;;Frm\frmModificacionNombre.frm
+Form;frmSOLActivacionTarjeta.frm;;Falabella\frmSOLActivacionTarjeta.frm
+Module;mFLDvissFML.bas;mFLDvissFML;Bas\mFLDvissFML.bas
+Form;frmSOLAvanceTarjeta.frm;;Frm\Tarjeta\frmSOLAvanceTarjeta.frm
+Form;frmSOLPagoTarjeta.frm;;Frm\Tarjeta\frmSOLPagoTarjeta.frm
+Class;cTarjetaVISSAT.cls;cTarjetaVISSAT;Cls\cTarjetaVISSAT.cls
+Module;RutinasVissatAdquirente.bas;mRutinasVissatAdquirente;Bas\RutinasVissatAdquirente.bas
+Form;CrcDevResguroMenos5Dias.frm;;Falabella\CrcDevResguroMenos5Dias.frm
+Form;CrcDevolucionSegMas5Dias.frm;;Frm\CrcDevolucionSegMas5Dias.frm

@@ -1,0 +1,55 @@
+Liquidación cartera Vencida;510;frmCVELiquidacion
+Abono cartera vencida;500;frmCVEAbono
+Prepago;120;frmCRCPrepagoCredito
+Pago cuota;110;frmCRCPagoDeCuota
+Traspaso desde caja;18;frmCJARemesaRecepcion
+Traspaso hacia caja;20;frmCJARemesaEnvio
+Sobrante de Caja;12;frmCJASobranteFaltanteDeCaja
+Recepción del terminal de caja;25;frmAperturaDeDia
+Recepción de Remesa;28;frmCJARemesaRecepcion
+Ingreso de Tesorería;30;frmCJAIngresoTesoreriaGeneral
+Faltante de Caja;10;frmCJASobranteFaltanteDeCaja
+Envío de Remesa;26;frmCJARemesaEnvio
+Entrega del terminal de caja;24;frmCierreDeDia
+Egreso múltiple;16;frmCJAIngresoEgresoMultiple
+Ajuste total contable;22;frmCierreDeDia
+Apertura de día;2;frmAperturaDeDia
+Cierre de día;4;frmCierreDeDia
+Ajuste de totales C a Local;23;frmCierreDeDia
+Ajuste de total contable;22;frmCierreDeDia
+Apertura de día;2;frmAperturaDeDia
+Cierre de día;4;frmCierreDeDia
+Faltante de Caja;9;frmCJASobranteFaltanteDeCaja
+Sobrante de Caja;12;frmCJASobranteFaltanteDeCaja
+Traspaso desde caja;18;frmCJARemesaRecepcion
+Traspaso hacia caja;20;frmCJARemesaEnvio
+Envío de Remesa;26;frmCJARemesaEnvio
+Recepción de Remesa;28;frmCJARemesaRecepcion
+Entrega del terminal de caja;24;frmCierreDeDia
+Recepción del terminal de caja;25;frmAperturaDeDia
+Apertura de día;2;frmAperturaDeDia
+Cierre de día;4;frmCierreDeDia
+Traspaso desde caja;18;frmCJARemesaRecepcion
+Traspaso hacia caja;20;frmCJARemesaEnvio
+Liquidación de crédito;100;frmCRCActivacionCredito
+Pago de cuota;110;frmCRCPagoDeCuota
+Prepago;120;frmCRCPrepagoCredito
+Entrega del terminal de caja;24;frmCierreDeDia
+Recepción del terminal de caja;25;frmAperturaDeDia
+Liquidación cartera Vencida;510;frmCVELiquidacion
+Abono cartera vencida;500;frmCVEAbono
+Liquidación Normal o con abono;600;frmRDDLiquidacionReprogramacionDeDeuda
+Liquidación con giro Reprogración;610;frmRDDLiquidacionReprogramacionDeDeuda
+Pago de Tarjeta de Crédito;2000;frmSOLPagoTarjeta
+Saldo Tarjeta de crédito;2010;frmTCRConsultaDeudaDisponible
+Avance en efectivo TC;1210;frmTCRGiroEnCuotas
+Devolución Seguros Credito < 5 días;140;frmCrcDevResguroMenos5Dias
+Devolución Seguros Credito > 5 días;150;frmDevolucionSegMas5Dias
+Transaciones;-1;frmTransacciones
+Menu;-2;frmGrupo
+Producto;-3;frmProducto
+Medio Pago;-4;frmMediodePago
+Desglose Efectivo;-5;frmDesgloseMoneda
+Saldo Sucursal;-6;frmCJASaldoSucursal
+Aprobación de solicitudes;99;frmCJASolicitudPrivilegio
+Anular transacciones;1392;frmQuickSend

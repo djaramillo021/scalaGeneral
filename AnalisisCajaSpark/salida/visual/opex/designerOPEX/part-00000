@@ -1,0 +1,37 @@
+repPlanillaTransaccionesTarjetaCMR.Dsr;false
+repCanjeDocumentos.Dsr;true
+repDetalleMontoMayorCuantia.Dsr;true
+repDesgloseEfectivo.Dsr;true
+repDocumentoMayorCuantia.Dsr;true
+acrCMRPeruComprobantePago.Dsr;false
+acrCMRPeruComprobantePagoCuotaInicial.Dsr;false
+acrCMRPeruComprobantePrepagoSuperCash.Dsr;false
+acrCMRPeruComprobanteRetiroSupercash.Dsr;false
+acrCMRPeruComprobanteRetiroRapicash.Dsr;false
+acrCMRPeruComprobantePagoCreditosVarios.Dsr;false
+repPlanillaCuadraturaDeCajaUniversal.Dsr;false
+acrSolicitudTarjetaCredito.Dsr;false
+repComprobanteUnicoGirodeCuentasDsr.Dsr;true
+repComprobanteUnicoDepositoAbono.Dsr;true
+repDetalleTransaccionesCMR.Dsr;true
+repControlSaldosDiarios.Dsr;true
+comprobante ingreso provision convenio.Dsr;true
+repCanjeIdentificadorDeLote.Dsr;true
+acrComprobanteIntercambioDivisa.Dsr;false
+acrComprobanteAnticipoComision.Dsr;true
+acrComprobantePagoDolarTCR.Dsr;true
+acrComprobanteGiroTCR.Dsr;true
+acrComprobantePagoTCR.Dsr;true
+acrComprobanteAvanceEfectivoTcr.Dsr;true
+acrComprobanteEgresoHIP.Dsr;false
+acrComprobantePagoMultiple.Dsr;true
+repCanjeOficina.Dsr;true
+repDetalleTransacciones.Dsr;true
+repPlanillaCuadraturaDeCaja.DSR;false
+acrComprobantePagoLCD.Dsr;false
+acrComprobantePagoCMR.Dsr;false
+acrComprobantePagoCRC.Dsr;false
+acrComprobantePagoLCC.Dsr;false
+repComprobanteIngresoEgresoDocProt.Dsr;true
+comprobante ingreso provision.Dsr;true
+repComprobanteEmpRelacionada.Dsr;true

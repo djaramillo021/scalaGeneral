@@ -1,0 +1,81 @@
+repCanjeIdentificadorDeLote.Dsr;Boolean
+repDocumentoMayorCuantia.Dsr;String
+repDetalleTransacciones.Dsr;Variant
+repDetalleTransaccionesCMR.Dsr;Integer
+repDocumentoMayorCuantia.Dsr;Long
+repDesgloseEfectivo.Dsr;Integer
+repDetalleMontoMayorCuantia.Dsr;Long
+repCanjeIdentificadorDeLote.Dsr;Collection
+repCanjeIdentificadorDeLote.Dsr;New cDocumento
+repCanjeIdentificadorDeLote.Dsr;Integer
+repCanjeIdentificadorDeLote.Dsr;String
+repCanjeDocumentos.Dsr;Boolean
+repControlSaldosDiarios.Dsr;Date
+repCanjeDocumentos.Dsr;Collection
+repCanjeIdentificadorDeLote.Dsr;New Collection
+repDocumentoMayorCuantia.Dsr;CMoneda
+repControlSaldosDiarios.Dsr;tSaldoSucursal
+repDesgloseEfectivo.Dsr;Boolean
+repCanjeOficina.Dsr;CMoneda
+repDetalleTransaccionesCMR.Dsr;String
+repDetalleMontoMayorCuantia.Dsr;CTerminal
+repDesgloseEfectivo.Dsr;CMoneda
+repDetalleMontoMayorCuantia.Dsr;Double
+repDetalleTransaccionesCMR.Dsr;Long
+repDocumentoMayorCuantia.Dsr;Boolean
+repDesgloseEfectivo.Dsr;New CMensajes
+repDetalleTransaccionesCMR.Dsr;Variant
+repDetalleTransacciones.Dsr;CMoneda
+repDetalleTransacciones.Dsr;New CMensajes
+repCanjeIdentificadorDeLote.Dsr;Date
+repDetalleTransacciones.Dsr;Long
+repDetalleMontoMayorCuantia.Dsr;New Collection
+repDocumentoMayorCuantia.Dsr;Integer
+repDesgloseEfectivo.Dsr;CTerminal
+repDetalleTransaccionesCMR.Dsr;Collection
+repCanjeOficina.Dsr;Boolean
+repCanjeOficina.Dsr;Integer
+repCanjeDocumentos.Dsr;Date
+repDocumentoMayorCuantia.Dsr;CTerminal
+repCanjeDocumentos.Dsr;cCheque
+repDetalleTransaccionesCMR.Dsr;CTerminal
+repDesgloseEfectivo.Dsr;cDesgloseEfectivo
+repCanjeDocumentos.Dsr;New Collection
+repCanjeDocumentos.Dsr;Recordset
+repDetalleTransacciones.Dsr;CTerminal
+repCanjeOficina.Dsr;String
+repDetalleTransacciones.Dsr;cDocumento
+repControlSaldosDiarios.Dsr;Integer
+repDetalleMontoMayorCuantia.Dsr;Boolean
+repCanjeDocumentos.Dsr;New cDocumento
+repDocumentoMayorCuantia.Dsr;Double
+repDesgloseEfectivo.Dsr;New Collection
+repDetalleMontoMayorCuantia.Dsr;Integer
+repCanjeIdentificadorDeLote.Dsr;cDocumento
+repDocumentoMayorCuantia.Dsr;New Collection
+repCanjeDocumentos.Dsr;CMoneda
+repDesgloseEfectivo.Dsr;Double
+repDetalleTransaccionesCMR.Dsr;CMoneda
+repDocumentoMayorCuantia.Dsr;New CMensajes
+repDetalleMontoMayorCuantia.Dsr;CMoneda
+repCanjeOficina.Dsr;Date
+repDetalleTransacciones.Dsr;String
+repDesgloseEfectivo.Dsr;String
+repCanjeIdentificadorDeLote.Dsr;CMoneda
+repDetalleTransacciones.Dsr;tDetalleTransacciones
+repCanjeDocumentos.Dsr;CTerminal
+repCanjeIdentificadorDeLote.Dsr;New CMensajes
+repControlSaldosDiarios.Dsr;Boolean
+repDetalleMontoMayorCuantia.Dsr;New CMensajes
+repDetalleTransacciones.Dsr;Integer
+repDesgloseEfectivo.Dsr;Long
+repCanjeOficina.Dsr;tResumenCanje
+repDetalleTransacciones.Dsr;Boolean
+repDetalleTransaccionesCMR.Dsr;Boolean
+repDetalleMontoMayorCuantia.Dsr;String
+repCanjeDocumentos.Dsr;String
+repDetalleMontoMayorCuantia.Dsr;cMontoMaximo
+repDetalleTransaccionesCMR.Dsr;New CMensajes
+repCanjeDocumentos.Dsr;Variant
+repDocumentoMayorCuantia.Dsr;cMontoMaximo
+repCanjeDocumentos.Dsr;Integer

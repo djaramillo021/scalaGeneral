@@ -1,0 +1,16 @@
+cReprogramacion; tCuota
+cCredito; tSubProducto
+CTerminal; tPosicion
+CUsuario; tPosicion
+CGrupo;Of datos
+cReprogramacion; tSubProducto
+cClienteBanco; tMiniEvaluacion
+cClienteBanco; tEnrolamiento
+CDefinicionTrx;Of datos
+cCredito; tSolicitudCRC
+cOperacionCredito; tCreditoLineaCredito
+cReprogramacion; tSolicitudRDD
+CMoneda;Of datos
+cParametroCaja;Of datos
+cCredito; tParidad
+cReprogramacion; tCredito

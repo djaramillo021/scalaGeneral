@@ -1,0 +1,2001 @@
+mdiPrincipal.Frm;New frmReinyeccion
+RDDLiquidacionReprogramacionDeDeuda.frm;String
+frmEnvioDeRemesaRemoto.frm;CTransaccion
+CLIPagoMultiple.frm;New cDocumento
+MediodePago.frm;Integer
+CRCPagoDeCuota.frm;Double
+CARPagoCompraCartera.frm;Double
+Reinyeccion32.Frm;ListItem
+frmCMRPagoTarjeta.frm;cTarjetaCMR
+CLIOperacionesConsolidadasOtro.frm;New frmCLIFotografia
+CARRecaudacionExterna.frm;frmCJELecturaValeVista
+MediodePago.frm;ColumnHeader
+CJARecepcionDeImpuestos.Frm;cDocumento
+frmCJELecturaCheque.frm;Printer
+mdiPrincipal.Frm;Date
+TCRGiroEnCuotas.frm;Integer
+DEPLiquidacionDeposito.frm;CMoneda
+AhoPlazoGiro.frm;New cAhorroPlazo
+DEPDevolucionCheque.frm;String
+frmAhoPlazoDeposito.Frm;String *
+CRCPrepagoCredito.frm;Boolean
+LCCPrepagoLinea.frm;frmCJELecturaDocumentos
+CRCPagoDeCuota.frm;Object
+frmCMRRetiroRapicash.frm;tVerificacionHuellaDigital
+CJAIngresoBancaInversiones.Frm;CMoneda
+frmCMRViajesFalabella.frm;cTransaccionCMR
+DEPNuevoDeposito.frm;New Clientes.cClienteEmpresa
+MediodePago.frm;Long
+Producto.frm;cServicio
+LCCPagoEstadoDeCuenta.frm;cDocumento
+CRCPrepagoCredito.frm;CMoneda
+TCRGiroEnCuotas.frm;New CMensajes
+CJAIngresoBancaInversiones.Frm;Integer
+frmTransacciones.frm;New CMensajes
+LCDPagoEstadoDeCuenta.frm;frmCJELecturaDocumentos
+CJEDetalleDesgloseDocumento.frm;New CMoneda
+HIPPrepagoMutuoHip.frm;tMediosDePago
+CJARemesaEnvio.frm;Long
+CJASaldoSucursal.frm;Boolean
+frmGTOIngresoCtaGastos.frm;Double
+frmAhoPlazoDeposito.Frm;Double
+DVAIngresoValeVistaATerceros.frm;CDefinicionTrx
+DEPDevolucionCheque.frm;New cMedioEntrega
+frmGTOIngresoCtaGastos.frm;New cDocumento
+DVAEmisionValeVistaATerceros.frm;CDefinicionTrx
+CJACancelacion de ValeVista.frm;New cDocumento
+CLIOperacionesConsolidadasOtro.frm;Form
+REXCMRRecaudacion.frm;frmCJELecturaCheque
+frmGTOIngresoCtaGastos.frm;New CTransaccion
+CLIVencimientosConsolidados.frm;Double
+frmCMRViajesFalabella.frm;Printer
+frmTransaccionesRemotas.frm;Long
+CCTProtestoCheque.frm;New frmCLIFirmaDigital
+frmCMRRetiroSuperCash.frm;Long
+CCTDepositoEnDocumentosLin.frm;tLINEASOBREGIRO
+CRCPagoDeCuota.frm;Recordset
+LCCRefinanGiro.frm;CDefinicionTrx
+frmCMRPagoCero.frm;String
+CJAAdministradorDeCajas.frm;New CTerminal
+frmTransaccionesRemotas.frm;Integer
+frmCMRPagoCero.frm;Double
+frmCJELecturaDocumentos.frm;String
+CjaIngresoMotivo.frm;String
+CLIOperacionesConsolidadasOtro.frm;Long
+frmGTODevolucionCtaGastos.frm;New Clientes.cCliente
+frmCjeSeleccionCheque.frm;Collection
+Opciones.frm;Printer
+frmListaCuentas.frm;String
+frmCMRRetiroSuperCash.frm;cCliente
+CJARecepcionDeImpuestos.Frm;New Collection
+CLIVencimientosConsolidados.frm;MSComctlLib.ListItem
+frmCMRConsultaDeudaDisponible.frm;cDocumento
+LCCRefinanAbono.frm;CTransaccion
+CJACancelacion de ValeVista.frm;CMoneda
+CJEDetalleDesgloseDocumento.frm;Long
+frmCJELecturaDAP.frm;New frmCLIFirmaDigital
+CARPagoCompraCartera.frm;Integer
+CLIInformacionComplementariaCliente.frm;cOperacionCredito
+frmHipIssacPagoCuota.frm;Boolean
+REXCMRRecaudacion.frm;Long
+CCTDepositoEnDocumentosLin.frm;frmCJELecturaDAP
+CLIInformacionComplementariaCliente.frm;tParametrosLcc
+frmGTODevolucionCtaGastos.frm;tMediosDePago
+CCTProtestoCheque.frm;frmCJELecturaCheque
+frmHIPPagoDeCupones.frm;cSolicitudDeEmision
+frmCJELecturaDocumentos.frm;frmCJELecturaDAP
+LCDPrepagoLinea.frm;New cDocumento
+DVAEmisionValeVistaATerceros.frm;String
+frmEnvioDeRemesaRemoto.frm;CMoneda
+CCTPagoChequeEmpresa.frm;tCHEQUE
+CJAOrdenDePagoINP.Frm;CMoneda
+CCTPagoCheque.frm;idFoto
+RDDLiquidacionReprogramacionDeDeuda.frm;Date
+LCDPrepagoLinea.frm;Double
+Reinyeccion32.Frm;Boolean
+CJAAdministradorDeCajas.frm;cBanco
+frmCMRPagoTarjeta.frm;New cDocumento
+CCTPagoCheque.frm;New Collection
+frmGTOIngresoProvConvenio.frm;New CMoneda
+CCTDepositoEnEfectivoLin.frm;CTransaccion
+LCCPagoEstadoDeCuenta.frm;Object
+frmHIPPagoDePagare.frm;String
+frmCMRRetiroRapicash.frm;Long
+REXCMRRecaudacion.frm;CTransaccion
+CJAIngresoBancaInversiones.Frm;tMotivoEgreso
+TCRGiroEnCuotas.frm;cCredito
+CJAIngresoBancaInversiones.Frm;String
+frmHipIssacPagoCuota.frm;New cCheque
+CLIFirmaDigital.frm;Long
+DEPDevolucionCheque.frm;New cCorte
+CLIOperacionesConsolidadas.frm;New CMensajes
+frmHIPPagoDePagare.frm;New CMensajes
+mdiPrincipal.Frm;frmCLIOperacionesConsolidadas
+CJASobranteFaltanteDeCaja.Frm;Integer
+frmCMRPagoCero.frm;Boolean
+CJAIngresoEgresoCProt.frm;Long
+mdiPrincipal.Frm;tPreferencias
+AperturaDeDia.Frm;tPosicion
+frmAhoPlazoDeposito.Frm;CMoneda
+CJEDesgloseDocumento.frm;New frmCJEDesgloseModificarCantidadDocumentos
+frmCMRRetiroRapicash.frm;String
+CJAEgresoBancaInversiones.frm;Double
+frmCMRConsultaDeudaDisponible.frm;New Collection
+LCCPrepagoLinea.frm;CMoneda
+frmCMRPrepagoSuperCash.frm;tMediosDePago
+CVELiquidacion.frm;Double
+CVEAbono.frm;New CMoneda
+frmTransaccionesRemotas.frm;Collection
+CJALiquidacionVentaDivisa.frm;MSComctlLib.ListItem
+REXLiquidacionRecaudacion.frm;Integer
+frmCMRConsultaDeudaDisponible.frm;Integer
+frmCJELecturaValeVista.frm;TextBox
+CCTDepositoEnEfectivoCta.frm;New comprobanteUnicoDepositoAbono
+CVEAbono.frm;cDocumento
+frmDepositoChequesRecibidos.frm;CMoneda
+Grupo.frm;New CMensajes
+LCCActivacionDeGiro.Frm;Long
+RegistroTrx32.frm;Recordset
+frmGTODevolucionConvenio.frm;cSolicitudDeEmision
+Grupo.frm;cServicio
+RDDLiquidacionReprogramacionDeDeuda.frm;frmCJELecturaCheque
+CJAOrdenDePagoINP.Frm;Integer
+DEPEmitirPagare.frm;New cOperacion
+CRCPagoDeCuota.frm;New CMensajes
+CLIPagoMultiple.frm;New Collection
+frmCMRPrepagoSuperCash.frm;cTarjetaVISSAT
+CRCPrepagoCredito.frm;Collection
+Reinyeccion32.Frm;Variant
+CLIOperacionesConsolidadasOtro.frm;frmCLIInformacionComplementariaCliente
+CRCPagoDeCuota.frm;New cAhorroPlazo
+frmCMRPagoTarjeta.frm;Collection
+DEPDevolucionCheque.frm;Double
+DVAEmisionValeVistaATerceros.frm;MSComctlLib.ListItem
+DEPDevolucionCheque.frm;New cProtesto
+frmCjaConsultaTraspaso.frm;CUsuario
+CJALiquidacionVentaDivisa.frm;New CMensajes
+CJAIntercambioDivisa.frm;cDocumento
+DEPLiquidacionDeposito.frm;cDocumento
+CCTDepositoEnEfectivoCta.frm;CMoneda
+frmCMRRetiroRapicash.frm;Collection
+TCRPagoEstadoCuenta.frm;cClienteBanco
+CierreDeDia.Frm;cDesgloseEfectivo
+DEPLiquidacionDeposito.frm;New cOperacion
+frmHIPPagoDeCupones.frm;CMoneda
+frmCMRPagoTarjeta.frm;New cCheque
+frmAhoPlazoDeposito.Frm;cuentaAhorroType
+frmCMRPagoCero.frm;CTransaccion
+CCTDepositoEnDocumentosLin.frm;frmCJELecturaCheque
+CJASaldoSucursal.frm;ComctlLib.ColumnHeader
+CJAIngresoTesoreriaGral.Frm;String
+frmCJELecturaDAP.frm;CMoneda
+LCCRefinanAbono.frm;New CMensajes
+LCCActivacionDeGiro.Frm;New CMensajes
+CARRecaudacionExterna.frm;CDefinicionTrx
+CJAAdministradorDeCajas.frm;String
+HIPLiquidacionCredito.frm;ListItem
+RDDLiquidacionReprogramacionDeDeuda.frm;Printer
+LCCRefinanGiro.frm;New CMensajes
+frmCMRRetiroRapicash.frm;tDetalleTarjetaCMR
+frmCMRConsultaDeudaDisponible.frm;CTransaccion
+CCTDepositoEnDocumentosLin.frm;CMoneda
+CARRecaudacionExterna.frm;frmCJELecturaCheque
+DEPEmitirPagare.frm;CDefinicionTrx
+Grupo.frm;frmGrupo
+AHORemesa.frm;Boolean
+CJAIngresoTesoreriaGral.Frm;Collection
+frmCJELecturaValeVista.frm;New frmCLIFirmaDigital
+LCDPagoEstadoDeCuenta.frm;String
+frmCJAIngEgrATM.frm;Integer
+frmSOLPagoTarjeta.frm;cCheque
+RDDLiquidacionReprogramacionDeDeuda.frm;Boolean
+CLIPagoMultiple.frm;Boolean
+DEPNuevoDeposito.frm;New Clientes.cCliente
+CJARemesaEnvio.frm;CTransaccion
+RegistroTrx32.frm;New CMedioDePago
+frmCMRSeguroSOAT.frm;New CCaja
+frmCMRConsultaDeudaDisponible.frm;CMoneda
+RegistroTrx32.frm;Descripcion
+frmAhoPlazoImpLibreta.frm;String *
+frmCJELecturaDAP.frm;Object
+frmHipIssacPrePagoCuota.frm;frmCJELecturaCheque
+frmCMRPagoTarjeta.frm;CMoneda
+TCRPagoEstadoCuenta.frm;CTransaccion
+CLIOperacionesConsolidadasOtro.frm;tOperacionConsolidada
+AhoPlazoGiro.frm;Long
+frmGTOConsultaPorRut.frm;New CMensajes
+DesgloseMoneda.frm;New CMensajes
+CLIInformacionComplementariaCliente.frm;Boolean
+CRCPrepagoCredito.frm;New CMoneda
+CJAIngresoEgresoCProt.frm;tIdentificador
+DEPReinversionDeposito.frm;New cSolicitudDeEmision
+frmCMRSeguroSOAT.frm;CTransaccion
+DVAEmisionValeVistaATerceros.frm;tDatosBeneficiario
+frmCMRRetiroSuperCash.frm;CMoneda
+CJAAdministradorDeCajas.frm;ComctlLib.Node
+mdiPrincipal.Frm;String
+CJEDetalleDesgloseDocumento.frm;Boolean
+DEPLiquidacionDeposito.frm;CTransaccion
+CRCActivacion.Frm;New Clientes.cCliente
+CCTPagoChequeEmpresa.frm;cClienteBanco
+CCTGiroCuentaCorriente.frm;String
+frmAhoPlazoImpLibreta.frm;Long
+frmAhoPlazoImpLibreta.frm;cuentaAhorroType
+CJARemesaEnvio.frm;CMoneda
+frmGTOIngresoProvConvenio.frm;cDocumento
+LCCRefinanAbono.frm;New cDocumento
+frmGTOIngresoProvConvenio.frm;New Collection
+CLIOperacionesConsolidadas.frm;Long
+CCTGiroCuentaCorriente.frm;String *
+LCDPrepagoLinea.frm;String
+frmCMRSeguroSOAT.frm;Boolean
+frmHIPPagoDeCupones.frm;New acrComprobanteEgresoHIP
+CCTDepositoEnDocumentosLin.frm;CTransaccion
+frmCjaConsultaTraspaso.frm;Boolean
+frmAnulacionRemora.frm;Integer
+CJAIngresoEgresoMultiple.Frm;Double
+CLIOperacionesConsolidadas.frm;Form
+REXCMRRecaudacion.frm;New cCheque
+frmCMRPagoCero.frm;cTransaccionCMR
+frmDepositoChequesRecibidos.frm;tBanco
+DEPDevolucionCheque.frm;CDefinicionTrx
+CJACancelacion de ValeVista.frm;Integer
+frmCJELecturaValeVista.frm;New cDocumento
+frmCJELecturaDocumentos.frm;Boolean
+DEPEmitirPagare.frm;Integer
+frmCJELecturaDocumentos.frm;Variant
+frmCMRPagoTarjeta.frm;Integer
+CJASaldoSucursal.frm;Collection
+DVAEmisionValeVistaATerceros.frm;MSComctlLib.ColumnHeader
+CRCActivacion.Frm;New CMensajes
+CVEAbono.frm;Long
+CJAIngresoEgresoMultiple.Frm;tMotivoEgreso
+CCTPagoChequeEmpresa.frm;cCheque
+frmGTOConsultaPorRut.frm;CMensajes
+DVAEmisionValeVistaATerceros.frm;Integer
+frmHipIssacPagoCuota.frm;cCheque
+CJASobranteFaltanteDeCaja.Frm;Collection
+DEPReinversionDeposito.frm;New cBeneficiarioAdicional
+CRCPrepagoCredito.frm;cValorParidad
+REXLiquidacionRecaudacion.frm;Long
+CRCActivacion.Frm;Boolean
+Grupo.frm;Integer
+CLIOperacionesConsolidadas.frm;cuentaAhorroType
+BloqueoTemporal.frm;Long
+CJAIngresoEgresoCProt.frm;Collection
+frmCjeSeleccionCheque.frm;String
+frmHIPPagoDeCupones.frm;New CMensajes
+frmAhoPlazoDeposito.Frm;cartolaAhorroType
+frmGTOIngresoCtaGastos.frm;New cValorParidad
+frmHIPPagoDePagare.frm;Integer
+frmSOLPagoTarjeta.frm;CTransaccion
+CJAIngresoEgresoMultiple.Frm;cDocumento
+frmCJELecturaCheque.frm;Variant
+CJARecepcionDeImpuestos.Frm;Double
+CJAIngresoEgresoMultiple.Frm;Boolean
+frmAhoPlazoImpLibreta.frm;Double
+RDDLiquidacionReprogramacionDeDeuda.frm;Picture
+CJAIngresoEgresoMultiple.Frm;frmCJELecturaCheque
+CJAIngresoEgresoCProt.frm;Boolean
+RegistroTrx32.frm;cImpRegTrxs
+frmTransacciones.frm;tIdentificador
+DEPLiquidacionDeposito.frm;Boolean
+LCCRefinanAbono.frm;Boolean
+CrcDevResguroMenos5Dias.frm;New cSolicitudDeEmision
+frmGTODevolucionConvenio.frm;Double
+CJAOrdenDePagoINP.Frm;New cCheque
+frmPlanillaCuadratura.frm;M
+CierreDeDia.Frm;tRemesa
+CJEDetalleDesgloseDocumento.frm;Integer
+CCTDepositoEnEfectivoCta.frm;New Clientes.cClienteEmpresa
+frmCMRPrepagoSuperCash.frm;New cDocumento
+frmCMRPagoCero.frm;Long
+frmCMRPagoTarjeta.frm;Double
+AhoPlazoGiro.frm;String
+CRCActivacion.Frm;cCredito
+DEPNuevoDeposito.frm;New cDepProducto
+HIPLiquidacionCredito.frm;CTransaccion
+CRCActivacion.Frm;Long
+CierreDeDia.Frm;tDesgloseEfectivo
+frmCJELecturaCheque.frm;MSComctlLib.ListItem
+frmEnvioDeRemesaRemoto.frm;New Collection
+LCDPrepagoLinea.frm;Boolean
+RegistroTrx32.frm;Long
+frmCMRPrepagoSuperCash.frm;frmCJELecturaDocumentos
+CARPagoCompraCartera.frm;New cDocumento
+CCTPagoChequeEmpresa.frm;Boolean
+LCCPagoEstadoDeCuenta.frm;tOperacionConsolidada
+CJAAnticipoDePersonalPorComision.frm;Boolean
+TCRGiroEnCuotas.frm;Picture
+TCRPagoEstadoCuenta.frm;New acrComprobantePagoDolarTCR
+DEPReinversionDeposito.frm;frmCJAIngresoMotivo
+frmCJELecturaDAP.frm;New cDepProducto
+LCCRefinanGiro.frm;tVerificacionHuellaDigital
+DEPNuevoDeposito.frm;New cDocumento
+frmTCRInfSolcitudTarjetaCredito.frm;tOperacionesPAC
+frmCMRSeguroSOAT.frm;Printer
+frmEnvioDeRemesaRemoto.frm;String
+frmCMRSeguroSOAT.frm;Long
+CRCActivacion.Frm;Integer
+DEPLiquidacionDeposito.frm;New Clientes.cClienteEmpresa
+AperturaDeDia.Frm;CDefinicionTrx
+CRCActivacion.Frm;Variant
+REXLiquidacionRecaudacion.frm;ignarEmpresasEnCombo cboEmpresa
+LCCPagoEstadoDeCuenta.frm;New acrComprobantePagoLCC
+frmCMRPrepagoSuperCash.frm;Picture
+CLIOperacionesConsolidadasOtro.frm;MDIForm
+DEPNuevoDeposito.frm;Long
+CRCActivacion.Frm;New cCheque
+frmCMRRetiroSuperCash.frm;New Collection
+CRCPrepagoCredito.frm;Integer
+CCTPagoCheque.frm;New frmCCTPagoChequeEmpresa
+DEPReinversionDeposito.frm;Boolean
+CARPagoCompraCartera.frm;tMediosDePago
+DEPLiquidacionDeposito.frm;New cFormaLiquidacion
+frmCJELecturaDAP.frm;New cCheque
+frmAhoPlazoImpLibreta.frm;cCliente
+frmGTODevolucionConvenio.frm;CDefinicionTrx
+LCCPagoEstadoDeCuenta.frm;CTransaccion
+frmCjaConsultaTraspaso.frm;tRemesa
+frmCMRPrepagoSuperCash.frm;Double
+LCCPagoEstadoDeCuenta.frm;tVencimiento
+CJARemesaRecepcion.frm;New CTerminal
+frmCJELecturaCheque.frm;Double
+DEPEmitirPagare.frm;New cValorParidad
+CJEDesgloseDocumento.frm;MSComctlLib.ListItem
+AcercaDe.frm;Long
+frmGTOIngresoCtaGastos.frm;cDocumento
+HIPPagoDeCuota.frm;String
+frmSOLPagoTarjeta.frm;Double
+CLIVencimientosConsolidados.frm;cVencimientos
+CJARecepcionDeImpuestos.Frm;CMoneda
+CJEInfIdentificadorDeLote.frm;Boolean
+TCRGiroEnCuotas.frm;Long
+Producto.frm;ColumnHeader
+frmCJELecturaDAP.frm;New CMoneda
+frmCMRPrepagoSuperCash.frm;String
+CLIFirmaDigital.frm;tCOMBINACIONPODER
+HIPPagoDeCuota.frm;Integer
+frmCMRViajesFalabella.frm;tDetalleTarjetaCMR
+frmCMRRetiroSuperCash.frm;tDetalleTarjetaCMR
+CLIOperacionesConsolidadasOtro.frm;Double
+AperturaDeDia.Frm;Integer
+frmSOLPagoTarjeta.frm;New cDocumento
+CCTDepositoEnDocumentosCta.frm;New Clientes.cClienteEmpresa
+frmSOLPagoTarjeta.frm;frmCJELecturaDocumentos
+RDDLiquidacionReprogramacionDeDeuda.frm;CDefinicionTrx
+LCCPrepagoLinea.frm;New cDocumento
+CJAEntregaCaja.frm;Long
+DesgloseMoneda.frm;Boolean
+CJARemesaEnvio.frm;Printer
+CJAAdministradorDeCajas.frm;CUsuario
+LCCPagoAnticipadoDeCuotas.frm;CMoneda
+DVAIngresoValeVistaATerceros.frm;CMoneda
+mdiPrincipal.Frm;New frmTCRInfSolcitudTarjetaCredito
+frmModificacionNombre.frm;String
+CLIFirmaDigital.frm;Integer
+CJACancelacion de ValeVista.frm;tMediosDePago
+LCDPrepagoLinea.frm;cDocumento
+CrcDevResguroMenos5Dias.frm;Picture
+CHDetalleDocumento.frm;Boolean
+CCTDepositoEnDocumentosLin.frm;String
+CLIOperacionesConsolidadas.frm;frmCLIInformacionComplementariaCliente
+LCCRefinanGiro.frm;String
+AhoPlazoGiro.frm;CDefinicionTrx
+CJAAdministradorDeCajas.frm;MDIForm
+CVEAbono.frm;Integer
+frmHIPPagoDePagare.frm;New acrComprobanteEgresoHIP
+AhoPlazoGiro.frm;Variant
+frmAhoPlazoDeposito.Frm;ListItem
+LCCRefinanGiro.frm;cSolicitudDeEmision
+DEPEmitirPagare.frm;New cClienteEmpresa
+CLIInformacionComplementariaCliente.frm;tCampana
+CJAEnvioACamara.Frm;Collection
+CVELiquidacion.frm;Collection
+CJAEgresoBancaInversiones.frm;CTransaccion
+frmHipIssacPrePagoCuota.frm;frmCJELecturaDocumentos
+HIPLiquidacionCredito.frm;New CMensajes
+frmCJELecturaDAP.frm;cCheque
+LCCRefinanAbono.frm;Double
+TCRPagoEstadoCuenta.frm;Double
+RDDLiquidacionReprogramacionDeDeuda.frm;CMoneda
+CRCPagoDeCuota.frm;cCheque
+DVAIngresoValeVistaATerceros.frm;tDatosBeneficiario
+frmCJEDesgloseModificarCantidadDocumentos.frm;Integer
+LCCPrepagoLinea.frm;New CMensajes
+frmTransaccionesRemotas.frm;String
+CJAIntercambioDivisa.frm;New CMensajes
+LCCPrepagoLinea.frm;Double
+LCCRefinanAbono.frm;CMoneda
+CHDetalleDocumento.frm;control
+LCCPrepagoLinea.frm;CFactura
+frmPlanillaCuadratura.frm;String
+CRCPagoDeCuota.frm;tCuota
+frmTCRInfSolcitudTarjetaCredito.frm;New CSucursal
+frmGTOIngresoCtaGastos.frm;New CMensajes
+CCTDepositoEnEfectivoCta.frm;cClienteBanco
+frmCMRRetiroRapicash.frm;Double
+frmCMRRetiroSuperCash.frm;Collection
+DEPNuevoDeposito.frm;New cBeneficiarioAdicional
+frmAhoPlazoDeposito.Frm;frmCJELecturaDocumentos
+CLIInformacionComplementariaCliente.frm;cClienteBanco
+CJEInfIdentificadorDeLote.frm;New repCanjeIdentificadorDeLote
+CrcDevolucionSegMas5Dias.frm;New cCheque
+CCTDepositoEnDocumentosCta.frm;String
+LCDPagoEstadoDeCuenta.frm;Recordset
+frmEnvioDeRemesaRemoto.frm;Variant
+frmCMRRetiroRapicash.frm;CDefinicionTrx
+frmEnvioDeRemesaRemoto.frm;Double
+frmCjeSeleccionCheque.frm;CMoneda
+CJARemesaRecepcion.frm;Long
+frmGTODevolucionCtaGastos.frm;Long
+frmSOLPagoTarjeta.frm;cTarjetaVISSAT
+CJAAdministradorDeCajas.frm;CSucursal
+LCCPrepagoLinea.frm;Date
+CLIInformacionComplementariaCliente.frm;Long
+DVAEmisionValeVistaATerceros.frm;cDocumento
+CCTPagoChequeEmpresa.frm;Object
+frmHipIssacPagoCuota.frm;New Collection
+LCCActivacionDeGiro.Frm;CTransaccion
+frmAhoPlazoDeposito.Frm;cCliente
+DEPEmitirPagare.frm;New cParidadMoneda
+DEPDevolucionCheque.frm;Boolean
+CJEDesgloseDocumento.frm;cDocumento
+CJEInfIdentificadorDeLote.frm;CMoneda
+DEPDevolucionCheque.frm;New cOperacion
+CLIFotografia.frm;idFoto
+CARRecaudacionExterna.frm;New Collection
+CVELiquidacion.frm;New cDocumento
+DVAEmisionValeVistaATerceros.frm;New cSolicitudDeEmision
+RDDLiquidacionReprogramacionDeDeuda.frm;frmCJAIngresoMotivo
+DEPReinversionDeposito.frm;New cDocumento
+CLIFirmaDigital.frm;Boolean
+CVELiquidacion.frm;String
+CJARemesaRecepcion.frm;CUsuarioUniversal
+DEPDevolucionCheque.frm;CTransaccion
+CVEAbono.frm;cCarteraVencida
+LCDPrepagoLinea.frm;Long
+CJAPagoChequePersonal.Frm;CMoneda
+LCDPagoEstadoDeCuenta.frm;CMoneda
+CJALiquidacionVentaDivisa.frm;New acrComprobanteIntercambioDivisa
+RDDLiquidacionReprogramacionDeDeuda.frm;Integer
+CJAIngresoBancaInversiones.Frm;cDocumento
+LCDPagoAnticipadoDeCuotas.frm;Date
+AperturaDeDia.Frm;New Collection
+CLIPagoMultiple.frm;Collection
+CJAAdministradorDeCajas.frm;tUsuario
+CLIOperacionesConsolidadas.frm;String
+CLIOperacionesConsolidadasOtro.frm;Variant
+DVAIngresoValeVistaATerceros.frm;tValeVistaATerceros
+CrcDevolucionSegMas5Dias.frm;Long
+CLIVencimientosConsolidados.frm;Long
+frmGTOIngresoCtaGastos.frm;String
+HIPLiquidacionCredito.frm;New cDocumento
+LCCActivacionDeGiro.Frm;frmCJAIngresoMotivo
+DEPEmitirPagare.frm;Double
+frmCMRViajesFalabella.frm;CDefinicionTrx
+CierreDeDia.Frm;New CJournal
+frmCJELecturaValeVista.frm;Long
+DEPLiquidacionDeposito.frm;Long
+CJEDesgloseDocumento.frm;New Collection
+Reinyeccion32.Frm;Collection
+frmSOLPagoTarjeta.frm;New CMensajes
+RegistroTrx32.frm;Collection
+frmDepositoChequesRecibidos.frm;String
+DEPReinversionDeposito.frm;Long
+frmTCRInfSolcitudTarjetaCredito.frm;Boolean
+CJAEnvioACamara.Frm;Boolean
+LCCPrepagoLinea.frm;cPrepagoCredito
+CLIFotografia.frm;String *
+CVELiquidacion.frm;Boolean
+LCDPagoEstadoDeCuenta.frm;New Collection
+frmAhoPlazoDeposito.Frm;New cDocumento
+AHORemesa.frm;CDefinicionTrx
+frmCjaConsultaTraspaso.frm;New CMensajes
+frmHIPPagoDeCupones.frm;Integer
+CCTProtestoCheque.frm;CMoneda
+CVELiquidacion.frm;New Collection
+CJASaldoSucursal.frm;tSaldoSucursal
+LCCRefinanGiro.frm;frmCJAIngresoMotivo
+DEPNuevoDeposito.frm;CTransaccion
+AperturaDeDia.Frm;CTerminal
+frmGTOIngresoProvConvenio.frm;Long
+LCCPagoAnticipadoDeCuotas.frm;CDefinicionTrx
+CJARemesaEnvio.frm;CTerminal
+CierreDeDia.Frm;New Collection
+frmHipIssacPagoCuota.frm;CDefinicionTrx
+AperturaDeDia.Frm;String
+mdiPrincipal.Frm;Long
+AperturaDeDia.Frm;Date
+mdiPrincipal.Frm;String *
+CJARecepcionDeImpuestos.Frm;Boolean
+DEPReinversionDeposito.frm;String
+CJASaldoSucursal.frm;Integer
+CCTDepositoEnEfectivoLin.frm;CDefinicionTrx
+CrcDevolucionSegMas5Dias.frm;tValeVista
+CJAOrdenDePagoINP.Frm;CDefinicionTrx
+LCDPagoEstadoDeCuenta.frm;tVencimiento
+CJAIntercambioDivisa.frm;Double
+LCCPagoAnticipadoDeCuotas.frm;New cAhorroPlazo
+CCTGiroCuentaCorriente.frm;CTransaccion
+TCRGiroEnCuotas.frm;Boolean
+CJAIntercambioDivisa.frm;CMoneda
+CJAIngresoEgresoCProt.frm;New Collection
+CLIFotografia.frm;Boolean
+mdiPrincipal.Frm;Boolean
+CCTDepositoEnEfectivoCta.frm;Variant
+frmCJELecturaDAP.frm;New cOperacion
+frmTransacciones.frm;tDetalleTransPago
+CVEAbono.frm;CTransaccion
+CJASolicitudPrivilegio.frm;New CMensajes
+LCDPrepagoLinea.frm;New CMensajes
+frmAhoPlazoDeposito.Frm;Long
+DEPNuevoDeposito.frm;New cCorte
+LCCPagoEstadoDeCuenta.frm;New cCheque
+frmCMRRetiroRapicash.frm;cTarjetaCMR
+CLIVerificacionHuella.frm;Variant
+DesgloseMoneda.frm;ComctlLib.ColumnHeader
+LCCPrepagoLinea.frm;cCliente
+frmCJELecturaDAP.frm;cDocumento
+TCRPagoEstadoCuenta.frm;New CMensajes
+CLIPagoMultiple.frm;Variant
+MediodePago.frm;cServicio
+frmCMRViajesFalabella.frm;Long
+mdiPrincipal.Frm;New frmTransaccion
+frmSOLPagoTarjeta.frm;String
+LCCPrepagoLinea.frm;tPrepagoFactura
+CJACancelacion de ValeVista.frm;Boolean
+frmCMRRetiroSuperCash.frm;Double
+DEPNuevoDeposito.frm;cOperacion
+frmGTOIngresoCtaGastos.frm;New CMoneda
+frmCMRViajesFalabella.frm;Double
+CRCActivacion.Frm;New cDocumento
+CJAAnticipoDePersonalPorComision.frm;Long
+frmCJELecturaCheque.frm;New CMoneda
+CLIOperacionesConsolidadas.frm;Node
+CJAIngresoBancaInversiones.Frm;Double
+DEPLiquidacionDeposito.frm;New cMedioEntrega
+CJEDesgloseDocumento.frm;Boolean
+AhoPlazoGiro.frm;New cDocumento
+FrmReversaPagoCmr.frm;Long
+frmCMRRetiroRapicash.frm;CMoneda
+Reinyeccion32.Frm;Integer
+CJALiquidacionVentaDivisa.frm;String
+CJAIntercambioDivisa.frm;New Collection
+CJARemesaEnvio.frm;Double
+frmCMRSeguroSOAT.frm;String
+LCCActivacionDeGiro.Frm;cSolicitudDeEmision
+CrcDevResguroMenos5Dias.frm;Boolean
+CJEInfIdentificadorDeLote.frm;New CMensajes
+CJAIngresoEgresoCProt.frm;cSolicitudDeEmision
+frmPlanillaCuadratura.frm;contador
+CCTDepositoEnDocumentosCta.frm;Variant
+Opciones.frm;String
+CrcDevolucionSegMas5Dias.frm;Picture
+LCDPrepagoLinea.frm;Date
+DEPLiquidacionDeposito.frm;New CMoneda
+CJAEntregaCaja.frm;cDocumento
+CrcDevolucionSegMas5Dias.frm;Date
+CjaIngresoMotivo.frm;New CMensajes
+CCTProtestoCheque.frm;cClienteBanco
+CVELiquidacion.frm;cDocumento
+DEPDevolucionCheque.frm;New cBeneficiarioAdicional
+frmCMRPagoCero.frm;tDetalleTarjetaCMR
+frmPlanillaCuadratura.frm;Boolean
+CJAPagoChequePersonal.Frm;frmCJELecturaCheque
+CJAIngresoEgresoMultiple.Frm;cCheque
+CCTDepositoEnDocumentosLin.frm;CDefinicionTrx
+CCTProtestoCheque.frm;New CMensajes
+FrmReversaPagoCmr.frm;CTransaccion
+frmCMRPrepagoSuperCash.frm;Integer
+CJAAdministradorDeCajas.frm;ListItem
+DEPEmitirPagare.frm;New cBeneficiarioAdicional
+frmCMRSeguroSOAT.frm;New Collection
+LCCRefinanGiro.frm;CTransaccion
+CARRecaudacionExterna.frm;cCheque
+frmCJELecturaDocumentos.frm;Long
+frmCMRConsultaDeudaDisponible.frm;cCliente
+CJAAnticipoDePersonalPorComision.frm;CDefinicionTrx
+DEPLiquidacionDeposito.frm;tVerificacionHuellaDigital
+LCDPrepagoLinea.frm;CDefinicionTrx
+CJAEnvioACamara.Frm;Integer
+DEPLiquidacionDeposito.frm;Printer
+CJAIntercambioDivisa.frm;New cCheque
+CCTDepositoEnDocumentosCta.frm;CDefinicionTrx
+frmAhoPlazoImpLibreta.frm;Integer
+TCRPagoEstadoCuenta.frm;CMoneda
+CLIVerificacionHuella.frm;tCLIENTE
+LCDPagoEstadoDeCuenta.frm;cCheque
+CVEAbono.frm;CDefinicionTrx
+CJASaldoSucursal.frm;ListItem
+CLIOperacionesConsolidadas.frm;New Clientes.cClienteEmpresa
+CLIPagoMultiple.frm;tMediosDePago
+frmCJELecturaCheque.frm;Date
+frmTransaccionesRemotas.frm;CMensajes
+CCTDepositoEnDocumentosLin.frm;Integer
+LCCPagoEstadoDeCuenta.frm;Variant
+CLIVerificacionHuella.frm;String *
+mdiPrincipal.Frm;New CTerminal
+DEPLiquidacionDeposito.frm;cOperacion
+frmHipIssacPrePagoCuota.frm;String
+CJARemesaRecepcion.frm;tRemesa
+CrcDevResguroMenos5Dias.frm;Integer
+CJASaldoSucursal.frm;New CMensajes
+RegistroTrx32.frm;New CJournal
+CjaIngresoMotivo.frm;Integer
+AHORemesa.frm;New cDocumento
+CRCActivacion.Frm;CDefinicionTrx
+LCDPagoAnticipadoDeCuotas.frm;cCheque
+frmHipIssacPrePagoCuota.frm;New CMensajes
+frmGTOIngresoProvConvenio.frm;frmCJELecturaDocumentos
+frmGTODevolucionCtaGastos.frm;cSolicitudDeEmision
+CLIVerificacionHuella.frm;cDSR200
+CierreDeDia.Frm;Variant
+frmAhoPlazoDeposito.Frm;String
+AperturaDeDia.Frm;Variant
+frmCJELecturaValeVista.frm;String
+CJAIngresoTesoreriaGral.Frm;CDefinicionTrx
+CLIFirmaDigital.frm;cOperacion
+TCRPagoEstadoCuenta.frm;New cAhorroPlazo
+CJAIntercambioDivisa.frm;New acrComprobanteIntercambioDivisa
+DVAIngresoValeVistaATerceros.frm;New CMensajes
+TCRGiroEnCuotas.frm;cTarjetaVISSAT
+CJAAnticipoDePersonalPorComision.frm;Integer
+LCCRefinanAbono.frm;Long
+LCCPagoEstadoDeCuenta.frm;Long
+CrcDevResguroMenos5Dias.frm;New CMensajes
+CrcDevResguroMenos5Dias.frm;Long
+frmHIPPagoDePagare.frm;CMoneda
+frmCMRPagoTarjeta.frm;tDetalleTarjetaCMR
+frmSOLPagoTarjeta.frm;Boolean
+CLIPagoMultiple.frm;String
+frmCMRConsultaDeudaDisponible.frm;ComboBox
+CJAIngresoBancaInversiones.Frm;CDefinicionTrx
+CJARecepcionDeImpuestos.Frm;Long
+HIPPagoDeCuota.frm;Long
+AhoPlazoGiro.frm;New cSocio
+CARPagoCompraCartera.frm;Object
+CJEDesgloseDocumento.frm;frmCJELecturaDocumentos
+CCTPagoCheque.frm;CDefinicionTrx
+CrcDevResguroMenos5Dias.frm;Date
+LCDPagoEstadoDeCuenta.frm;cDocumento
+mdiPrincipal.Frm;New repCanjeOficina
+HIPPrepagoMutuoHip.frm;Long
+DVAIngresoValeVistaATerceros.frm;New Collection
+frmHIPPagoDePagare.frm;CTransaccion
+frmCJAIngEgrATM.frm;tTerminalATM
+frmCMRConsultaDeudaDisponible.frm;cTarjetaVISSAT
+frmTCRInfSolcitudTarjetaCredito.frm;Long
+QuickSend.Frm;Long
+CJARemesaRecepcion.frm;Printer
+frmCJAIngEgrATM.frm;CDefinicionTrx
+DesgloseMoneda.frm;tDenominacion
+CCTDepositoEnDocumentosLin.frm;cClienteBanco
+AHORemesa.frm;Collection
+frmCMRPrepagoSuperCash.frm;CMoneda
+frmCMRPagoTarjeta.frm;CTransaccion
+LCDPagoEstadoDeCuenta.frm;New cCheque
+DEPLiquidacionDeposito.frm;New cSolicitudDeEmision
+frmAhoPlazoImpLibreta.frm;Date
+CJAEgresoBancaInversiones.frm;tMediosDePago
+CJEDesgloseDocumento.frm;New cDocumento
+frmHipIssacPagoCuota.frm;CTransaccion
+frmCJELecturaDocumentos.frm;frmCJELecturaCheque
+LCCRefinanAbono.frm;CDefinicionTrx
+CCTPagoCheque.frm;CMoneda
+frmGTOIngresoProvConvenio.frm;tMediosDePago
+CrcDevResguroMenos5Dias.frm;tMediosDePago
+DEPReinversionDeposito.frm;New cOperacion
+CJALiquidacionVentaDivisa.frm;Integer
+HIPPagoDeCuota.frm;cDocumento
+Producto.frm;ociado a
+CCTPagoChequeEmpresa.frm;Long
+Grupo.frm;ListItem
+CCTGiroCuentaCorriente.frm;Object
+CrcDevResguroMenos5Dias.frm;CMoneda
+frmPlanillaCuadratura.frm;Long
+RegistroTrx32.frm;String
+frmGTOIngresoCtaGastos.frm;frmCJELecturaDocumentos
+frmAhoPlazoDeposito.Frm;CMensajes
+CJARecepcionDeImpuestos.Frm;String
+DEPDevolucionCheque.frm;Integer
+DEPDevolucionCheque.frm;New cDepProducto
+CLIFirmaDigital.frm;Double
+CJEDetalleDesgloseDocumento.frm;MSComctlLib.ListItem
+CRCPrepagoCredito.frm;cCliente
+LCCRefinanAbono.frm;String
+HIPLiquidacionCredito.frm;cHipBeneficiario
+CJEDesgloseDocumento.frm;Integer
+TCRPagoEstadoCuenta.frm;New cCheque
+LCDPagoEstadoDeCuenta.frm;Variant
+CJAIngresoEgresoCProt.frm;cCheque
+frmAhoPlazoDeposito.Frm;Integer
+TCRGiroEnCuotas.frm;CTransaccion
+RegistroTrx32.frm;Object
+TCRGiroEnCuotas.frm;MSComctlLib.ListItem
+CRCPrepagoCredito.frm;Long
+frmTransacciones.frm;Boolean
+CLIOperacionesConsolidadasOtro.frm;Boolean
+CJAEntregaCaja.frm;CTerminal
+AHORemesa.frm;Double
+CJAIngresoBancaInversiones.Frm;New Collection
+CCTProtestoCheque.frm;Long
+CJAAdministradorDeCajas.frm;New cBanco
+frmAhoPlazoDeposito.Frm;Variant
+frmTCRInfSolcitudTarjetaCredito.frm;New CUsuario
+LCCActivacionDeGiro.Frm;New cSolicitudDeEmision
+CJAEntregaCaja.frm;Integer
+frmCMRPrepagoSuperCash.frm;New CMensajes
+frmCMRSeguroSOAT.frm;Double
+CLIVencimientosConsolidados.frm;tCuota
+RegistroTrx32.frm;cDocumento
+RegistroTrx32.frm;New cImpRegTrxs
+CARRecaudacionExterna.frm;Double
+BloqueoTemporal.frm;Integer
+frmCMRSeguroSOAT.frm;CDefinicionTrx
+CCTProtestoCheque.frm;CTransaccion
+CLIInformacionComplementariaCliente.frm;Date
+frmGTOConsultaPorRut.frm;New CDefinicionTrx
+frmCJELecturaDocumentos.frm;New Collection
+CJAIngresoEgresoCProt.frm;frmCJELecturaDAP
+LCCRefinanGiro.frm;Long
+CARRecaudacionExterna.frm;Long
+CCTGiroCuentaCorriente.frm;idFoto
+frmGTODevolucionConvenio.frm;New CMensajes
+CVELiquidacion.frm;tMediosDePago
+frmGTOConsultaPorRut.frm;Double
+CJAIngresoEgresoMultiple.Frm;CMoneda
+CJAEntregaCaja.frm;Double
+AHORemesa.frm;New Clientes.cCliente
+CCTPagoCheque.frm;Integer
+AHORemesa.frm;New cCheque
+LCCPagoEstadoDeCuenta.frm;Recordset
+CRCPrepagoCredito.frm;frmCJELecturaDocumentos
+mdiPrincipal.Frm;Button
+DesgloseEfectivo.Frm;Integer
+frmCjeSeleccionCheque.frm;New Collection
+DesgloseEfectivo.Frm;Double
+DEPEmitirPagare.frm;New cCliente
+frmHipIssacPrePagoCuota.frm;tMotivoEgreso
+CJARemesaRecepcion.frm;Boolean
+CRCPrepagoCredito.frm;Printer
+CRCPagoDeCuota.frm;cDocumento
+CARRecaudacionExterna.frm;tMediosDePago
+CLIFirmaDigital.frm;New Collection
+CJAAdministradorDeCajas.frm;New frmTransaccionesRemotas
+CCTDepositoEnDocumentosCta.frm;Long
+CVEAbono.frm;New Clientes.cCliente
+frmCJAIngEgrATM.frm;CTransaccion
+frmSOLPagoTarjeta.frm;New Collection
+DVAEmisionValeVistaATerceros.frm;tValeVista
+RegistroTrx32.frm;tDetalleTarjetaCMR
+CLIOperacionesConsolidadasOtro.frm;MSComctlLib.ListItem
+frmSOLActivacionTarjeta.frm;CDefinicionTrx
+Opciones.frm;Integer
+CJAAnticipoDePersonalPorComision.frm;tVerificacionHuellaDigital
+CJARemesaRecepcion.frm;MSComctlLib.ListItem
+CJAAdministradorDeCajas.frm;tTerminal
+CJAIngresoEgresoMultiple.Frm;Printer
+frmCJELecturaDAP.frm;Long
+CJAIngresoTesoreriaGral.Frm;CMoneda
+CrcDevResguroMenos5Dias.frm;tFormaDePagoDelGiro
+CJALiquidacionVentaDivisa.frm;Variant
+CCTProtestoCheque.frm;CDefinicionTrx
+RDDLiquidacionReprogramacionDeDeuda.frm;Variant
+frmTCRInfSolcitudTarjetaCredito.frm;New cCliente
+LCDPrepagoLinea.frm;frmCJELecturaDocumentos
+frmDepositoChequesRecibidos.frm;Boolean
+frmCJELecturaCheque.frm;String
+CJAEgresoBancaInversiones.frm;Integer
+CRCPagoDeCuota.frm;Long
+LCDPagoEstadoDeCuenta.frm;tClienteOffLine
+CJAOrdenDePagoINP.Frm;CTransaccion
+CARRecaudacionExterna.frm;String
+CCTDepositoEnDocumentosLin.frm;frmCJELecturaValeVista
+DEPReinversionDeposito.frm;frmCJELecturaDocumentos
+RegistroTrx32.frm;Double
+CLIInformacionComplementariaCliente.frm;New CMensajes
+frmPlanillaCuadratura.frm;Date
+CCTDepositoEnDocumentosCta.frm;Boolean
+TCRAvanceEnEfec.frm;String
+BloqueoTemporal.frm;Boolean
+DEPReinversionDeposito.frm;cOperacion
+REXLiquidacionRecaudacion.frm;cSolicitudDeEmision
+CJACancelacion de ValeVista.frm;String
+LCDPagoEstadoDeCuenta.frm;tMediosDePago
+CCTPagoCheque.frm;CTransaccion
+frmEnvioDeRemesaRemoto.frm;cHermesUsuario
+REXLiquidacionRecaudacion.frm;tConceptoPago
+CCTPagoCheque.frm;Long
+REXCMRRecaudacion.frm;MSComctlLib.ListItem
+frmPlanillaCuadratura.frm;Double
+AhoPlazoGiro.frm;Integer
+AHORemesa.frm;New cRemesa
+Producto.frm;Boolean
+CJAIngresoEgresoCProt.frm;String
+HIPLiquidacionCredito.frm;Integer
+CHDetalleDocumento.frm;Double
+frmSOLPagoTarjeta.frm;tMediosDePago
+LCCPagoEstadoDeCuenta.frm;New cAhorroPlazo
+frmPlanillaCuadratura.frm;cImpresionPlanilla
+CJASaldoSucursal.frm;frmGrupo
+DEPLiquidacionDeposito.frm;CDefinicionTrx
+DVAEmisionValeVistaATerceros.frm;tValeVistaATerceros
+frmHipIssacPrePagoCuota.frm;New cCheque
+CLIVerificacionHuella.frm;New CMensajes
+CJEInfIdentificadorDeLote.frm;CSucursal
+CRCActivacion.Frm;frmCJELecturaDocumentos
+frmCMRPagoCero.frm;CMoneda
+CCTGiroCuentaCorriente.frm;CDefinicionTrx
+CRCPagoDeCuota.frm;cCliente
+frmSOLPagoTarjeta.frm;Collection
+frmCMRRetiroSuperCash.frm;CTransaccion
+frmGTOIngresoCtaGastos.frm;New ComprobanteIngresoProvision
+LCCPagoAnticipadoDeCuotas.frm;String
+AhoPlazoGiro.frm;frmCJELecturaDocumentos
+frmSOLPagoTarjeta.frm;CMoneda
+frmCJELecturaDocumentos.frm;New cDocumento
+DEPLiquidacionDeposito.frm;New Collection
+CCTDepositoEnDocumentosCta.frm;New comprobanteUnicoDepositoAbono
+frmCMRConsultaDeudaDisponible.frm;Printer
+CRCPrepagoCredito.frm;String
+CJAAdministradorDeCajas.frm;Single
+CJAIntercambioDivisa.frm;Boolean
+frmHipIssacPagoCuota.frm;frmCJELecturaValeVista
+REXLiquidacionRecaudacion.frm;Double
+CLIPagoMultiple.frm;Integer
+DVAEmisionValeVistaATerceros.frm;Double
+DVAEmisionValeVistaATerceros.frm;CMoneda
+RDDLiquidacionReprogramacionDeDeuda.frm;Double
+TCRPagoEstadoCuenta.frm;Variant
+frmCJELecturaValeVista.frm;Double
+frmGTOConsultaPorRut.frm;Long
+CrcDevResguroMenos5Dias.frm;tVerificacionHuellaDigital
+TCRAvanceEnEfec.frm;New CMensajes
+CJAEntregaCaja.frm;Boolean
+CLIPagoMultiple.frm;cDocumento
+frmCMRPagoTarjeta.frm;frmCJELecturaDocumentos
+CrcDevolucionSegMas5Dias.frm;tMediosDePago
+frmAhoPlazoImpLibreta.frm;String
+CCTDepositoEnEfectivoLin.frm;New Clientes.cClienteEmpresa
+frmCJELecturaCheque.frm;TextBox
+frmCMRSeguroSOAT.frm;Integer
+CrcDevolucionSegMas5Dias.frm;New cSolicitudDeEmision
+CCTPagoChequeEmpresa.frm;CDefinicionTrx
+LCCPagoEstadoDeCuenta.frm;cCliente
+RDDLiquidacionReprogramacionDeDeuda.frm;New cSolicitudDeEmision
+CCTDepositoEnEfectivoLin.frm;Variant
+CJAEgresoBancaInversiones.frm;CDefinicionTrx
+RegistroTrx32.frm;Picture
+frmTransacciones.frm;Long
+frmAhoPlazoDeposito.Frm;Printer
+frmAhoPlazoDeposito.Frm;CTransaccion
+TCRPagoEstadoCuenta.frm;cDocumento
+frmHIPPagoDeCupones.frm;Double
+CrcDevResguroMenos5Dias.frm;New cCheque
+CLIOperacionesConsolidadas.frm;New frmCLIVencimientosConsolidados
+frmHipIssacPrePagoCuota.frm;CDefinicionTrx
+CLIVerificacionHuella.frm;String
+frmGTODevolucionConvenio.frm;Integer
+CJAIngresoBancaInversiones.Frm;CTransaccion
+CVEAbono.frm;String
+AhoPlazoGiro.frm;Collection
+LCDPagoAnticipadoDeCuotas.frm;tMediosDePago
+frmGTODevolucionConvenio.frm;String
+CLIPagoMultiple.frm;cCliente
+LCCRefinanGiro.frm;Double
+CJASobranteFaltanteDeCaja.Frm;Boolean
+CCTDepositoEnDocumentosLin.frm;Boolean
+CJEDesgloseDocumento.frm;control
+CRCPagoDeCuota.frm;Boolean
+CRCPrepagoCredito.frm;CDefinicionTrx
+DEPLiquidacionDeposito.frm;Integer
+CLIVencimientosConsolidados.frm;tFACTURA
+CJAIntercambioDivisa.frm;Variant
+TCRGiroEnCuotas.frm;cSolicitudDeEmision
+frmCMRConsultaDeudaDisponible.frm;cCheque
+frmGTODevolucionConvenio.frm;New CTransaccion
+CHDetalleDocumento.frm;CMensajes
+CrcDevResguroMenos5Dias.frm;Double
+HIPPrepagoMutuoHip.frm;String
+TCRPagoEstadoCuenta.frm;Integer
+CJAOrdenDePagoINP.Frm;Double
+LCCPagoEstadoDeCuenta.frm;CDefinicionTrx
+CJAIngresoEgresoMultiple.Frm;CDefinicionTrx
+LCCRefinanAbono.frm;Date
+frmListaCuentas.frm;Long
+frmCMRRetiroSuperCash.frm;String
+frmCMRPagoCero.frm;cTarjetaCMR
+LCCPrepagoLinea.frm;Integer
+frmCJELecturaCheque.frm;New cDocumento
+frmTransaccionesRemotas.frm;Date
+CRCActivacion.Frm;cDocumento
+frmSOLActivacionTarjeta.frm;CMoneda
+LCCActivacionDeGiro.Frm;CDefinicionTrx
+CCTDepositoEnDocumentosCta.frm;Integer
+CCTDepositoEnEfectivoCta.frm;Long
+CLIInformacionComplementariaCliente.frm;MSComctlLib.ListImage
+DEPReinversionDeposito.frm;Printer
+CRCActivacion.Frm;cCliente
+LCDPagoAnticipadoDeCuotas.frm;Boolean
+frmCMRRetiroRapicash.frm;cCliente
+frmAhoPlazoImpLibreta.frm;cAhorroPlazo
+frmTCRInfSolcitudTarjetaCredito.frm;tOperacionConsolidada
+CRCPagoDeCuota.frm;tClienteOffLine
+CJARecepcionDeImpuestos.Frm;tRecepcionDeImpuestos
+CCTDepositoEnDocumentosCta.frm;frmCJELecturaCheque
+frmCJELecturaValeVista.frm;New cCheque
+CJAAnticipoDePersonalPorComision.frm;String
+frmCMRPagoTarjeta.frm;Boolean
+TCRAvanceEnEfec.frm;cClienteBanco
+CJAIngresoEgresoCProt.frm;Date
+frmHipIssacPagoCuota.frm;Double
+frmCMRPagoTarjeta.frm;cDocumento
+CCTDepositoEnDocumentosLin.frm;Variant
+LCDPrepagoLinea.frm;New Collection
+frmCMRViajesFalabella.frm;Integer
+frmCJELecturaDocumentos.frm;cCheque
+CJARemesaRecepcion.frm;CDefinicionTrx
+QuickSend.Frm;String
+frmCMRSeguroSOAT.frm;tVerificacionHuellaDigital
+CJAEgresoBancaInversiones.frm;New CMensajes
+frmCMRSeguroSOAT.frm;cTransaccionCMR
+DesgloseEfectivo.Frm;Boolean
+frmCJELecturaCheque.frm;Collection
+AHORemesa.frm;frmCJELecturaDocumentos
+frmPlanillaCuadratura.frm;Integer
+DEPEmitirPagare.frm;New cSolicitudDeEmision
+DEPNuevoDeposito.frm;Boolean
+CCTPagoChequeEmpresa.frm;tCUENTACORRIENTE
+RDDLiquidacionReprogramacionDeDeuda.frm;tFormaDePagoDelGiro
+CLIInformacionComplementariaCliente.frm;String
+CLIOperacionesConsolidadas.frm;Boolean
+frmCMRPagoTarjeta.frm;New Collection
+HIPLiquidacionCredito.frm;Collection
+frmCJELecturaDocumentos.frm;CMoneda
+CJAIngresoEgresoCProt.frm;cCliente
+CJAIngFolioPagare.frm;Double
+CJARemesaEnvio.frm;Integer
+frmCMRPrepagoSuperCash.frm;CTransaccion
+CVELiquidacion.frm;Long
+DEPEmitirPagare.frm;cOperacion
+DEPNuevoDeposito.frm;Printer
+frmCJAIngEgrATM.frm;String
+CJAEnvioACamara.Frm;CDefinicionTrx
+LCDPagoEstadoDeCuenta.frm;New cDocumento
+frmCMRViajesFalabella.frm;Collection
+CCTDepositoEnEfectivoCta.frm;Boolean
+TCRPagoEstadoCuenta.frm;New acrComprobantePagoTCR
+CJALiquidacionVentaDivisa.frm;CDefinicionTrx
+TCRAvanceEnEfec.frm;CDefinicionTrx
+CJAIntercambioDivisa.frm;ComboBox
+HIPLiquidacionCredito.frm;Long
+frmTransaccionesRemotas.frm;New CTerminal
+CJARecepcionDeImpuestos.Frm;CTransaccion
+frmCJELecturaDAP.frm;New cRentaPeriodica
+CJASolicitudPrivilegio.frm;CSucursal
+LCCActivacionDeGiro.Frm;CMoneda
+frmCJELecturaDAP.frm;Boolean
+frmCMRViajesFalabella.frm;Boolean
+CJARemesaEnvio.frm;Collection
+CrcDevolucionSegMas5Dias.frm;CMoneda
+CCTDepositoEnEfectivoCta.frm;tCUENTACORRIENTE
+frmModificacionNombre.frm;Boolean
+CJAEntregaCaja.frm;CMoneda
+TCRGiroEnCuotas.frm;Printer
+frmTransacciones.frm;ColumnHeader
+CLIFirmaDigital.frm;tCUENTACORRIENTE
+CJAEntregaCaja.frm;String
+LCDPagoAnticipadoDeCuotas.frm;frmCJELecturaDocumentos
+CierreDeDia.Frm;New CMensajes
+DEPDevolucionCheque.frm;CMoneda
+frmGTODevolucionConvenio.frm;New cSolicitudDeEmision
+Reinyeccion32.Frm;CTransaccion
+LCCPrepagoLinea.frm;CDefinicionTrx
+CrcDevResguroMenos5Dias.frm;tValeVista
+CARRecaudacionExterna.frm;Boolean
+CLIPagoMultiple.frm;MSComctlLib.ListItem
+CJAIngresoEgresoCProt.frm;Double
+CJAPagoChequePersonal.Frm;CTransaccion
+frmGTOIngresoProvConvenio.frm;New CTransaccion
+TCRAvanceEnEfec.frm;CMoneda
+LCCRefinanGiro.frm;Boolean
+frmTCRInfSolcitudTarjetaCredito.frm;Integer
+REXLiquidacionRecaudacion.frm;tMediosDePago
+CrcDevolucionSegMas5Dias.frm;Integer
+CCTDepositoEnDocumentosCta.frm;CTransaccion
+frmHIPPagoDePagare.frm;Double
+CLIInformacionComplementariaCliente.frm;Collection
+RegistroTrx32.frm;New cMensaje
+CCTDepositoEnEfectivoLin.frm;Double
+CLIVencimientosConsolidados.frm;New Collection
+CARPagoCompraCartera.frm;New Clientes.cClienteEmpresa
+LCCPagoEstadoDeCuenta.frm;Date
+HIPPagoDeCuota.frm;Boolean
+CCTDepositoEnEfectivoLin.frm;cClienteBanco
+frmCMRPagoCero.frm;CDefinicionTrx
+DVAEmisionValeVistaATerceros.frm;cSolicitudDeEmision
+CCTDepositoEnDocumentosCta.frm;cClienteBanco
+frmCJELecturaDAP.frm;New CMensajes
+DEPDevolucionCheque.frm;cOperacion
+CRCActivacion.Frm;Double
+CJAEgresoBancaInversiones.frm;New cDocumento
+Producto.frm;tIdentificador
+LCDPagoEstadoDeCuenta.frm;Integer
+frmCjaConsultaTraspaso.frm;String
+CRCPagoDeCuota.frm;Printer
+CHDetalleDocumento.frm;Clientes.cCliente
+CCTDepositoEnDocumentosCta.frm;Double
+DEPLiquidacionDeposito.frm;New cCheque
+CJASolicitudPrivilegio.frm;CUsuario
+TCRGiroEnCuotas.frm;CMoneda
+RegistroTrx32.frm;New CMonto
+CCTPagoCheque.frm;cCheque
+frmDepositoChequesRecibidos.frm;Long
+LCCPagoAnticipadoDeCuotas.frm;frmCJELecturaDocumentos
+frmCJELecturaValeVista.frm;Variant
+frmSOLActivacionTarjeta.frm;ComboBox
+REXCMRRecaudacion.frm;Integer
+frmCJELecturaCheque.frm;Boolean
+CLIFotografia.frm;Object
+LCCPagoEstadoDeCuenta.frm;tMediosDePago
+CRCPrepagoCredito.frm;Date
+frmCMRConsultaDeudaDisponible.frm;CDefinicionTrx
+DEPNuevoDeposito.frm;New cCheque
+RDDLiquidacionReprogramacionDeDeuda.frm;tVerificacionHuellaDigital
+AhoPlazoGiro.frm;cCliente
+CJASaldoSucursal.frm;ComboBox
+frmHipIssacPrePagoCuota.frm;Integer
+HIPLiquidacionCredito.frm;CDefinicionTrx
+CJAIntercambioDivisa.frm;CTransaccion
+DEPReinversionDeposito.frm;New cFormaLiquidacion
+CJAAdministradorDeCajas.frm;ListImage
+CJAAdministradorDeCajas.frm;tEstado
+CJEDesgloseDocumento.frm;String
+CLIPagoMultiple.frm;frmCJELecturaDocumentos
+frmPlanillaCuadratura.frm;New cImpresionPlanilla
+CLIOperacionesConsolidadasOtro.frm;Collection
+CVELiquidacion.frm;New cCheque
+frmGTOConsultaPorRut.frm;Collection
+frmHipIssacPrePagoCuota.frm;CTransaccion
+CCTDepositoEnDocumentosCta.frm;tCUENTACORRIENTE
+CCTDepositoEnDocumentosLin.frm;tCUENTACORRIENTE
+DEPLiquidacionDeposito.frm;New Clientes.cCliente
+DEPLiquidacionDeposito.frm;New cDocumento
+CCTGiroCuentaCorriente.frm;tCUENTACORRIENTE
+frmCMRRetiroSuperCash.frm;cTransaccionCMR
+LCDPrepagoLinea.frm;tMediosDePago
+TCRPagoEstadoCuenta.frm;New Collection
+FrmReversaPagoCmr.frm;String
+frmCJAIngEgrATM.frm;Collection
+Producto.frm;Long
+frmCJAIngEgrATM.frm;New CMensajes
+CJALiquidacionVentaDivisa.frm;CMensajes
+CJEInfIdentificadorDeLote.frm;Date
+CJAIngresoEgresoCProt.frm;New comprobanteIngresoEgresoDocProt
+frmTransacciones.frm;Integer
+RegistroTrx32.frm;Codigo
+DVAIngresoValeVistaATerceros.frm;Long
+LCCRefinanGiro.frm;CMoneda
+frmGTOConsultaPorRut.frm;MSComctlLib.ListItem
+CRCActivacion.Frm;cSolicitudDeEmision
+CierreDeDia.Frm;Boolean
+CLIOperacionesConsolidadasOtro.frm;Single
+CJAAdministradorDeCajas.frm;CTerminal
+DEPReinversionDeposito.frm;CMoneda
+CHDetalleDocumento.frm;Integer
+CARPagoCompraCartera.frm;String
+LCDPagoAnticipadoDeCuotas.frm;Long
+frmSOLActivacionTarjeta.frm;Collection
+AhoPlazoGiro.frm;CMensajes
+CCTProtestoCheque.frm;cCheque
+LCCRefinanGiro.frm;Integer
+CCTDepositoEnDocumentosCta.frm;MSComctlLib.ListItem
+CRCPagoDeCuota.frm;tTASAMAXIMALEGAL
+REXLiquidacionRecaudacion.frm;CTransaccion
+CCTPagoChequeEmpresa.frm;CMoneda
+frmGTOConsultaPorRut.frm;Integer
+DEPDevolucionCheque.frm;Long
+frmHIPPagoDeCupones.frm;CTransaccion
+CLIOperacionesConsolidadas.frm;Double
+CCTDepositoEnDocumentosCta.frm;CMoneda
+LCDPagoAnticipadoDeCuotas.frm;CDefinicionTrx
+CRCPrepagoCredito.frm;New Collection
+CJAPagoChequePersonal.Frm;Integer
+CCTPagoChequeEmpresa.frm;Double
+CCTDepositoEnDocumentosLin.frm;Long
+CLIPagoMultiple.frm;Object
+frmCJELecturaDocumentos.frm;frmCJELecturaValeVista
+frmGTOConsultaPorRut.frm;Boolean
+LCCPagoEstadoDeCuenta.frm;cCheque
+CJAIngresoEgresoMultiple.Frm;CTransaccion
+frmCMRPrepagoSuperCash.frm;Object
+LCCPagoEstadoDeCuenta.frm;String
+CrcDevolucionSegMas5Dias.frm;tVerificacionHuellaDigital
+frmEnvioDeRemesaRemoto.frm;Boolean
+CJALiquidacionVentaDivisa.frm;cCliente
+frmCJAIngEgrATM.frm;Boolean
+frmCJAIngEgrATM.frm;CMoneda
+frmCMRPagoTarjeta.frm;Printer
+AhoPlazoGiro.frm;New CMensajes
+frmSOLActivacionTarjeta.frm;New Collection
+frmCMRSeguroSOAT.frm;New cValorParidad
+frmGTODevolucionCtaGastos.frm;New cSolicitudDeEmision
+LCDPagoAnticipadoDeCuotas.frm;Double
+CARRecaudacionExterna.frm;tTipoRecaudacionExterna
+frmGTOConsultaPorRut.frm;String
+DVAEmisionValeVistaATerceros.frm;CTransaccion
+AperturaDeDia.Frm;Boolean
+CrcDevResguroMenos5Dias.frm;tReprogramacionDeDeuda
+LCCPagoAnticipadoDeCuotas.frm;New cDocumento
+frmGTODevolucionCtaGastos.frm;CDefinicionTrx
+QuickSend.Frm;New cSolicitudDeEmision
+CRCPagoDeCuota.frm;Integer
+CJEDetalleDesgloseDocumento.frm;String
+CRCActivacion.Frm;New Collection
+frmAhoListaCuentas.frm;Integer
+CJAIntercambioDivisa.frm;Collection
+frmGTOConsultaPorRut.frm;CDefinicionTrx
+CARRecaudacionExterna.frm;CMoneda
+CCTPagoCheque.frm;tCOMBINACIONPODER
+CJAIngresoTesoreriaGral.Frm;CTransaccion
+frmDepositoChequesRecibidos.frm;cDocumento
+CARRecaudacionExterna.frm;Object
+DEPReinversionDeposito.frm;New cMedioEntrega
+DVAIngresoValeVistaATerceros.frm;cCheque
+CJAEgresoBancaInversiones.frm;cSolicitudDeEmision
+CVEAbono.frm;frmCJELecturaDocumentos
+DesgloseEfectivo.Frm;New CMensajes
+TCRAvanceEnEfec.frm;New acrComprobanteAvanceEfectivoTcr
+Grupo.frm;Collection
+frmTCRInfSolcitudTarjetaCredito.frm;Double
+CJARemesaRecepcion.frm;String
+CLIVencimientosConsolidados.frm;Collection
+CJASolicitudPrivilegio.frm;Variant
+frmTransacciones.frm;ociado a
+DEPDevolucionCheque.frm;Collection
+CJAIngresoTesoreriaGral.Frm;Printer
+CCTDepositoEnDocumentosCta.frm;cCheque
+CCTPagoCheque.frm;tCHEQUE
+frmGTOConsultaPorRut.frm;cGastos
+frmCMRViajesFalabella.frm;CTransaccion
+CJAAdministradorDeCajas.frm;New CMensajes
+HIPPrepagoMutuoHip.frm;CTransaccion
+DVAEmisionValeVistaATerceros.frm;Boolean
+frmCMRPrepagoSuperCash.frm;cCredito
+AhoPlazoGiro.frm;New cCheque
+DEPDevolucionCheque.frm;New cReinversion
+DEPDevolucionCheque.frm;New Collection
+frmTCRInfSolcitudTarjetaCredito.frm;New acrSolicitudTarjetaCredito
+CJAAdministradorDeCajas.frm;CUsuarioUniversal
+LCCPagoEstadoDeCuenta.frm;New CMensajes
+RegistroTrx32.frm;Integer
+CJACancelacion de ValeVista.frm;Double
+frmGTOIngresoProvConvenio.frm;New Clientes.cCliente
+FrmReversaPagoCmr.frm;Integer
+CLIInformacionComplementariaCliente.frm;Double
+frmCMRViajesFalabella.frm;New Collection
+RegistroTrx32.frm;MSComctlLib.ColumnHeader
+Producto.frm;Integer
+LCDPagoAnticipadoDeCuotas.frm;cDocumento
+CJARemesaRecepcion.frm;CMonto
+RDDLiquidacionReprogramacionDeDeuda.frm;New CMensajes
+CJASolicitudPrivilegio.frm;String
+frmPlanillaCuadratura.frm;Recordset
+Grupo.frm;tIdentificador
+DEPReinversionDeposito.frm;New Collection
+LCCPagoAnticipadoDeCuotas.frm;Double
+QuickSend.Frm;New cDocumento
+CRCPrepagoCredito.frm;New CMensajes
+LCDPagoAnticipadoDeCuotas.frm;New Collection
+CCTProtestoCheque.frm;String
+HIPPagoDeCuota.frm;New CMensajes
+CJAIntercambioDivisa.frm;CDefinicionTrx
+CRCPagoDeCuota.frm;New cMensaje
+RDDLiquidacionReprogramacionDeDeuda.frm;tValeVista
+mdiPrincipal.Frm;New repCanjeDocumentos
+frmGTOIngresoProvConvenio.frm;New CMensajes
+AHORemesa.frm;Integer
+frmCMRPagoTarjeta.frm;CDefinicionTrx
+CCTDepositoEnDocumentosLin.frm;New Collection
+frmCMRConsultaDeudaDisponible.frm;Collection
+REXCMRRecaudacion.frm;Double
+CJAIngresoBancaInversiones.Frm;frmCJELecturaDocumentos
+mdiPrincipal.Frm;Form
+LCCPagoEstadoDeCuenta.frm;Single
+HIPPrepagoMutuoHip.frm;CDefinicionTrx
+frmHipIssacPrePagoCuota.frm;Boolean
+frmTransaccionesRemotas.frm;MSComctlLib.ColumnHeader
+Reinyeccion32.Frm;ListImage
+CRCPagoDeCuota.frm;tGASTOCOBRANZA
+CJAIngresoBancaInversiones.Frm;New cDocumento
+LCDPagoAnticipadoDeCuotas.frm;CTransaccion
+frmGTOIngresoProvConvenio.frm;Double
+mdiPrincipal.Frm;New frmRegistroTransacciones
+DVAEmisionValeVistaATerceros.frm;Long
+frmCJELecturaDocumentos.frm;New cCheque
+frmCMRSeguroSOAT.frm;tDetalleTarjetaCMR
+TCRAvanceEnEfec.frm;Object
+LCCRefinanAbono.frm;New Collection
+CCTGiroCuentaCorriente.frm;Integer
+LCCPagoEstadoDeCuenta.frm;Boolean
+frmTransaccionesRemotas.frm;Byte
+frmSOLActivacionTarjeta.frm;Integer
+frmCJELecturaDAP.frm;Variant
+CRCActivacion.Frm;CTransaccion
+REXLiquidacionRecaudacion.frm;New cDocumento
+frmAhoPlazoDeposito.Frm;cDocumento
+mdiPrincipal.Frm;New frmCLIOperacionesConsolidadasOtro
+CrcDevResguroMenos5Dias.frm;frmCJELecturaCheque
+DEPReinversionDeposito.frm;New cCheque
+LCDPrepagoLinea.frm;Integer
+CLIOperacionesConsolidadas.frm;MSComctlLib.ListImage
+LCCActivacionDeGiro.Frm;tMediosDePago
+AhoPlazoGiro.frm;CMoneda
+CJAEntregaCaja.frm;CTransaccion
+CJAAnticipoDePersonalPorComision.frm;CMoneda
+CCTGiroCuentaCorriente.frm;New Collection
+frmGTODevolucionCtaGastos.frm;String
+CLIVencimientosConsolidados.frm;Boolean
+CCTPagoCheque.frm;frmCJELecturaCheque
+frmCJELecturaCheque.frm;New repCanjeDocumentos
+CRCPagoDeCuota.frm;cuentaAhorroType
+CLIOperacionesConsolidadas.frm;Variant
+TCRPagoEstadoCuenta.frm;Date
+LCCPagoEstadoDeCuenta.frm;tClienteOffLine
+frmCJELecturaValeVista.frm;cDocumento
+CRCActivacion.Frm;tMediosDePago
+CCTPagoChequeEmpresa.frm;tCOMBINACIONPODER
+REXCMRRecaudacion.frm;Boolean
+HIPPagoDeCuota.frm;CDefinicionTrx
+frmGTODevolucionConvenio.frm;Long
+RDDLiquidacionReprogramacionDeDeuda.frm;cDocumento
+AHORemesa.frm;cDocumento
+frmGTOIngresoCtaGastos.frm;New Clientes.cCliente
+CCTDepositoEnEfectivoLin.frm;CMoneda
+CJAIngresoEgresoMultiple.Frm;New Collection
+frmCMRRetiroRapicash.frm;cTransaccionCMR
+CJARemesaEnvio.frm;New Collection
+CLIOperacionesConsolidadasOtro.frm;Node
+CJAEgresoBancaInversiones.frm;Long
+frmGTOIngresoCtaGastos.frm;ListItem
+frmGTOIngresoProvConvenio.frm;New cValorParidad
+frmCJELecturaValeVista.frm;cCheque
+CJAIntercambioDivisa.frm;New CCaja
+frmSOLActivacionTarjeta.frm;Boolean
+TCRAvanceEnEfec.frm;Boolean
+CJAIngresoEgresoCProt.frm;New CMensajes
+frmHipIssacPagoCuota.frm;Printer
+frmAhoPlazoDeposito.Frm;New cAhorroPlazo
+MediodePago.frm;ListItem
+CVELiquidacion.frm;Integer
+frmCJELecturaDocumentos.frm;Double
+CLIOperacionesConsolidadas.frm;Single
+LCCPagoEstadoDeCuenta.frm;cuentaAhorroType
+DEPLiquidacionDeposito.frm;New cDepProducto
+frmTransaccionesRemotas.frm;MSComctlLib.ListImage
+REXLiquidacionRecaudacion.frm;CDefinicionTrx
+mdiPrincipal.Frm;New repControlSaldosDiarios
+CRCPagoDeCuota.frm;tOperacionConsolidada
+LCCRefinanGiro.frm;tMediosDePago
+CRCPagoDeCuota.frm;String
+frmCJELecturaDocumentos.frm;Integer
+frmTransaccionesRemotas.frm;MSComctlLib.ListItem
+CrcDevolucionSegMas5Dias.frm;Boolean
+CLIPagoMultiple.frm;Long
+CARRecaudacionExterna.frm;Integer
+CLIOperacionesConsolidadasOtro.frm;String
+CierreDeDia.Frm;Long
+DEPDevolucionCheque.frm;New Clientes.cCliente
+CVEAbono.frm;Printer
+REXCMRRecaudacion.frm;CMoneda
+MediodePago.frm;Boolean
+AHORemesa.frm;New Clientes.cClienteEmpresa
+CJARemesaRecepcion.frm;Double
+CJEDetalleDesgloseDocumento.frm;Double
+frmCJELecturaCheque.frm;Integer
+CjaIngresoMotivo.frm;Boolean
+frmCMRPrepagoSuperCash.frm;Long
+frmAhoListaCuentas.frm;String
+CJARecepcionDeImpuestos.Frm;CDefinicionTrx
+frmCJELecturaValeVista.frm;CMoneda
+CCTDepositoEnDocumentosCta.frm;New Collection
+CLIInformacionComplementariaCliente.frm;MSComctlLib.ListItem
+CARPagoCompraCartera.frm;CDefinicionTrx
+CRCActivacion.Frm;New cOperacion
+frmCMRPagoCero.frm;Collection
+frmTransacciones.frm;tTransaccionMantenedor
+DEPDevolucionCheque.frm;New CMoneda
+CJARemesaRecepcion.frm;CTransaccion
+TCRGiroEnCuotas.frm;Object
+CVEAbono.frm;Boolean
+HIPLiquidacionCredito.frm;cSolicitudDeEmision
+CJAEntregaCaja.frm;cHermesUsuario
+frmCJAIngEgrATM.frm;Double
+TCRPagoEstadoCuenta.frm;New cDocumento
+CJAIntercambioDivisa.frm;frmCJELecturaDocumentos
+CJARemesaEnvio.frm;cDocumento
+CRCPagoDeCuota.frm;tMediosDePago
+CrcDevResguroMenos5Dias.frm;Variant
+CJACancelacion de ValeVista.frm;CDefinicionTrx
+RegistroTrx32.frm;MSComctlLib.ListItem
+frmHIPPagoDePagare.frm;New cSolicitudDeEmision
+CJASobranteFaltanteDeCaja.Frm;Printer
+HIPLiquidacionCredito.frm;tMediosDePago
+CRCPrepagoCredito.frm;tClienteOffLine
+CJAAdministradorDeCajas.frm;Boolean
+CCTPagoChequeEmpresa.frm;New Collection
+CVELiquidacion.frm;Picture
+CJAIngresoBancaInversiones.Frm;New cCheque
+TCRPagoEstadoCuenta.frm;Boolean
+frmAnulacionRemora.frm;CTransaccion
+frmHIPPagoDePagare.frm;CDefinicionTrx
+frmAhoPlazoDeposito.Frm;CDefinicionTrx
+CrcDevolucionSegMas5Dias.frm;tFormaDePagoDelGiro
+RDDLiquidacionReprogramacionDeDeuda.frm;Long
+DVAIngresoValeVistaATerceros.frm;MSComctlLib.ListItem
+CJALiquidacionVentaDivisa.frm;CTransaccion
+CJASobranteFaltanteDeCaja.Frm;String
+LCCPrepagoLinea.frm;cDocumento
+frmCMRPrepagoSuperCash.frm;Printer
+DEPReinversionDeposito.frm;New cDepProducto
+frmCMRPrepagoSuperCash.frm;Boolean
+LCCRefinanAbono.frm;New cSolicitudDeEmision
+REXLiquidacionRecaudacion.frm;Object
+CJAIngresoEgresoCProt.frm;Integer
+frmHipIssacPrePagoCuota.frm;frmCJELecturaValeVista
+CJAIntercambioDivisa.frm;cSolicitudDeEmision
+frmGTOIngresoCtaGastos.frm;Integer
+frmGTODevolucionConvenio.frm;New Clientes.cCliente
+frmCjeSeleccionCheque.frm;control
+CHDetalleDocumento.frm;String
+frmGTOIngresoCtaGastos.frm;Collection
+DEPDevolucionCheque.frm;New cRentaPeriodica
+frmGTOIngresoProvConvenio.frm;Integer
+frmAhoPlazoImpLibreta.frm;CMensajes
+CCTPagoCheque.frm;cClienteBanco
+CLIFotografia.frm;String
+frmCMRPrepagoSuperCash.frm;cSolicitudDeEmision
+CJEDetalleDesgloseDocumento.frm;New cCheque
+QuickSend.Frm;Boolean
+frmCJELecturaCheque.frm;Long
+CJASobranteFaltanteDeCaja.Frm;CDefinicionTrx
+CVELiquidacion.frm;New Clientes.cCliente
+frmHIPPagoDePagare.frm;Long
+frmDepositoChequesRecibidos.frm;frmCjeSeleccionCheque
+HIPPrepagoMutuoHip.frm;frmCJELecturaDocumentos
+mdiPrincipal.Frm;ListImage
+CJAIngresoEgresoMultiple.Frm;Integer
+frmCMRRetiroRapicash.frm;Boolean
+CARRecaudacionExterna.frm;New CMensajes
+LCCActivacionDeGiro.Frm;Boolean
+CJAAnticipoDePersonalPorComision.frm;Double
+CCTDepositoEnDocumentosCta.frm;frmCJELecturaDAP
+frmCjaConsultaTraspaso.frm;MSComctlLib.ListItem
+HIPLiquidacionCredito.frm;String
+CVELiquidacion.frm;CTransaccion
+LCDPagoAnticipadoDeCuotas.frm;New CMensajes
+LCCPrepagoLinea.frm;CTransaccion
+CrcDevolucionSegMas5Dias.frm;cSolicitudDeEmision
+frmHipIssacPagoCuota.frm;Collection
+frmDepositoChequesRecibidos.frm;Integer
+DEPEmitirPagare.frm;String
+RegistroTrx32.frm;MSComctlLib.ListImage
+RDDLiquidacionReprogramacionDeDeuda.frm;cSolicitudDeEmision
+AhoPlazoGiro.frm;cDocumento
+frmCMRRetiroSuperCash.frm;Boolean
+frmCMRPrepagoSuperCash.frm;MSComctlLib.ListItem
+frmGTODevolucionCtaGastos.frm;Double
+CJAIngresoBancaInversiones.Frm;New CMensajes
+REXLiquidacionRecaudacion.frm;tRexLiquidacionEmpresaCliente
+CCTDepositoEnDocumentosLin.frm;cCheque
+Producto.frm;ListItem
+CVEAbono.frm;New cDocumento
+LCDPagoEstadoDeCuenta.frm;CTransaccion
+DEPEmitirPagare.frm;New Clientes.cCliente
+TCRAvanceEnEfec.frm;Integer
+HIPPagoDeCuota.frm;New cDocumento
+LCDPagoEstadoDeCuenta.frm;CDefinicionTrx
+CrcDevolucionSegMas5Dias.frm;CDefinicionTrx
+CCTDepositoEnDocumentosLin.frm;Double
+CLIOperacionesConsolidadas.frm;tOperacionConsolidada
+HIPPrepagoMutuoHip.frm;Boolean
+frmSOLPagoTarjeta.frm;Picture
+MediodePago.frm;tPago
+AhoPlazoGiro.frm;Printer
+DVAIngresoValeVistaATerceros.frm;String
+frmHIPPagoDePagare.frm;Boolean
+CRCPagoDeCuota.frm;CMoneda
+frmCJELecturaValeVista.frm;New CMoneda
+frmCMRPagoTarjeta.frm;String
+LCCRefinanGiro.frm;New cDocumento
+AHORemesa.frm;New cReinversion
+HIPLiquidacionCredito.frm;CMoneda
+CRCActivacion.Frm;New Clientes.cClienteEmpresa
+frmHipIssacPrePagoCuota.frm;Double
+CRCActivacion.Frm;Printer
+HIPLiquidacionCredito.frm;Double
+CJARecepcionDeImpuestos.Frm;Integer
+frmCMRRetiroSuperCash.frm;Integer
+CLIPagoMultiple.frm;cCheque
+CJAEntregaCaja.frm;MSComctlLib.ListItem
+CRCActivacion.Frm;tVerificacionHuellaDigital
+CRCPagoDeCuota.frm;CDefinicionTrx
+Grupo.frm;Boolean
+CRCPrepagoCredito.frm;Recordset
+DEPLiquidacionDeposito.frm;String
+AHORemesa.frm;New cOperacion
+frmCjeSeleccionCheque.frm;cDocumento
+frmGTODevolucionCtaGastos.frm;Boolean
+CARPagoCompraCartera.frm;Long
+CCTDepositoEnEfectivoLin.frm;Long
+CLIPagoMultiple.frm;New acrComprobantPagoMultiple
+LCCPrepagoLinea.frm;Long
+frmAhoPlazoDeposito.Frm;New Collection
+frmListaCuentas.frm;Integer
+CLIOperacionesConsolidadas.frm;New frmCLIFotografia
+CRCPagoDeCuota.frm;New acrComprobantePagoCRC
+HIPPagoDeCuota.frm;tMediosDePago
+RDDLiquidacionReprogramacionDeDeuda.frm;tMediosDePago
+frmGTODevolucionCtaGastos.frm;Integer
+CCTProtestoCheque.frm;Integer
+DEPReinversionDeposito.frm;cDocumento
+LCCRefinanAbono.frm;tMediosDePago
+CLIVencimientosConsolidados.frm;Integer
+DEPEmitirPagare.frm;frmCJAIngresoMotivo
+frmDepositoChequesRecibidos.frm;Collection
+CLIPagoMultiple.frm;New CTransaccion
+TCRPagoEstadoCuenta.frm;frmCJELecturaDocumentos
+REXCMRRecaudacion.frm;String
+frmCJELecturaDAP.frm;TextBox
+LCCPagoEstadoDeCuenta.frm;Double
+LCCActivacionDeGiro.Frm;String
+CLIPagoMultiple.frm;cVencimientos
+frmTransaccionesRemotas.frm;CMoneda
+frmCJELecturaValeVista.frm;Boolean
+CrcDevResguroMenos5Dias.frm;CDefinicionTrx
+frmCJAIngEgrATM.frm;Printer
+Reinyeccion32.Frm;New CJournal
+LCDPagoEstadoDeCuenta.frm;Object
+frmHipIssacPrePagoCuota.frm;Printer
+HIPPrepagoMutuoHip.frm;CMoneda
+CierreDeDia.Frm;CDefinicionTrx
+frmCMRViajesFalabella.frm;String
+CVELiquidacion.frm;frmCJELecturaDocumentos
+LCCActivacionDeGiro.Frm;tVerificacionHuellaDigital
+HIPPrepagoMutuoHip.frm;New CMensajes
+CRCPagoDeCuota.frm;CTransaccion
+TCRPagoEstadoCuenta.frm;cuentaAhorroType
+frmDepositoChequesRecibidos.frm;Double
+frmAhoListaCuentas.frm;Long
+frmHipIssacPrePagoCuota.frm;New Collection
+LCCPagoEstadoDeCuenta.frm;control
+RegistroTrx32.frm;Boolean
+CJARemesaEnvio.frm;String
+CRCPrepagoCredito.frm;Picture
+DesgloseMoneda.frm;String
+LCCRefinanAbono.frm;frmCJELecturaDocumentos
+frmCjaConsultaTraspaso.frm;Integer
+AhoPlazoGiro.frm;New cSolicitudDeEmision
+frmCMRSeguroSOAT.frm;Collection
+CCTGiroCuentaCorriente.frm;CMoneda
+LCCPagoAnticipadoDeCuotas.frm;Date
+frmCMRRetiroSuperCash.frm;Object
+CJAIntercambioDivisa.frm;CMensajes
+REXCMRRecaudacion.frm;Object
+MediodePago.frm;New CMensajes
+DEPReinversionDeposito.frm;New cBufferFielded32
+frmCMRPagoCero.frm;cCliente
+TCRPagoEstadoCuenta.frm;Long
+CJAIngresoEgresoMultiple.Frm;Collection
+LCCPrepagoLinea.frm;cCreditoLcc
+frmTCRInfSolcitudTarjetaCredito.frm;New CMensajes
+CRCPagoDeCuota.frm;New Collection
+frmAhoPlazoDeposito.Frm;Date
+frmTransaccionesRemotas.frm;CTransaccion
+REXCMRRecaudacion.frm;tINFORMACIONCMR
+frmCJELecturaDAP.frm;cOperacion
+CCTPagoChequeEmpresa.frm;New cCheque
+LCDPagoEstadoDeCuenta.frm;New CMensajes
+AhoPlazoGiro.frm;cuentaAhorroType
+CVELiquidacion.frm;cCarteraVencida
+frmGTOIngresoProvConvenio.frm;New cDocumento
+CrcDevolucionSegMas5Dias.frm;frmCJAIngresoMotivo
+DEPReinversionDeposito.frm;New CMoneda
+CierreDeDia.Frm;String
+DEPNuevoDeposito.frm;Integer
+frmCJELecturaDAP.frm;String
+frmPlanillaCuadratura.frm;T
+AHORemesa.frm;frmCJELecturaCheque
+RegistroTrx32.frm;cCliente
+CARPagoCompraCartera.frm;cSolicitudDeEmision
+HIPPrepagoMutuoHip.frm;Double
+Grupo.frm;Long
+frmCMRConsultaDeudaDisponible.frm;Double
+DEPEmitirPagare.frm;Long
+LCCPrepagoLinea.frm;cCredito
+frmCMRPagoTarjeta.frm;cTransaccionCMR
+CierreDeDia.Frm;New CDato
+frmGTOIngresoProvConvenio.frm;String
+CJAEntregaCaja.frm;CDefinicionTrx
+frmCMRViajesFalabella.frm;cTarjetaCMR
+CJASobranteFaltanteDeCaja.Frm;Double
+CLIFirmaDigital.frm;String
+TCRAvanceEnEfec.frm;CTransaccion
+LCCActivacionDeGiro.Frm;Double
+AhoPlazoGiro.frm;Double
+CJAIngresoEgresoCProt.frm;New cCheque
+CLIFotografia.frm;New cClienteBanco
+CLIFotografia.frm;Integer
+CRCPrepagoCredito.frm;New cCredito
+CARPagoCompraCartera.frm;Boolean
+CrcDevolucionSegMas5Dias.frm;Variant
+frmHipIssacPagoCuota.frm;New CMensajes
+CRCActivacion.Frm;CMoneda
+frmSOLActivacionTarjeta.frm;New CMensajes
+CHDetalleDocumento.frm;cCheque
+frmAhoPlazoDeposito.Frm;ComboBox
+AhoPlazoGiro.frm;cartolaAhorroType
+CLIOperacionesConsolidadas.frm;MSComctlLib.ListItem
+frmCMRViajesFalabella.frm;CMoneda
+frmDepositoChequesRecibidos.frm;Printer
+QuickSend.Frm;Double
+frmHIPPagoDeCupones.frm;Long
+CJAIntercambioDivisa.frm;Integer
+CRCActivacion.Frm;tOperacionConsolidada
+HIPLiquidacionCredito.frm;New cSolicitudDeEmision
+LCCPagoAnticipadoDeCuotas.frm;CTransaccion
+DEPReinversionDeposito.frm;Double
+DEPLiquidacionDeposito.frm;Collection
+CLIOperacionesConsolidadasOtro.frm;Integer
+LCCPrepagoLinea.frm;String
+DEPLiquidacionDeposito.frm;Double
+CJAIngresoTesoreriaGral.Frm;Boolean
+DEPLiquidacionDeposito.frm;New cBeneficiarioAdicional
+frmCMRPrepagoSuperCash.frm;CDefinicionTrx
+frmHipIssacPagoCuota.frm;frmCJELecturaCheque
+frmCMRConsultaDeudaDisponible.frm;Picture
+frmCMRConsultaDeudaDisponible.frm;Object
+CCTGiroCuentaCorriente.frm;New comprobanteUnicoGiroDeCuentas
+LCCRefinanGiro.frm;New cSolicitudDeEmision
+CLIPagoMultiple.frm;New cCheque
+LCCPrepagoLinea.frm;Boolean
+frmTCRInfSolcitudTarjetaCredito.frm;String
+AperturaDeDia.Frm;Double
+mdiPrincipal.Frm;ociada en
+frmCMRRetiroRapicash.frm;CTransaccion
+frmGTOIngresoCtaGastos.frm;tMediosDePago
+DVAIngresoValeVistaATerceros.frm;Boolean
+CLIFotografia.frm;Long
+LCDPagoEstadoDeCuenta.frm;Double
+CJAAdministradorDeCajas.frm;Long
+DVAIngresoValeVistaATerceros.frm;Integer
+DEPEmitirPagare.frm;tVerificacionHuellaDigital
+frmHipIssacPagoCuota.frm;cDocumento
+CCTProtestoCheque.frm;Double
+CJAEntregaCaja.frm;New Collection
+CRCActivacion.Frm;String
+RegistroTrx32.frm;tPagoBancoFueraDeLinea
+frmSOLActivacionTarjeta.frm;cTarjetaVISSAT
+LCDPagoAnticipadoDeCuotas.frm;String
+DesgloseMoneda.frm;Integer
+frmCjeSeleccionCheque.frm;Integer
+CCTPagoChequeEmpresa.frm;tRexEmpresaCliente
+frmCJELecturaValeVista.frm;Integer
+CJEDetalleDesgloseDocumento.frm;cDocumento
+DEPEmitirPagare.frm;New CMoneda
+LCCPrepagoLinea.frm;tMediosDePago
+CCTProtestoCheque.frm;tCUENTACORRIENTE
+CJAPagoChequePersonal.Frm;Boolean
+frmCJELecturaDocumentos.frm;MSComctlLib.ListItem
+CVEAbono.frm;Double
+CrcDevolucionSegMas5Dias.frm;Double
+frmHipIssacPrePagoCuota.frm;CMoneda
+CCTPagoCheque.frm;tCUENTACORRIENTE
+frmSOLPagoTarjeta.frm;New cCheque
+LCDPagoEstadoDeCuenta.frm;New acrComprobantePagoLCD
+CARPagoCompraCartera.frm;CTransaccion
+frmGTODevolucionCtaGastos.frm;New cDocumento
+CRCPrepagoCredito.frm;New cValorParidad
+CLIOperacionesConsolidadasOtro.frm;New Clientes.cClienteEmpresa
+CrcDevResguroMenos5Dias.frm;Printer
+DEPReinversionDeposito.frm;CTransaccion
+AhoPlazoGiro.frm;CTransaccion
+frmSOLPagoTarjeta.frm;cDocumento
+CJEDesgloseDocumento.frm;Double
+CRCPagoDeCuota.frm;New cDocumento
+DEPEmitirPagare.frm;ignado fue
+CCTPagoChequeEmpresa.frm;String *
+CrcDevolucionSegMas5Dias.frm;String
+LCCPagoEstadoDeCuenta.frm;New cDocumento
+CrcDevolucionSegMas5Dias.frm;CTransaccion
+CJAAdministradorDeCajas.frm;tTipoTerminal
+CJAIntercambioDivisa.frm;New cDocumento
+CCTPagoCheque.frm;String
+HIPPrepagoMutuoHip.frm;Integer
+DEPReinversionDeposito.frm;CDefinicionTrx
+CVELiquidacion.frm;CDefinicionTrx
+HIPPagoDeCuota.frm;cuentaAhorroType
+AhoPlazoGiro.frm;ListItem
+CJAOrdenDePagoINP.Frm;tMediosDePago
+HIPPagoDeCuota.frm;New cAhorroPlazo
+frmCMRRetiroRapicash.frm;New Collection
+LCCRefinanAbono.frm;Integer
+CJAEnvioACamara.Frm;CTransaccion
+HIPPrepagoMutuoHip.frm;New cDocumento
+LCCPagoEstadoDeCuenta.frm;New Collection
+LCCPagoAnticipadoDeCuotas.frm;cuentaAhorroType
+CRCPrepagoCredito.frm;tMediosDePago
+CJAAdministradorDeCajas.frm;Node
+CJEDetalleDesgloseDocumento.frm;cCheque
+CCTDepositoEnDocumentosCta.frm;frmCJELecturaValeVista
+RegistroTrx32.frm;ListItem
+DEPReinversionDeposito.frm;tVerificacionHuellaDigital
+CRCPagoDeCuota.frm;Date
+CJASolicitudPrivilegio.frm;Boolean
+DEPNuevoDeposito.frm;cDocumento
+LCCActivacionDeGiro.Frm;New cDocumento
+CJAIntercambioDivisa.frm;control
+DEPReinversionDeposito.frm;cSolicitudDeEmision
+CierreDeDia.Frm;Integer
+CJASolicitudPrivilegio.frm;Date
+CRCPagoDeCuota.frm;tEntregaCartolaTrim
+CVELiquidacion.frm;Printer
+frmHIPPagoDeCupones.frm;Boolean
+frmSOLPagoTarjeta.frm;CDefinicionTrx
+HIPLiquidacionCredito.frm;New Collection
+CJARecepcionDeImpuestos.Frm;New cDocumento
+AHORemesa.frm;cSolicitudDeEmision
+REXLiquidacionRecaudacion.frm;String
+CLIOperacionesConsolidadas.frm;Integer
+LCCActivacionDeGiro.Frm;Integer
+CJAIngresoEgresoCProt.frm;CMoneda
+CCTPagoChequeEmpresa.frm;CTransaccion
+frmSOLPagoTarjeta.frm;Integer
+frmHIPPagoDeCupones.frm;String
+DEPLiquidacionDeposito.frm;cSolicitudDeEmision
+frmHipIssacPagoCuota.frm;tMotivoEgreso
+HIPPagoDeCuota.frm;Double
+CJEDetalleDesgloseDocumento.frm;String *
+CJALiquidacionVentaDivisa.frm;Long
+frmCMRViajesFalabella.frm;cCliente
+DVAIngresoValeVistaATerceros.frm;MSComctlLib.ColumnHeader
+RegistroTrx32.frm;CMoneda
+LCCPagoAnticipadoDeCuotas.frm;New Collection
+CLIOperacionesConsolidadas.frm;MDIForm
+TCRGiroEnCuotas.frm;CDefinicionTrx
+CJASolicitudPrivilegio.frm;MSComctlLib.ListItem
+LCCPrepagoLinea.frm;New Collection
+DEPNuevoDeposito.frm;New cOperacion
+DVAEmisionValeVistaATerceros.frm;New CMensajes
+CJEDesgloseDocumento.frm;String *
+CVELiquidacion.frm;New CMoneda
+DEPLiquidacionDeposito.frm;frmCJAIngresoMotivo
+CJAIntercambioDivisa.frm;New cValorParidad
+LCDPrepagoLinea.frm;CTransaccion
+CJAPagoChequePersonal.Frm;CDefinicionTrx
+CJEInfIdentificadorDeLote.frm;control
+CJAAdministradorDeCajas.frm;Double
+frmCMRConsultaDeudaDisponible.frm;String
+RegistroTrx32.frm;Printer
+mdiPrincipal.Frm;C_PUNTO
+DEPReinversionDeposito.frm;New Clientes.cCliente
+TCRGiroEnCuotas.frm;New Collection
+frmCMRSeguroSOAT.frm;ociado no
+AHORemesa.frm;CTransaccion
+frmHIPPagoDeCupones.frm;New cSolicitudDeEmision
+HIPPagoDeCuota.frm;frmCJELecturaDocumentos
+Opciones.frm;Long
+frmCMRPagoCero.frm;Integer
+DEPReinversionDeposito.frm;Integer
+CLIOperacionesConsolidadasOtro.frm;MSComctlLib.ListImage
+frmPlanillaCuadratura.frm;New CMensajes
+LCCPagoAnticipadoDeCuotas.frm;New CMensajes
+frmDepositoChequesRecibidos.frm;CDefinicionTrx
+DVAIngresoValeVistaATerceros.frm;Double
+frmDepositoChequesRecibidos.frm;CTransaccion
+CLIInformacionComplementariaCliente.frm;tOperacion
+mdiPrincipal.Frm;New frmCLIOperacionesConsolidadas
+CLIVencimientosConsolidados.frm;New frmCLIPagoMultiple
+CCTDepositoEnEfectivoLin.frm;New comprobanteUnicoDepositoAbono
+CLIVerificacionHuella.frm;Integer
+frmAhoListaCuentas.frm;cAhorroPlazo
+HIPPrepagoMutuoHip.frm;cDocumento
+frmCjaConsultaTraspaso.frm;Long
+CJARemesaRecepcion.frm;Integer
+CJEDetalleDesgloseDocumento.frm;Date
+frmCJELecturaCheque.frm;New cCheque
+CJACancelacion de ValeVista.frm;CTransaccion
+CRCPagoDeCuota.frm;Picture
+TCRAvanceEnEfec.frm;Long
+AperturaDeDia.Frm;tRemesa
+CLIFirmaDigital.frm;cClienteBanco
+AHORemesa.frm;Long
+frmHipIssacPagoCuota.frm;frmCJELecturaDocumentos
+frmHipIssacPrePagoCuota.frm;Collection
+frmAhoPlazoDeposito.Frm;New cCheque
+CRCPagoDeCuota.frm;frmCJELecturaDocumentos
+mdiPrincipal.Frm;Integer
+CRCPrepagoCredito.frm;New cDocumento
+frmCjeSeleccionCheque.frm;MSComctlLib.ListItem
+RDDLiquidacionReprogramacionDeDeuda.frm;New cCheque
+LCDPagoAnticipadoDeCuotas.frm;Integer
+LCDPagoEstadoDeCuenta.frm;Date
+frmCMRPrepagoSuperCash.frm;New Collection
+DEPNuevoDeposito.frm;New CMoneda
+CJAIntercambioDivisa.frm;Long
+AhoPlazoGiro.frm;New Collection
+CCTGiroCuentaCorriente.frm;cClienteBanco
+frmAhoPlazoDeposito.Frm;New cSocio
+CJAIngresoEgresoMultiple.Frm;frmCJELecturaDocumentos
+CJARecepcionDeImpuestos.Frm;Date
+CJEDetalleDesgloseDocumento.frm;Form
+CJAIngresoEgresoCProt.frm;frmCJELecturaCheque
+DEPNuevoDeposito.frm;New Collection
+frmCMRPagoCero.frm;New Collection
+DVAIngresoValeVistaATerceros.frm;Date
+CierreDeDia.Frm;Double
+RDDLiquidacionReprogramacionDeDeuda.frm;tReprogramacionDeDeuda
+frmCMRViajesFalabella.frm;ociado no
+CLIVerificacionHuella.frm;Long
+LCDPrepagoLinea.frm;CMoneda
+CJAIntercambioDivisa.frm;String
+QuickSend.Frm;Integer
+frmCMRRetiroSuperCash.frm;tVerificacionHuellaDigital
+CLIVencimientosConsolidados.frm;String *
+CJEDetalleDesgloseDocumento.frm;New CMensajes
+frmHIPPagoDeCupones.frm;CDefinicionTrx
+frmHIPPagoDePagare.frm;cSolicitudDeEmision
+QuickSend.Frm;CTransaccion
+frmPlanillaCuadratura.frm;Database
+DEPReinversionDeposito.frm;Object
+CRCActivacion.Frm;Picture
+LCDPagoEstadoDeCuenta.frm;Boolean
+CRCPrepagoCredito.frm;tOperacionConsolidada
+frmSOLPagoTarjeta.frm;Object
+TCRGiroEnCuotas.frm;String
+CCTDepositoEnDocumentosLin.frm;New comprobanteUnicoDepositoAbono
+frmGTODevolucionCtaGastos.frm;New CMoneda
+LCCPagoAnticipadoDeCuotas.frm;Integer
+frmCMRPagoCero.frm;Printer
+HIPPagoDeCuota.frm;CTransaccion
+frmCMRSeguroSOAT.frm;cTarjetaCMR
+LCCRefinanAbono.frm;cDocumento
+Grupo.frm;ColumnHeader
+CJALiquidacionVentaDivisa.frm;Boolean
+frmEnvioDeRemesaRemoto.frm;CTerminal
+REXLiquidacionRecaudacion.frm;tRexEmpresaCliente
+frmPlanillaCuadratura.frm;Tr
+frmCMRPagoCero.frm;tVerificacionHuellaDigital
+CCTDepositoEnEfectivoCta.frm;CDefinicionTrx
+frmGTODevolucionCtaGastos.frm;New CTransaccion
+CJAIngresoEgresoMultiple.Frm;frmCJELecturaValeVista
+CCTPagoCheque.frm;Boolean
+CLIOperacionesConsolidadasOtro.frm;cuentaAhorroType
+CrcDevResguroMenos5Dias.frm;cSolicitudDeEmision
+CJAIntercambioDivisa.frm;cCliente
+DEPEmitirPagare.frm;New Clientes.cClienteEmpresa
+CJAAdministradorDeCajas.frm;ListImages
+CCTPagoChequeEmpresa.frm;Integer
+CARRecaudacionExterna.frm;New Clientes.cClienteEmpresa
+CCTDepositoEnEfectivoCta.frm;Double
+REXCMRRecaudacion.frm;cCheque
+CLIFotografia.frm;cClienteBanco
+CJARemesaEnvio.frm;CDefinicionTrx
+TCRPagoEstadoCuenta.frm;CDefinicionTrx
+CHDetalleDocumento.frm;New Collection
+CJAAnticipoDePersonalPorComision.frm;CTransaccion
+frmCJELecturaDocumentos.frm;Collection
+DEPNuevoDeposito.frm;String
+frmGTOIngresoProvConvenio.frm;CDefinicionTrx
+LCCPagoAnticipadoDeCuotas.frm;Long
+frmCMRRetiroSuperCash.frm;CDefinicionTrx
+frmTransaccionesRemotas.frm;Recordset
+CJARemesaEnvio.frm;Boolean
+CRCPrepagoCredito.frm;Double
+DEPLiquidacionDeposito.frm;frmCJELecturaDocumentos
+frmGTOIngresoProvConvenio.frm;New comprobanteIngresoProvisionConvenio
+frmHipIssacPrePagoCuota.frm;cCheque
+frmSOLActivacionTarjeta.frm;cCredito
+HIPPrepagoMutuoHip.frm;New Collection
+CJAAnticipoDePersonalPorComision.frm;frmCJAIngresoMotivo
+LCDPagoEstadoDeCuenta.frm;tOperacionConsolidada
+mdiPrincipal.Frm;New frmCJEInfIdentificadorDeLote
+CJAOrdenDePagoINP.Frm;frmCJELecturaCheque
+CARPagoCompraCartera.frm;New repComprobanteEmpRelacionada
+CJAIngresoEgresoMultiple.Frm;New cCheque
+CLIInformacionComplementariaCliente.frm;Integer
+frmGTODevolucionConvenio.frm;New cDocumento
+CrcDevResguroMenos5Dias.frm;cDocumento
+CJAIngresoEgresoMultiple.Frm;New CMensajes
+frmCMRSeguroSOAT.frm;cCliente
+CCTPagoCheque.frm;Double
+DVAEmisionValeVistaATerceros.frm;Date
+CVEAbono.frm;New cCheque
+LCCPagoAnticipadoDeCuotas.frm;Boolean
+CJASobranteFaltanteDeCaja.Frm;CTransaccion
+CLIFirmaDigital.frm;cDocumento
+CJAIntercambioDivisa.frm;Printer
+HIPPagoDeCuota.frm;CMoneda
+CJAIngresoTesoreriaGral.Frm;Integer
+LCDPagoAnticipadoDeCuotas.frm;New cDocumento
+frmGTODevolucionCtaGastos.frm;New CMensajes
+RegistroTrx32.frm;CMedioDePago
+CCTProtestoCheque.frm;Boolean
+CierreDeDia.Frm;CTerminal
+frmGTOIngresoCtaGastos.frm;CDefinicionTrx
+AHORemesa.frm;New Collection
+RDDLiquidacionReprogramacionDeDeuda.frm;CTransaccion
+frmSOLActivacionTarjeta.frm;String
+frmGTOIngresoCtaGastos.frm;New cGastosMontos
+DesgloseEfectivo.Frm;String
+MediodePago.frm;ociado a
+REXLiquidacionRecaudacion.frm;CMoneda
+CJAPagoChequePersonal.Frm;Double
+frmEnvioDeRemesaRemoto.frm;CDefinicionTrx
+frmGTOIngresoCtaGastos.frm;Boolean
+CJAEgresoBancaInversiones.frm;Boolean
+CLIPagoMultiple.frm;CDefinicionTrx
+CJAEgresoBancaInversiones.frm;String
+frmHipIssacPrePagoCuota.frm;cDocumento
+CJEDesgloseDocumento.frm;Long
+DEPNuevoDeposito.frm;Double
+RegistroTrx32.frm;Byte
+DEPDevolucionCheque.frm;New cFormaLiquidacion
+CJAIntercambioDivisa.frm;cClienteBanco
+frmCjeSeleccionCheque.frm;Boolean
+CJASolicitudPrivilegio.frm;Integer
+DEPLiquidacionDeposito.frm;New cRentaPeriodica
+CJAIngresoEgresoCProt.frm;frmCJELecturaValeVista
+frmCMRSeguroSOAT.frm;CMoneda
+CLIPagoMultiple.frm;CMoneda
+AHORemesa.frm;String
+AperturaDeDia.Frm;New CJournal
+frmCJELecturaCheque.frm;CMoneda
+CCTGiroCuentaCorriente.frm;Long
+frmGTODevolucionConvenio.frm;Boolean
+CLIVerificacionHuella.frm;Boolean
+CCTDepositoEnEfectivoLin.frm;tLINEASOBREGIRO
+CHDetalleDocumento.frm;New CMensajes
+frmSOLPagoTarjeta.frm;Printer
+RegistroTrx32.frm;CTransaccion
+frmEnvioDeRemesaRemoto.frm;Integer
+CRCPrepagoCredito.frm;Variant
+DEPNuevoDeposito.frm;frmCJELecturaDocumentos
+CrcDevolucionSegMas5Dias.frm;Printer
+frmGTOIngresoCtaGastos.frm;Long
+TCRAvanceEnEfec.frm;Double
+frmAhoPlazoImpLibreta.frm;cartolaAhorroType
+LCCPagoEstadoDeCuenta.frm;frmCJELecturaDocumentos
+CRCPrepagoCredito.frm;CTransaccion
+CrcDevolucionSegMas5Dias.frm;tReprogramacionDeDeuda
+CJAIngresoEgresoCProt.frm;CDefinicionTrx
+frmTCRInfSolcitudTarjetaCredito.frm;tSolicitudTCR
+CCTDepositoEnEfectivoCta.frm;CTransaccion
+CJAPagoChequePersonal.Frm;New cCheque
+CVEAbono.frm;tMediosDePago
+frmHipIssacPagoCuota.frm;String
+DEPReinversionDeposito.frm;New Clientes.cClienteEmpresa
+CJALiquidacionVentaDivisa.frm;CMoneda
+CJALiquidacionVentaDivisa.frm;New Collection
+CLIPagoMultiple.frm;Double
+CARPagoCompraCartera.frm;tConceptoPago
+CrcDevolucionSegMas5Dias.frm;cDocumento
+LCCPagoEstadoDeCuenta.frm;CMoneda
+CCTPagoChequeEmpresa.frm;frmCJELecturaCheque
+frmCJELecturaDAP.frm;Double
+CJARecepcionDeImpuestos.Frm;frmCJELecturaDocumentos
+frmTransacciones.frm;ListItem
+CJARemesaRecepcion.frm;CMoneda
+AHORemesa.frm;New CMoneda
+CJAIngresoEgresoCProt.frm;CTransaccion
+frmGTODevolucionConvenio.frm;tMediosDePago
+frmCJELecturaCheque.frm;frmModificacionNombre
+LCCRefinanGiro.frm;Date
+RegistroTrx32.frm;New cRegistroTransaccion
+frmAhoPlazoDeposito.Frm;Boolean
+HIPLiquidacionCredito.frm;Boolean
+CCTGiroCuentaCorriente.frm;Boolean
+mdiPrincipal.Frm;C_ESC
+CCTDepositoEnDocumentosLin.frm;New Clientes.cClienteEmpresa
+RegistroTrx32.frm;cCheque
+CARRecaudacionExterna.frm;CTransaccion
+frmCMRRetiroSuperCash.frm;Printer
+CJALiquidacionVentaDivisa.frm;cCustodia
+CRCPagoDeCuota.frm;tVencimientoCuota
+DEPEmitirPagare.frm;New cDepProducto
+CCTPagoCheque.frm;String *
+CJEDesgloseDocumento.frm;New CMensajes
+AhoPlazoGiro.frm;ComboBox
+frmCJELecturaCheque.frm;cCheque
+CrcDevResguroMenos5Dias.frm;frmCJAIngresoMotivo
+CJAAdministradorDeCajas.frm;Form
+CJEInfIdentificadorDeLote.frm;String
+CJEInfIdentificadorDeLote.frm;Integer
+HIPPagoDeCuota.frm;New Collection
+TCRPagoEstadoCuenta.frm;tMediosDePago
+frmCMRConsultaDeudaDisponible.frm;Boolean
+frmCJELecturaDAP.frm;Integer
+LCCPagoAnticipadoDeCuotas.frm;tMediosDePago
+CJAOrdenDePagoINP.Frm;Boolean
+DEPReinversionDeposito.frm;New cReinversion
+LCDPagoAnticipadoDeCuotas.frm;CMoneda
+CJAAdministradorDeCajas.frm;Collection
+CCTPagoChequeEmpresa.frm;String
+CRCPrepagoCredito.frm;cDocumento
+CVEAbono.frm;Picture
+mdiPrincipal.Frm;New CJournal
+CrcDevResguroMenos5Dias.frm;String
+mdiPrincipal.Frm;C_ENTER
+CrcDevolucionSegMas5Dias.frm;frmCJELecturaCheque
+REXLiquidacionRecaudacion.frm;Boolean
+CJAAdministradorDeCajas.frm;New frmEnvioDeRemesaRemoto
+TCRPagoEstadoCuenta.frm;String
+frmTCRInfSolcitudTarjetaCredito.frm;MSComctlLib.ListItem
+frmCMRRetiroSuperCash.frm;cTarjetaCMR
+REXCMRRecaudacion.frm;CDefinicionTrx
+CrcDevolucionSegMas5Dias.frm;New CMensajes
+DEPEmitirPagare.frm;Boolean
+CrcDevResguroMenos5Dias.frm;CTransaccion
+frmCJELecturaCheque.frm;Object
+Producto.frm;New CMensajes
+AhoPlazoGiro.frm;Boolean
+CLIInformacionComplementariaCliente.frm;New Collection
+CARPagoCompraCartera.frm;New CMensajes
+LCCPagoEstadoDeCuenta.frm;Integer
+frmCMRRetiroRapicash.frm;Integer
+frmEnvioDeRemesaRemoto.frm;Long
+frmGTODevolucionConvenio.frm;New CMoneda
+frmAhoPlazoImpLibreta.frm;Boolean
+frmAhoPlazoDeposito.Frm;Collection
+CJAAdministradorDeCajas.frm;New CSucursal
+REXCMRRecaudacion.frm;New acrComprobantePagoCMR
+CJAIngresoBancaInversiones.Frm;Boolean
+frmCJELecturaCheque.frm;New frmCLIFirmaDigital
+LCCPagoAnticipadoDeCuotas.frm;cDocumento
+LCDPagoEstadoDeCuenta.frm;Long
+Reinyeccion32.Frm;Byte
+frmHipIssacPagoCuota.frm;CMoneda
+frmHipIssacPagoCuota.frm;Integer
+DesgloseEfectivo.Frm;Long
+CCTProtestoCheque.frm;tIdentificador
+CARRecaudacionExterna.frm;New repComprobanteEmpRelacionada
+mdiPrincipal.Frm;New frmCJEDesgloseDocumento
+CJAAnticipoDePersonalPorComision.frm;New acrComprobanteAnticipoComision
+CJAIngresoEgresoCProt.frm;New cDocumento
+TCRGiroEnCuotas.frm;Double
+CJASolicitudPrivilegio.frm;tSolicitudPrivilegio
+CierreDeDia.Frm;New frmReinyeccion
+frmGTOIngresoCtaGastos.frm;New Collection
+CJAAdministradorDeCajas.frm;Object
+CLIOperacionesConsolidadasOtro.frm;New CMensajes
+CJARemesaEnvio.frm;cHermesUsuario
+CVEAbono.frm;Collection
+DesgloseMoneda.frm;ListItem
+LCDPagoAnticipadoDeCuotas.frm;frmCJELecturaCheque
+CJAIngresoEgresoCProt.frm;New cSolicitudDeEmision
+LCDPagoEstadoDeCuenta.frm;cCliente
+frmCJELecturaCheque.frm;New Collection
+CCTPagoChequeEmpresa.frm;idFoto
+CJAEnvioACamara.Frm;Double
+DVAIngresoValeVistaATerceros.frm;frmCJELecturaValeVista
+MediodePago.frm;String
+CJAIngresoTesoreriaGral.Frm;Double
+CCTProtestoCheque.frm;tCHEQUE
+CRCPagoDeCuota.frm;New cCheque
+CJAAdministradorDeCajas.frm;Integer
+frmPlanillaCuadratura.frm;CCaja
+CJAIngresoEgresoMultiple.Frm;String
+frmCMRViajesFalabella.frm;New cValorParidad
+DVAIngresoValeVistaATerceros.frm;CTransaccion
+frmTransacciones.frm;cServicio
+CJARemesaEnvio.frm;frmCjeSeleccionCheque
+frmListaCuentas.frm;cAhorroPlazo
+CRCPagoDeCuota.frm;Variant
+TCRAvanceEnEfec.frm;cSolicitudDeEmision
+CVEAbono.frm;New Collection
+DEPNuevoDeposito.frm;CDefinicionTrx
+frmGTOIngresoProvConvenio.frm;Boolean
+CCTDepositoEnEfectivoLin.frm;Boolean
+CCTPagoCheque.frm;Object
+LCCPrepagoLinea.frm;Collection

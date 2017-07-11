@@ -1,0 +1,645 @@
+cDocumento;Date
+ClaseTextBox;Long
+cImpresionPlanilla;total
+cTarjetaCMR;Double
+cReprogramacion;New CMensajes
+CCaja;ignada al
+cReinversion;Double
+cCorte;New cOperacion
+cHermesUsuario;Long
+CMoneda;Byte
+CCaja;Recordset
+cHermesUsuario;String
+cImpresionPlanilla;mCM
+cRTGrupo;Long
+CDato;Variant
+cImpRegTrxs;cR
+cClienteBanco;New CMensajes
+CCaja;tMedioDePago
+cCheque;Recordset
+cHermesUsuario;Date
+CMoneda;Double
+cGastos;Long
+cCredito;New CMensajes
+CSucursal;Boolean
+CMoneda;New CMoneda
+cOperacionCredito;New CMensajes
+CTerminal;Field
+CAplicacion;cIdentificacion
+cDesgloseEfectivo;Integer
+cBeneficiarioAdicional;Long
+cReinversion;Boolean
+CJournal;Total FROM
+CCaja;baseRespaldo
+CMonto;Double
+cSolicitudDeEmision;Boolean
+cDSR200;APPFINGER
+CTerminal;New repPlanillaCuadraturaDeCaja
+cClienteBanco;New cCliente
+CCaja;ListImages
+cBanco;String
+CMoneda;New Collection
+CFactura;CMensajes
+cHipBeneficiario;Integer
+cCustodia;CMensajes
+cParametroCaja;Object
+cClienteBanco;New frmCLIVerificacionHuella
+CTransaccion;CJournal
+CTransaccion;cCheque
+CTerminal;tTotal
+cCreditoLcc;CMensajes
+cSolicitudDeEmision;Collection
+CTerminal;New frmCJASolicitudPrivilegio
+CDefinicionTrx;Boolean
+cProducto;String
+cOperacionCredito;Date
+cDepProducto;Double
+cImpresionPlanilla;Long
+cDesgloseEfectivo;String
+cClienteBanco;Boolean
+cTransaccionCMR;Double
+cDocumento;New cBeneficiarioAdicional
+CAplicacion;New CMensajes
+cOperacion;cCliente
+cRTRegistro;Integer
+CTerminal;New CTransaccion
+cAhorroPlazo;New frmAhoPlazoGiro
+cCredito;tSubProducto
+cServicio;Boolean
+cDocumento;Variant
+cRTTransaccion;String
+CTerminal;ignoPrivilegioTemporalDeAjusteDeTotales Then
+cRemesa;Boolean
+cCreditoLcc;Integer
+cTipoDeDocumento;Variant
+CSucursal;New CMensajes
+CJournal;Moneda
+cRTRegistro;String
+cMontoMaximo;Long
+cCredito;Integer
+CTerminal;New frmCJAEntregaCaja
+cAhorroPlazo;New frmAhoPlazoDeposito
+cRTGrupo;Integer
+cInformeTesoreria;Double
+cPlanillaMedioPago;String
+cCredito;Collection
+cValorParidad;Boolean
+CTransaccion;Recordset
+CMensajes;Boolean
+CMoneda;Integer
+cRTRegistro;Long
+CTerminal;Double
+cCredito;cValorParidad
+cImpRegTrxs;tD
+cDepProducto;Integer
+cCorte;New CMensajes
+CCaja;Field
+cMontoMaximo;Integer
+cCorte;Integer
+cCreditoLcc;Variant
+cOperacion;Collection
+cVencimientos;String
+cRentaPeriodica;New CMensajes
+cCustodia;Double
+cBeneficiarioAdicional;New cBeneficiarioAdicional
+cCredito;tDestinatarioValeVista
+cTarjetaCredito;Double
+CCaja;Variant
+cSolicitudDeEmision;Variant
+cCredito;String
+cMedioEntrega;New CMensajes
+cDocumento;cBeneficiarioAdicional
+CDefinicionTrx;Variant
+cPrepagoCredito;Integer
+cProtesto;Boolean
+CMonto;Integer
+cMedioEntrega;Collection
+CCaja;cProducto
+cRemesa;Long
+CTerminal;New CUsuario
+CAplicacion;Integer
+cRTEstado;New Collection
+CDefinicionTrx;Date
+CCaja;New CGrupo
+cVencimientos;Double
+cPrepagoCredito;Long
+cBanco;Integer
+CMensajes;Long
+CMensajes;cBufferFielded32
+CMensajes;String
+cFormaLiquidacion;Long
+cValorParidad;Date
+CJournal;Collection
+CGrupo;CDefinicionTrx
+cAhorroPlazo;Boolean
+cReinversion;Long
+cTarjetaCredito;Boolean
+CTransaccion;Variant
+cCreditoLcc;tFinCUOTA
+cTarjetaCredito;New CMensajes
+CFactura;String
+cSolicitudDeEmision;String
+CDefinicionTrx;String *
+cValorParidad;String
+cImpRegTrxs;Recordset
+cDocumento;cOperacion
+CTransaccion;CTransaccion
+CSucursal;Integer
+cClienteBanco;Date
+cTransaccionCMR;Long
+cClienteBanco;Long
+cImpRegTrxs;Long
+cHermesUsuario;New cBufferFielded32
+CDefinicionTrx;String
+CGrupo;Long
+CTerminal;Index
+cImpRegTrxs;tC
+cImpresionPlanilla;Date
+cCreditoLcc;Collection
+CTerminal;New repPlanillaCuadraturaDeCajaUniversal
+cAhorroPlazo;frmAhoListaCuentas
+cDSR200;String
+cCreditoLcc;Single
+CMedioDePago;Integer
+CCaja;String *
+CCaja;New Collection
+cCheque;Long
+cImpRegTrxs;New cRTGrupo
+cImpRegTrxs;eC
+cCheque;Double
+cDocumento;CMensajes
+cSeguro;Double
+CUsuario;Boolean
+CTransaccion;New cValorParidad
+CTerminal;String
+CUsuario;String *
+cProtesto;String
+cDocumento;Collection
+cImpresionPlanilla;mCP
+cHipBeneficiario;String
+CSucursal;New cBufferFielded32
+cCredito;New Collection
+CTerminal;New frmCierreDeDia
+CDato;Integer
+CDefinicionTrx;Object
+cCuota;Integer
+CJournal;tTotal
+cCuentaGastos;Boolean
+CFactura;Double
+CJournal;Totales
+cDispensadora;Boolean
+ClaseTextBox;Control
+CAplicacion;Date
+cOperacionCredito;Integer
+CCaja;New repCanjeOficina
+CGrupo;Object
+cTarjetaVISSAT;Integer
+cDesgloseEfectivo;Double
+cOperacionCredito;Boolean
+cHipBeneficiario;Long
+CAplicacion;CSucursal
+CJournal;New CTransaccion
+CCaja;Boolean
+cProtesto;Long
+cMontoMaximo;String
+CTerminal;Printer
+cRentaPeriodica;Integer
+cTipoDeDocumento;CMensajes
+cBanco;Boolean
+CTerminal;tSolicitudPrivilegio
+cCuota;CMensajes
+cDocumento;String
+CGrupo;ignado por
+cReprogramacion;tSubProducto
+cImpresionPlanilla;New cPlanillaGrupo
+CMedioDePago;Boolean
+cCreditoLcc;Boolean
+CSucursal;tTotal
+cDSR200;Long
+cReinversion;String
+cRemesa;New CMensajes
+CJournal;New CMonto
+cBanco;CMensajes
+CTerminal;New Collection
+cPlanillaTransaccion;Double
+cReprogramacion;CDefinicionTrx
+ClaseTextBox;Currency
+cPlanillaTransaccion;New Collection
+cBanco;Variant
+cGastos;Double
+CUsuarioUniversal;Integer
+cBanco;New CMonto
+CTerminal;New cBufferFielded32
+cRTTransaccion;Long
+CSucursal;String
+CUsuario;Recordset
+CGrupo;Variant
+cParametroCaja;Integer
+CTransaccion;Double
+cDispensadora;Label
+cImpresionPlanilla;Integer
+cCheque;Date
+CJournal;Long
+cTarjetaVISSAT;String
+CUsuarioUniversal;Boolean
+cBeneficiarioAdicional;Double
+CTransaccion;ignar un
+cReprogramacion;New Collection
+CJournal;total FROM
+cCarteraVencida;Date
+cRTRegistro;Double
+cOperacion;cDepProducto
+CCaja;CAplicacion
+CTransaccion;cBufferFielded32
+cFormaLiquidacion;New cFormaLiquidacion
+CTerminal;ignado a
+CTerminal;mdiPrincipal
+cCuentaGastos;cBufferFielded32
+cPlanillaGrupo;String
+CJournal;monto FROM
+cCheque;Integer
+cTipoDeDocumento;Boolean
+cTransaccionCMR;Integer
+CUsuarioUniversal;Long
+CTransaccion;Long
+cSolicitudDeEmision;CMensajes
+CJournal;Integer
+cImpRegTrxs;gD
+CJournal;Date
+cFormaLiquidacion;Boolean
+cPlanillaGrupo;Double
+CAplicacion;Boolean
+cOperacion;CMoneda
+cImpresionPlanilla;tD
+CTerminal;TableDef
+cValorParidad;Double
+cCredito;New cValorParidad
+cRTTransaccion;Integer
+cRTEstado;Integer
+cImpRegTrxs;tS
+cProtesto;Double
+CUsuarioUniversal;New CMensajes
+cDocumento;Printer
+cDSR200;ESTIMATEPARAMS
+cCustodia;Long
+cDocumento;New cDepProducto
+cImpresionPlanilla;tM
+cParametroCaja;Variant
+CFactura;Single
+CCaja;CTransaccion
+CAplicacion;Collection
+cBanco;Collection
+cRTGrupo;String
+cCredito;CMensajes
+CJournal;Double
+cImpRegTrxs;New cRTTransaccion
+CCaja;CMedioDePago
+CTerminal;New repDocumentoMayorCuantia
+cCreditoLcc;tFinCREDITO
+cDepProducto;New CMensajes
+cClienteBanco;tMiniEvaluacion
+cCreditoLcc;Date
+cRegistroTransaccion;String
+cFormaLiquidacion;Collection
+cPlanillaMedioPago;Integer
+cTarjetaCredito;tSolicitudTCR
+CSucursal;Long
+cCreditoLcc;Double
+CJournal;codigoPago
+cCarteraVencida;New CMensajes
+cReinversion;cOperacion
+cCombo;Boolean
+CTransaccion;String
+cBanco;New cBufferFielded32
+CJournal;Database
+CCaja;TableDef
+cCredito;Double
+CMedioDePago;Object
+CMensajes;Integer
+cCombo;Integer
+cCreditoLcc;CFactura
+cRemesa;Collection
+CJournal;Variant
+cHipBeneficiario;CMensajes
+CTerminal;Database
+CTerminal;New repDesgloseEfectivo
+cRTGrupo;New Collection
+cAhorroPlazo;Form
+cDocumento;New cCliente
+cImpresionPlanilla;mPD
+cCredito;cCuota
+CTerminal;New CMensajes
+cServicio;String
+cSolicitudDeEmision;Integer
+CCaja;Integer
+cImpRegTrxs;Integer
+CTerminal;New CMonto
+cSeguro;String
+CTerminal;CDefinicionTrx
+CFactura;Integer
+cDocumentoCMR;String
+cSolicitudDeEmision;Date
+cDepProducto;String
+cProtesto;New cProtesto
+cReprogramacion;Object
+CTerminal;Integer
+CUsuario;Integer
+cReprogramacion;Integer
+CGrupo;Collection
+CMonto;Long
+cCuota;Long
+cTarjetaCredito;Object
+cImpresionPlanilla;New cPlanillaMovimiento
+cDesgloseEfectivo;Long
+CTransaccion;String *
+cDocumento;New cOperacion
+cBeneficiarioAdicional;cOperacion
+cOperacionCredito;Long
+CTerminal;CCaja
+CTerminal;New repPlanillaTransaccionesTarjetaCMR
+CAplicacion;New cTipoDeDocumento
+CTransaccion;New CMonto
+cDocumento;New CMoneda
+cBanco;New CMensajes
+cHipBeneficiario;Double
+CCaja;Double
+cPrepagoCredito;Double
+CUsuarioUniversal;String
+CCaja;Long
+cOperacion;Long
+cDocumentoCMR;Long
+CJournal;Recordset
+cCarteraVencida;Boolean
+cCredito;New cCliente
+cReprogramacion;Boolean
+CFactura;Boolean
+CSucursal;Variant
+CMonto;New Collection
+CJournal;medioDePago
+cServicio;ignarDato
+cImpresionPlanilla;New cPlanillaTransaccion
+cImpresionPlanilla;gD
+CTransaccion;CDefinicionTrx
+CMoneda;Variant
+cDSR200;Byte
+cProducto;Boolean
+cGastos;Integer
+CJournal;TotalInicio
+CGrupo;Integer
+cOperacion;cParidadMoneda
+CTransaccion;Boolean
+cImpresionPlanilla;gI
+cDSR200;String *
+cCarteraVencida;String
+CDefinicionTrx;Integer
+CMensajes;Variant
+cRemesa;String
+cOperacionCredito;Double
+CTerminal;New repDetalleTransaccionesCMR
+cImpresionPlanilla;Double
+cPlanillaTransaccion;String
+cPlanillaMedioPago;Long
+CMoneda;CMensajes
+CTerminal;New CJournal
+CCaja;CGrupo
+cClienteBanco;Integer
+cInformeTesoreria;Long
+cOperacion;Double
+cRegistroTransaccion;Long
+CJournal;Boolean
+cRegistroTransaccion;Date
+cCreditoLcc;Long
+CAplicacion;New Collection
+cIdentificacion;String
+cPlanillaGrupo;New Collection
+cTipoDeDocumento;String
+CCaja;CDefinicionTrx
+cReinversion;New CMensajes
+cSeguro;Integer
+CTerminal;New repCanjeDocumentos
+cReprogramacion;Double
+CJournal;String
+cRentaPeriodica;Double
+cImpresionPlanilla;mD
+cRTTransaccion;New Collection
+CMedioDePago;ociar un
+CMedioDePago;Variant
+cVencimientos;Integer
+CTerminal;tRegistroTransacciones
+CTransaccion;Integer
+cFormaLiquidacion;Integer
+CTerminal;Collection
+cBeneficiarioAdicional;Boolean
+cDepProducto;Date
+cImpRegTrxs;New cRTEstado
+CJournal;totales
+cImpRegTrxs;New cRTRegistro
+cDocumento;New Collection
+cImpRegTrxs;gC
+cValorParidad;New CMensajes
+cCuota;String
+cParidadMoneda;Boolean
+cBeneficiarioAdicional;String
+cCuota;Double
+cPlanillaMedioPago;Double
+cPlanillaGrupo;Long
+cParidadMoneda;New CMensajes
+CAplicacion;String
+cBeneficiarioAdicional;Integer
+cCredito;tSolicitudCRC
+CJournal;New Collection
+cSeguro;CMensajes
+cAhorroPlazo;String
+ClaseTextBox;String
+cDocumentoCMR;cCheque
+cImpRegTrxs;mR
+CTerminal;Variant
+CTransaccion;cDocumentoCMR
+cDocumento;Integer
+cDocumentoCMR;Double
+CCaja;New cBufferFielded32
+cDocumento;cCliente
+CMoneda;Object
+cIdentificacion;Integer
+cPlanillaGrupo;Integer
+cDSR200;Boolean
+cDispensadora;String
+cRemesa;Double
+cDepProducto;Boolean
+CDato;Boolean
+CAplicacion;String *
+CUsuarioUniversal;CMensajes
+CTransaccion;Date
+CFactura;Date
+CTerminal;Boolean
+CSucursal;Collection
+CAplicacion;Long
+cCredito;New CMoneda
+cTransaccionCMR;String
+cProducto;Integer
+cTipoDeDocumento;Integer
+cImpRegTrxs;Boolean
+CCaja;CUsuario
+CTerminal;CMensajes
+cPlanillaTransaccion;Integer
+cRemesa;New cRemesa
+cGastos;String
+cDispensadora;Double
+cTarjetaCMR;String
+cCredito;Object
+cRentaPeriodica;Boolean
+cFormaLiquidacion;New CMensajes
+CCaja;Collection
+cCorte;Boolean
+cReprogramacion;Date
+cDocumento;New cParidadMoneda
+cMedioEntrega;Integer
+cRegistroTransaccion;Double
+CJournal;codigoMoneda
+CSucursal;New Collection
+CTransaccion;New CJournal
+cCredito;CDefinicionTrx
+cCorte;Long
+CSucursal;New CMonto
+cOperacion;New CMensajes
+CTerminal;New frmCJAConsultaTraspaso
+cCheque;Boolean
+cMontoMaximo;Double
+cAhorroPlazo;CTransaccion
+cOperacion;cOperacion
+CTerminal;String *
+cImpRegTrxs;String
+cOperacion;String
+cClienteBanco;tEnrolamiento
+CJournal;CTransaccion
+cCustodia;Integer
+cServicio;cBufferFielded32
+CTerminal;CMoneda
+cParidadMoneda;String
+CTransaccion;iganar todos
+CTransaccion;New CDato
+CTerminal;Long
+cParidadMoneda;Integer
+cReprogramacion;tSolicitudRDD
+cSolicitudDeEmision;Double
+cPrepagoCredito;CMensajes
+CCaja;New CMensajes
+CSucursal;CMensajes
+cServicio;ignar el
+cAhorroPlazo;Integer
+cImpresionPlanilla;jT
+cRTEstado;String
+cTarjetaVISSAT;CMensajes
+cCheque;String
+cFormaLiquidacion;Double
+CTerminal;Recordset
+CTerminal;ignoPrivilegioTemporalDeAperturaDeCaja As
+cImpresionPlanilla;c
+cDocumento;Double
+cMedioEntrega;New cMedioEntrega
+CDato;Long
+cServicio;Integer
+cBanco;tTotal
+CJournal;CTerminal
+cRentaPeriodica;cOperacion
+cReinversion;New Collection
+CUsuario;Long
+CCaja;String
+CTerminal;New frmAperturaDeDia
+cOperacion;Variant
+cReinversion;Integer
+cCredito;cProducto
+cDocumento;Boolean
+CDefinicionTrx;Byte
+cTarjetaCMR;Integer
+cDocumentoCMR;Integer
+CFactura;Variant
+CGrupo;String
+cDispensadora;Long
+CUsuario;New CMensajes
+CCaja;mdiPrincipal
+CAplicacion;tPreferencias
+cCredito;Date
+cOperacionCredito;String
+cDocumento;Long
+CUsuario;String
+cCorte;Double
+cRentaPeriodica;New cRentaPeriodica
+cDispensadora;Integer
+CMoneda;tDenominacion
+cValorParidad;cValorParidad
+CCaja;Form
+cReprogramacion;String
+cProtesto;Collection
+CCaja;baseActual
+cImpresionPlanilla;New Collection
+CDefinicionTrx;Long
+CTransaccion;ignar los
+cCombo;String
+cImpresionPlanilla;New cPlanillaMedioPago
+cPrepagoCredito;String
+CMoneda;String
+cOperacion;Integer
+cCreditoLcc;cProducto
+cInformeTesoreria;String
+cOperacion;Printer
+cProtesto;New CMensajes
+CTerminal;New repDetalleTransacciones
+cCustodia;String
+cOperacion;Date
+cClienteBanco;Variant
+cTarjetaCMR;CMensajes
+cVencimientos;Long
+cParametroCaja;String
+cGastosMontos;Double
+cOperacion;cValorParidad
+CTerminal;ignoPrivilegioTemporalDeAjusteDeTotales As
+cDocumentoCMR;Date
+cOperacion;cRentaPeriodica
+cOperacion;Boolean
+cOperacion;Clientes.cClienteEmpresa
+cReprogramacion;Long
+cGastosMontos;String
+cOperacionCredito;CMensajes
+cCredito;Long
+cImpresionPlanilla;Recordset
+CJournal;usuario
+ClaseTextBox;Integer
+CTerminal;ignoPrivilegioTemporalDeAperturaDeCaja Then
+cMedioEntrega;String
+cMedioEntrega;Long
+cPlanillaMovimiento;New Collection
+CMedioDePago;String
+cRentaPeriodica;Long
+cPlanillaMovimiento;String
+CTerminal;Date
+cRentaPeriodica;Date
+CMensajes;ignar el
+cPlanillaTransaccion;Long
+CJournal;validaSaldo
+cBeneficiarioAdicional;New CMensajes
+cCarteraVencida;Long
+CCaja;Date
+cServicio;Variant
+CFactura;New CMensajes
+cCarteraVencida;Integer
+CFactura;CFactura
+CCaja;CJournal
+CTransaccion;Collection
+cRTEstado;Double
+cImpresionPlanilla;String
+cHermesUsuario;Boolean
+cImpRegTrxs;New Collection
+cCarteraVencida;Double
+cCorte;Collection
+cClienteBanco;String
+CCaja;Node
+cCredito;Boolean
+cPlanillaMovimiento;Integer
+CJournal;medioPago
+cValorParidad;Integer
+cDSR200;Integer
+cSolicitudDeEmision;Long
+cMedioEntrega;Boolean
+cDispensadora;String *
+cTarjetaCredito;CDefinicionTrx

@@ -1,0 +1,37 @@
+repPlanillaTransaccionesTarjetaCMR.Dsr;0
+repCanjeDocumentos.Dsr;0
+repDetalleMontoMayorCuantia.Dsr;0
+repDesgloseEfectivo.Dsr;0
+repDocumentoMayorCuantia.Dsr;0
+acrCMRPeruComprobantePago.Dsr;0
+acrCMRPeruComprobantePagoCuotaInicial.Dsr;0
+acrCMRPeruComprobantePrepagoSuperCash.Dsr;0
+acrCMRPeruComprobanteRetiroSupercash.Dsr;0
+acrCMRPeruComprobanteRetiroRapicash.Dsr;0
+acrCMRPeruComprobantePagoCreditosVarios.Dsr;0
+repPlanillaCuadraturaDeCajaUniversal.Dsr;0
+acrSolicitudTarjetaCredito.Dsr;0
+repComprobanteUnicoGirodeCuentasDsr.Dsr;0
+repComprobanteUnicoDepositoAbono.Dsr;0
+repDetalleTransaccionesCMR.Dsr;0
+repControlSaldosDiarios.Dsr;0
+comprobante ingreso provision convenio.Dsr;0
+repCanjeIdentificadorDeLote.Dsr;0
+acrComprobanteIntercambioDivisa.Dsr;0
+acrComprobanteAnticipoComision.Dsr;0
+acrComprobantePagoDolarTCR.Dsr;0
+acrComprobanteGiroTCR.Dsr;0
+acrComprobantePagoTCR.Dsr;0
+acrComprobanteAvanceEfectivoTcr.Dsr;0
+acrComprobanteEgresoHIP.Dsr;0
+acrComprobantePagoMultiple.Dsr;0
+repCanjeOficina.Dsr;0
+repDetalleTransacciones.Dsr;0
+repPlanillaCuadraturaDeCaja.DSR;0
+acrComprobantePagoLCD.Dsr;0
+acrComprobantePagoCMR.Dsr;0
+acrComprobantePagoCRC.Dsr;0
+acrComprobantePagoLCC.Dsr;0
+repComprobanteIngresoEgresoDocProt.Dsr;0
+comprobante ingreso provision.Dsr;0
+repComprobanteEmpRelacionada.Dsr;0

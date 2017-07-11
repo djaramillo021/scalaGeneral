@@ -1,0 +1,458 @@
+Bas/mFirmaCliente.bas:      If Not mensaje.EjecutarServicio("CliRecFirma") Then
+Bas/SoporteClases.bas:   If Not mensaje.EjecutarServicio("DvaRecSerieYFol") Then
+Bas/SoporteClases.bas:   If Not mensaje.EjecutarServicio("CjaHoraRemesa") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("CliRecActiv") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaIdentRemesa") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaRecDenominac") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaConsRemesa", SRV_NOT_FOUND) Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("SgtRecMoneda") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("SgtRecSucursal") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("CjaRecGrupo") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("CjaRecProducto") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("CjaRecUnMedio") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("CjaRecTransacc") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaInsGrupo") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaInsProducto") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaInsMedioPago") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaInsTransacc") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaModGrupo") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaModProducto") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaModMedioPago") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaModTransacc") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaElmGrupo") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaElmProducto") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaElmMedioPago") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaElmTransacc") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("CjaRecGrupos") Then
+Bas/ImplementacionDeTransacciones.bas:  If mensaje.EjecutarServicio("CjaRecTrxs") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("CjaRecProductos") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("CjaRecMedioPago") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("SgtRecParametro") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("DvaAgrDocumento") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("DvaRecDocumento") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("DvaAnularDocume") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaLiquidDocume") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("DvaRecTipoDeDoc") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaAgrSolicitud") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaRecSolicitud") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaRecSolicitud") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicioSinMensaje("DvaRecSolicitud") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaAnularSolici") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("DvaReversarDocu") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaRecSoliciDep") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaRecDocumeDep") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaRecDocDep") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("SgtRecComuna") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("SgtRecCiudad") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaRecTerminal") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaRecTerminal") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("CjaRecTerPorSuc", SRV_NOT_FOUND) Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaRecTerPorSuc", SRV_NOT_FOUND) Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaModTermTesor") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjeRecDoc", , False) Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("SgtRecPlaza") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("CjaRecTerPorSuc") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaRecSucPorTer") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaModUsuarTer") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjeRecRsmDoc") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaInsVerHuella") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CliRecTodDocFir") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaRecSdoSuc") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("CjaRecSaldSuc") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaElmSalSuc") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaInsSalSuc") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaModSalSuc") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("CjaRecUnSalSuc") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("TcrRecSolPorRUT") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("TrfRecSusPACOpC", SRV_NOT_FOUND) Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("LccRecLineaCC") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("LccRecPriFacImp", SRV_NOT_FOUND) Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CrcRecRegPagCuo", SRV_NOT_FOUND) Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("TcrRecDiasPago") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("TcrRecProducto") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("DvaRecSolicImpr") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("DvaRecDocNumEst") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaElmDenominac") Then
+Bas/ImplementacionDeTransacciones.bas:        If mensaje.EjecutarServicio("CjaInsUnaDenomi") Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaActDenominac") Then
+Bas/ImplementacionDeTransacciones.bas:    If mensaje.EjecutarServicio("CjaRecDetTrxPag", , False) Then
+Bas/ImplementacionDeTransacciones.bas:      If mensaje.EjecutarServicio("CjaInsDetTrx") Then
+Bas/ImplementacionDeTransacciones.bas:        If mensaje.EjecutarServicio("CjaElmDetTrx") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaRecDetTrxPag") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("CjaRecParamCja") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("CjaRecMonXTrx") Then
+Bas/ImplementacionDeTransacciones.bas:   If mensaje.EjecutarServicio("SgtRecBanco") Then
+Bas/ImplementacionDeTransacciones.bas:    If mensaje.EjecutarServicio("CjaInsMtoMaximo") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("SgtRecInst") Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("CjeRecDoc", , False) Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("CjeRecDoc", , False) Then
+Bas/ImplementacionDeTransacciones.bas:    If Not mensaje.EjecutarServicio("SgtRecTpoSegCor") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaInsDocValCMR") Then
+Bas/ImplementacionDeTransacciones.bas:   If Not mensaje.EjecutarServicio("DvaModDocValCMR") Then
+Bas/RutinasVissatAdquirente.bas:    If Not mensaje.EjecutarServicio("VissConsultaTrj") Then
+Bas/RutinasVissatAdquirente.bas:    If Not mensaje.EjecutarServicio("VissConsultaTrj") Then
+Bas/mValidacionHuella.bas:   If Not mensaje.EjecutarServicio("HrmRecEnrolamie", SRV_NOT_FOUND) Then
+Bas/mValidacionHuella.bas:   If Not mensaje.EjecutarServicio("CliRecEnrolamie", SRV_NOT_FOUND) Then
+Bas/mValidacionHuella.bas:   If Not mensaje.EjecutarServicio("CrcRecRutXCred") Then
+Bas/mValidacionHuella.bas:   If Not mensaje.EjecutarServicio("LccRecRutLCC") Then
+Bas/mValidacionHuella.bas:   If Not mensaje.EjecutarServicio("DepRecOperacion") Then
+Bas/mValidacionHuella.bas:   If Not mensaje.EjecutarServicio("HrmRecIdentXRut") Then
+Cls/CCaja.cls:   If Not mensaje.EjecutarServicio("CjaRecGrupos") Then
+Cls/CCaja.cls:   If Not mensaje.EjecutarServicio("CjaRecTrxGrpAcc") Then Exit Function
+Cls/CCaja.cls:   If Not mensaje.EjecutarServicio("TCjaCambioLlave") Then
+Cls/CAplicacion.cls:   If Not mensaje.EjecutarServicio("CjaRecUsuario") Then
+Cls/cCredito.cls:   If Not mensaje.EjecutarServicio("CrcRecDetSolCli") Then
+Cls/cCredito.cls:   If Not mensaje.EjecutarServicio("CrcRecProducto") Then
+Cls/cCredito.cls:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Cls/cCredito.cls:   If Not mensaje.EjecutarServicio("CrcRecCuotas") Then
+Cls/cCredito.cls:   If Not mensaje.EjecutarServicio("CrcCalcuPrepago") Then
+Cls/cCredito.cls:   If Not mensaje.EjecutarServicio("CrcRegEntCTrim") Then
+Cls/cCredito.cls:   If Not mensaje.EjecutarServicio("CrcBuscValParam") Then
+Cls/CUsuario.cls:   If Not mensaje.EjecutarServicio("CjaRecUsuario") Then
+Cls/CUsuario.cls:   If Not mensaje.EjecutarServicio("HrmRecUsuarios") Then
+Cls/Factura.Cls:   If Not mensaje.EjecutarServicio("LccRecFactura") Then
+Cls/cTarjetaCredito.cls:   If Not mensaje.EjecutarServicio("EvaRecSolTcr") Then
+Cls/Usuario.cls:   If Not mensaje.EjecutarServicio("HrmRecUsuarios") Then
+Cls/CTerminal.cls:   If Not mensaje.EjecutarServicio("CjaRecTerminal") Then
+Cls/CTerminal.cls:   If Not mensaje.EjecutarServicio("CjaSaldosInicio") Then
+Cls/CTerminal.cls:   TrxTotalesActualesCentrales = mensaje.EjecutarServicio("CjaSaldoActual")
+Cls/CTerminal.cls:    sts = mensaje.EjecutarServicio("CjaRecTraPorTip", SRV_NOT_FOUND)
+Cls/CTerminal.cls:   If Not mensaje.EjecutarServicio("CjaRecInsSolPrv") Then
+Cls/CTerminal.cls:   If Not mensaje.EjecutarServicio("CjeValCrrDiaPrs") Then Exit Function
+Cls/CTerminal.cls:   TrxTotalesActualesCentralesConFechaCaja = mensaje.EjecutarServicio("CjaSaldoActual")
+Cls/CTerminal.cls:   If Not mensaje.EjecutarServicio("CjaSalIniAnt") Then
+Cls/Sucursal.cls:   TrxTotalesActualesCentrales = mensaje.EjecutarServicio("CjaSdoSucursal")
+Cls/Sucursal.cls:    If Not mensaje.EjecutarServicio("SgtRecCiudad") Then
+Cls/cBanco.cls:   TrxTotalesActualesCentrales = mensaje.EjecutarServicio("CjaSdoBanco")
+Cls/CMoneda.cls:   If Not mensaje.EjecutarServicio("SgtRecParMoneda") Then
+Cls/CMoneda.cls:   If Not mensaje.EjecutarServicio("SgtRecParMoneda") Then
+Falabella/CJEDesgloseDocumento.frm:   If Not mensaje.EjecutarServicio("CjeRecDoc") Then
+Falabella/CJEDesgloseDocumento.frm:   If Not mensaje.EjecutarServicio("CjeIngDocDesGls") Then
+Falabella/CJEDesgloseDocumento.frm:   If Not mensaje.EjecutarServicio("CjeModCntDoc") Then
+Falabella/CJAEgresoBancaInversiones.frm:   If Not mensaje.EjecutarServicio("SgtRecBanco") Then
+Falabella/Registos Remotos/frmTransaccionesRemotas.frm:      If Not mensaje.EjecutarServicio("CjaRecTrxRemota") Then
+Falabella/LCCRefinanGiro.frm:   If Not mensaje.EjecutarServicio("LccRecRefinan") Then
+Falabella/frmHIPPagoDeCupones.frm:   If Not mensaje.EjecutarServicio("HipConBLet") Then
+Falabella/frmHIPPagoDeCupones.frm:   If Not mensaje.EjecutarServicio("HipConCupon") Then
+Falabella/CRCActivacion.Frm:   If Not mensaje.EjecutarServicio("CrcRecActivar") Then
+Falabella/CRCActivacion.Frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/CRCActivacion.Frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/TCRPagoEstadoCuenta.frm:   If Not mensaje.EjecutarServicio("TcrRecEstadoTcr") Then
+Falabella/TCRPagoEstadoCuenta.frm:   If Not mensaje.EjecutarServicio("TcrRecSaldoCta") Then
+Falabella/TCRPagoEstadoCuenta.frm:   If Not mensaje.EjecutarServicio("TcrRecParametro") Then
+Falabella/LCCPagoAnticipadoDeCuotas.frm:   If Not mensaje.EjecutarServicio("LccRecPagAnt") Then
+Falabella/LCCPagoAnticipadoDeCuotas.frm:   If Not mensaje.EjecutarServicio("LccRecLineaCC") Then
+Falabella/LCDPrepagoLinea.frm:   If Not mensaje.EjecutarServicio("LcdRecLineaCC") Then
+Falabella/LCDPrepagoLinea.frm:   If Not mensaje.EjecutarServicio("LcdRecPrepago") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("CctRecPrd") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("CctRecApoTipPod") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("CliRecEmpresa") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("CctRecComTipPod") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("CctRecDetAdiCta", False, False) Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("RddAnularSolic") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("EvaMiniEvaluar") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("RexRecSecMovEmp") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("Autoserv_TRX03") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("Autoserv_TRX01") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("RexRecEmpCliTod", SRV_NOT_FOUND) Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("RexRecLiqEmpCli") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("CctRecCuentaCte") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("CctRecLineaSob") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("SgtRecPlaza") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("CctRecChequeCta") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("CrcAnularSolic") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("EvaDctSolicitud") Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("TcrRecTarDumDis", SRV_NOT_FOUND) Then
+Falabella/Modulos Cliente/Cliente.bas:   If Not mensaje.EjecutarServicio("Autoserv_TRX07") Then
+Falabella/Modulos Cliente/Cliente.bas:        If Not mensaje.EjecutarServicio("SgtRecBanco") Then
+Falabella/Modulos Cliente/Cliente.bas:        If Not mensaje.EjecutarServicio("SgtRecUnaIns") Then
+Falabella/frmSOLActivacionTarjeta.frm:    If Not mensaje.EjecutarServicio("VissActivaTarj") Then
+Falabella/LCCRefinanAbono.frm:   If Not mensaje.EjecutarServicio("LccRecRefinan") Then
+Falabella/LCCRefinanAbono.frm:   If Not mensaje.EjecutarServicio("LccRecLineaCC") Then
+Falabella/frmGiroEnCuotas.frm:    If Not mensaje.EjecutarServicio("TcrSimularGiro") Then
+Falabella/frmGiroEnCuotas.frm:    If Not mensaje.EjecutarServicio("TcrRecTarjeta") Then
+Falabella/frmGiroEnCuotas.frm:    If Not mensaje.EjecutarServicio("CliRecCliente") Then
+Falabella/frmGiroEnCuotas.frm:   If Not mensaje.EjecutarServicio("TcrRecSaldoCta") Then
+Falabella/CRCPagoDeCuota.frm:   If Not mensaje.EjecutarServicio("CrcRecPagoCuota") Then
+Falabella/CRCPagoDeCuota.frm:   If Not mensaje.EjecutarServicio("CrcRPeriodoCT") Then
+Falabella/CRCPagoDeCuota.frm:   If Not mensaje.EjecutarServicio("CrcRecEntCTrim") Then
+Falabella/CRCPagoDeCuota.frm:   If Not mensaje.EjecutarServicio("CrcRegEntCTrim") Then
+Falabella/CRCPagoDeCuota.frm:   If Not mensaje.EjecutarServicio("CrcRecCuotas", SRV_NOT_FOUND) Then
+Falabella/CRCPagoDeCuota.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/TCRGiroEnCuotas.frm:         If Not mensaje.EjecutarServicio("VissatConAvaOL") Then
+Falabella/TCRGiroEnCuotas.frm:   If Not mensaje.EjecutarServicio("VissatSimAvance") Then
+Falabella/TCRGiroEnCuotas.frm:   If Not mensaje.EjecutarServicio("TcrRecTarjCli") Then
+Falabella/DVAIngresoValeVistaATerceros.frm:    If Not mensaje.EjecutarServicio("DvaRecValVista") Then
+Falabella/Clases Reprogramacion/cReprogramacion.cls:   If Not mensaje.EjecutarServicio("CrcRecProducto") Then
+Falabella/Clases Reprogramacion/cReprogramacion.cls:   If Not mensaje.EjecutarServicio("RddRecSolicitud") Then
+Falabella/frmPlanillaCuadratura.frm:   If Not mensaje.EjecutarServicio("HrmRecUsuarios") Then
+Falabella/frmHipIssacPagoCuota.frm:   If Not mensaje.EjecutarServicio("CjaRecMotEgreso") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("EvaRecAprSolTcr", SRV_NOT_FOUND) Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("CrcRecProducto") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("CrcRecDestino") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("LcdRecParametro") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("LcdRecLineaCC") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("LcdRecUnProduc") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("LccRecParametro") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("LccRecLineaCC") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("LccRecUnProduc") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("TcrRecParametro") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("TcrRecTarjeta") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("TcrRecProducto") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("CctRecCuentaCte") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("CliOperaciones") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("CliSolicitudes", SRV_NOT_FOUND) Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("CliOfertasClien", , False) Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("AhoRecProducto") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("AhoRecEstado") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("AhoRecParametro") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("TcrRecTarjetas", , False) Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("TcrRecContSol", , False) Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("DepRecOperacion") Then
+Falabella/CLIOperacionesConsolidadasOtro.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/HIPPagoDeCuota.frm:   If Not mensaje.EjecutarServicio("HipRecPagDiv") Then
+Falabella/HIPPagoDeCuota.frm:   If Not mensaje.EjecutarServicio("HipRecDeudOper") Then
+Falabella/frmHipIssacPrePagoCuota.frm:   If Not mensaje.EjecutarServicio("CjaRecMotEgreso") Then
+Falabella/CLIInformacionComplementariaCliente.frm:   If Not mensaje.EjecutarServicio("CliOfertasClien", , False) Then
+Falabella/CLIInformacionComplementariaCliente.frm:   If Not mensaje.EjecutarServicio("CliOfertasClien", , False) Then
+Falabella/CLIInformacionComplementariaCliente.frm:      If Not mensaje.EjecutarServicio("LccRecUnProduc", , True) Then
+Falabella/CLIInformacionComplementariaCliente.frm:   If mensaje.EjecutarServicio("LccRecParametro") Then
+Falabella/CLIInformacionComplementariaCliente.frm:   If Not mensaje.EjecutarServicio("CrcRecCredCliN2") Then
+Falabella/LCCActivacionDeGiro.Frm:   If Not mensaje.EjecutarServicio("LccRecActivGiro") Then
+Falabella/Modulos Ahorro/AhoPlazoFunciones.Bas:If servicioAhorro.EjecutarServicio("AhoCFechaProc") Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:If servicioAhorro.EjecutarServicio("AhoRecCuentaAho") Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:If servicioAhorro.EjecutarServicio("AhoRecCtaAsocia") Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:   If servicioAhorro.EjecutarServicio("AhoRecMovNoPost") Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:            If servicioSgt.EjecutarServicio("SgtRecSucursal") Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:   If servicioAhorro.EjecutarServicio("AhoRecMiscCtaAh", , False) Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:                            If servicioMiscelaneo.EjecutarServicio("AhoRecMiscelan") Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:If servicioCaja.EjecutarServicio("SgtRecDiasReten") Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:      If Not servicioAhorro.EjecutarServicio("AhoRecProducto") Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:If servicioAhorro.EjecutarServicio("AhoRecCtaAsocia") Then
+Falabella/Modulos Ahorro/AhoPlazoRutinas.Bas:    If Not mensaje.EjecutarServicio("CliRecIdCliPre") Then
+Falabella/frmCMRDetalleCredito.frm:   If mensaje.EjecutarServicio("SgtRecBanco") Then
+Falabella/CJEInfIdentificadorDeLote.frm:   If mensaje.EjecutarServicio("SgtRecBanco") Then
+Falabella/LCCPagoEstadoDeCuenta.frm:   If Not mensaje.EjecutarServicio("LccRecPagoFact") Then
+Falabella/LCCPagoEstadoDeCuenta.frm:   If Not mensaje.EjecutarServicio("LccRecVencFutur", SRV_NOT_FOUND) Then
+Falabella/LCCPagoEstadoDeCuenta.frm:   If Not mensaje.EjecutarServicio("LccRecLineaCC") Then
+Falabella/CARRecaudacionExterna.frm:   If Not mensaje.EjecutarServicio("SgtRecTipRecEmp") Then
+Falabella/CrcDevResguroMenos5Dias.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/CrcDevResguroMenos5Dias.frm:   If Not mensaje.EjecutarServicio("CrcRecProducto") Then
+Falabella/CrcDevResguroMenos5Dias.frm:   If Not mensaje.EjecutarServicio("CrcRecPremioCrc") Then
+Falabella/CrcDevResguroMenos5Dias.frm:   If Not mensaje.EjecutarServicio("CrcRecRenMen5Pe") Then
+Falabella/CrcDevResguroMenos5Dias.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/CrcDevResguroMenos5Dias.frm:   If Not mensaje.EjecutarServicio("CrcRecProducto") Then
+Falabella/CrcDevResguroMenos5Dias.frm:   If Not mensaje.EjecutarServicio("RddRecReprogDeu") Then
+Falabella/CrcDevResguroMenos5Dias.frm:      If Not mensaje.EjecutarServicio("RddRecFrmsPgGir") Then
+Falabella/LCDPagoEstadoDeCuenta.frm:   If Not mensaje.EjecutarServicio("LcdRecPagoFact") Then
+Falabella/LCDPagoEstadoDeCuenta.frm:   If Not mensaje.EjecutarServicio("LcdRecLineaCC") Then
+Falabella/LCDPagoEstadoDeCuenta.frm:   If Not mensaje.EjecutarServicio("LcdRecVencFutur", SRV_NOT_FOUND) Then
+Falabella/LCDPagoEstadoDeCuenta.frm:   If Not mensaje.EjecutarServicio("LcdRecLineaCC") Then
+Falabella/Cheques/CHDetalleDocumento.frm:   If mensaje.EjecutarServicio("SgtRecBanco") Then
+Falabella/Cheques/CHDetalleDocumento.frm:   If mensaje.EjecutarServicio("SgtRecPlaza") Then
+Falabella/CLIVerificacionHuella.frm:   If Not mensaje.EjecutarServicio("CliRecEnrolamie") Then
+Falabella/TCRAvanceEnEfec.frm:   If Not mensaje.EjecutarServicio("TcrRecSaldoCta") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("EvaRecAprSolTcr", SRV_NOT_FOUND) Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("CrcRecProducto") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("CrcRecDestino") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("LcdRecParametro") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("LcdRecLineaCC") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("LcdRecUnProduc") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("LccRecParametro") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("LccRecLineaCC") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("LccRecUnProduc") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("TcrRecParametro") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("TcrRecTarjeta") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("TcrRecProducto") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("CctRecCuentaCte") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("CliOperaciones") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("CliSolicitudes", SRV_NOT_FOUND) Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("CliOfertasClien", , False) Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("AhoRecProducto") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("AhoRecEstado") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("AhoRecParametro") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("TcrRecTarjetas", , False) Then
+Falabella/CLIOperacionesConsolidadas.frm:   If Not mensaje.EjecutarServicio("TcrRecContSol", , False) Then
+Falabella/CRCPrepagoCredito.frm:   If Not mensaje.EjecutarServicio("CrcRecPrepago") Then
+Falabella/CRCPrepagoCredito.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/CARPagoCompraCartera.frm:   If Not mensaje.EjecutarServicio("CarRecPagCmpCar") Then
+Falabella/CARPagoCompraCartera.frm:   If Not mensaje.EjecutarServicio("CarModEstCmpCar") Then
+Falabella/DVAEmisionValeVistaATerceros.frm:    If Not mensaje.EjecutarServicio("DvaRecValVista") Then
+Falabella/Clases Deposito/cBeneficiarioAdicional.cls:   If Not mensaje.EjecutarServicio("DepRecBeneficia") Then
+Falabella/Clases Deposito/cDepProducto.cls:   If Not Mensaje.EjecutarServicio("DepRecProducto") Then
+Falabella/Clases Deposito/cMedioEntrega.cls:   If Not mensaje.EjecutarServicio("DepRecMedioEnt") Then
+Falabella/Clases Deposito/cProtesto.cls:   If Not mensaje.EjecutarServicio("DepRecLstProtes") Then
+Falabella/Clases Deposito/cCorte.cls:   If Not Mensaje.EjecutarServicio("DepRecCorte") Then
+Falabella/Clases Deposito/cCorte.cls:   If Not Mensaje.EjecutarServicio("DepRecOperCorte") Then
+Falabella/Clases Deposito/cValorParidad.cls:   If Not mensaje.EjecutarServicio("SgtRecValParida") Then
+Falabella/Clases Deposito/cValorParidad.cls:   If Not mensaje.EjecutarServicio("SgtRecValParida") Then
+Falabella/Clases Deposito/cFormaLiquidacion.cls:   If Not mensaje.EjecutarServicio("DepRecLstFLiqui") Then
+Falabella/Clases Deposito/cRentaPeriodica.cls:   If Not Mensaje.EjecutarServicio("DepRecRPerioOpe") Then
+Falabella/Clases Deposito/cOperacion.cls:   If Not mensaje.EjecutarServicio("DepRecOperacion") Then
+Falabella/Clases Deposito/cOperacion.cls:   If Not mensaje.EjecutarServicio("DepValFolPagare") Then
+Falabella/Clases Deposito/cOperacion.cls:   If Not mensaje.EjecutarServicio("DepCtrlEmPagare") Then
+Falabella/Clases Deposito/cOperacion.cls:   If Not mensaje.EjecutarServicio("DepRecRPerioOpe") Then
+Falabella/Clases Deposito/cReinversion.cls:   If Not mensaje.EjecutarServicio("DepVerifReinver") Then
+Falabella/Clases Deposito/cReinversion.cls:   If Not mensaje.EjecutarServicio("DepRecDetReinv") Then
+Falabella/Clases Deposito/cParidadMoneda.cls:   If Not mensaje.EjecutarServicio("SgtRecParMoneda") Then
+Falabella/ISSACHipotecario.frm:    If Not mensaje.EjecutarServicio("IssRecPagoCuota") Then
+Falabella/ISSACHipotecario.frm:   If Not mensaje.EjecutarServicio("CrcRecCuotas", SRV_NOT_FOUND) Then
+Falabella/ISSACHipotecario.frm:   If Not mensaje.EjecutarServicio("IssRecCredito") Then
+Falabella/frmHIPPagoDePagare.frm:   If Not mensaje.EjecutarServicio("HipConBLet") Then
+Falabella/frmHIPPagoDePagare.frm:   If Not mensaje.EjecutarServicio("HipConLetras") Then
+Falabella/frmHIPPagoDePagare.frm:   If Not mensaje.EjecutarServicio("HipConCupon") Then
+Falabella/CCTProtestoCheque.frm:   If Not mensaje.EjecutarServicio("CjeRecCausaProt") Then Exit Function
+Falabella/CCTProtestoCheque.frm:   If Not mensaje.EjecutarServicio("CctRecMotEspPro", SRV_NOT_FOUND) Then Exit Function
+Falabella/Clases Ahorro/cRemesa.cls:  If Not mensaje.EjecutarServicio("AhoRecRemesas") Then
+Falabella/Clases Cliente/cOperacionCredito.cls:      If Not mensaje.EjecutarServicio("CrcNegocPrepago") Then
+Falabella/Clases Cliente/cOperacionCredito.cls:   If Not mensaje.EjecutarServicio("CrcCrePrepago") Then
+Falabella/Clases Cliente/cOperacionCredito.cls:   If Not mensaje.EjecutarServicio("CrcRecDestino") Then
+Falabella/Clases Cliente/cClienteBanco.cls:   If Not mensaje.EjecutarServicio("CliRecEmpRelac", SRV_NOT_FOUND) Then
+Falabella/LCDPagoAnticipadoDeCuotas.frm:   If Not mensaje.EjecutarServicio("LcdRecPagAnt") Then
+Falabella/LCDPagoAnticipadoDeCuotas.frm:   If Not mensaje.EjecutarServicio("LcdRecLineaCC") Then
+Falabella/RDDLiquidacionReprogramacionDeDeuda.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/RDDLiquidacionReprogramacionDeDeuda.frm:   If Not mensaje.EjecutarServicio("CrcRecProducto") Then
+Falabella/RDDLiquidacionReprogramacionDeDeuda.frm:   If Not mensaje.EjecutarServicio("RddRecReprogDeu", , False) Then
+Falabella/RDDLiquidacionReprogramacionDeDeuda.frm:      If Not mensaje.EjecutarServicio("CrcRecSolicCred") Then
+Falabella/RDDLiquidacionReprogramacionDeDeuda.frm:   If Not mensaje.EjecutarServicio("CrcRecPremioCrc") Then
+Falabella/RDDLiquidacionReprogramacionDeDeuda.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/RDDLiquidacionReprogramacionDeDeuda.frm:   If Not mensaje.EjecutarServicio("CrcRecProducto") Then
+Falabella/RDDLiquidacionReprogramacionDeDeuda.frm:   If Not mensaje.EjecutarServicio("RddRecReprogDeu") Then
+Falabella/RDDLiquidacionReprogramacionDeDeuda.frm:      If Not mensaje.EjecutarServicio("RddRecFrmsPgGir") Then
+Falabella/frmTCRInfSolcitudTarjetaCredito.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Falabella/frmTCRInfSolcitudTarjetaCredito.frm:   If Not mensaje.EjecutarServicio("SgtRecSucursal") Then
+Falabella/Clases Cartera Vencida/cCarteraVencida.Cls:   If Not mensaje.EjecutarServicio("CveRecRegAbo") Then
+Falabella/Clases Cartera Vencida/cCarteraVencida.Cls:   If Not mensaje.EjecutarServicio("CveRecRegLiq") Then
+Falabella/frmCMRPrepagoSuperCash.frm:         If Not mensaje.EjecutarServicio("VissatConVta") Then
+Falabella/frmCMRPrepagoSuperCash.frm:   If Not mensaje.EjecutarServicio("VissatSimVenta") Then
+Falabella/frmCMRPrepagoSuperCash.frm:   If Not mensaje.EjecutarServicio("TcrRecTarjCli") Then
+Falabella/Frm Gastos/frmGTODevolucionCtaGastos.frm:    If Not mensaje.EjecutarServicio("GtoRecDtlCtaGto") Then Set mensaje = Nothing: Exit Function
+Falabella/Frm Gastos/frmGTODevolucionCtaGastos.frm:    If Not mensaje.EjecutarServicio("GtoRecDtlDevCta") Then Set mensaje = Nothing: Exit Function
+Falabella/Frm Gastos/frmGTODevolucionConvenio.frm:    If Not mensaje.EjecutarServicio("GtoRecDtlCnv") Then Set mensaje = Nothing: Exit Function
+Falabella/Frm Gastos/frmGTODevolucionConvenio.frm:    If Not mensaje.EjecutarServicio("GtoRecDtlDevCnv") Then Set mensaje = Nothing: Exit Function
+Falabella/Frm Gastos/frmGTOConsultaPorRut.frm:    If Not mensaje.EjecutarServicio("GtoRecCtaGto") Then
+Falabella/Frm Gastos/frmGTOConsultaPorRut.frm:        If Not mensaje.EjecutarServicio("GtoRecDtlCtaGto") Then Set mensaje = Nothing: Exit Function
+Falabella/Frm Gastos/frmGTOConsultaPorRut.frm:    If Not mensaje.EjecutarServicio("HipLisSolRut") Then
+Falabella/Frm Gastos/frmGTOConsultaPorRut.frm:    If Not mensaje.EjecutarServicioSinMensaje("GtoRecCnv") Then
+Falabella/Frm Gastos/frmGTOConsultaPorRut.frm:        If Not mensaje.EjecutarServicio("GtoRecDtlCnv") Then Set mensaje = Nothing: Exit Function
+Falabella/Frm Gastos/frmGTOIngresoCtaGastos.frm:    If Not mensaje.EjecutarServicio("GtoRecDtlCtaGto") Then
+Falabella/Frm Gastos/frmGTOIngresoCtaGastos.frm:    If Not mensaje.EjecutarServicio("GtoRecDtlCCG") Then
+Falabella/Frm Gastos/frmGTOIngresoCtaGastos.frm:    If Not mensaje.EjecutarServicio("GtoCajMontoProv") Then
+Falabella/Frm Gastos/frmGTOIngresoProvConvenio.frm:    If Not mensaje.EjecutarServicio("GtoRecDtlCnv") Then
+Falabella/CJEDetalleDesgloseDocumento.frm:   If Not mensaje.EjecutarServicio("CjeIngDocDesGls") Then
+Falabella/HIPPrepagoMutuoHip.frm:   If Not mensaje.EjecutarServicio("HipRecPrepago") Then
+Falabella/HIPPrepagoMutuoHip.frm:   If Not mensaje.EjecutarServicio("HipRecDeudOper") Then
+Falabella/Modulos Gastos/mConstantesGastos.bas:    If Not mensaje.EjecutarServicio("SgtRecProducto") Then
+Falabella/LCCPrepagoLinea.frm:   If Not mensaje.EjecutarServicio("LccRecPrepago") Then
+Falabella/LCCPrepagoLinea.frm:   If Not mensaje.EjecutarServicio("LccRecLineaCC") Then
+Falabella/LCCPrepagoLinea.frm:   If Not mensaje.EjecutarServicio("LccRecPrepFact") Then
+Falabella/LCCPrepagoLinea.frm:   If Not mensaje.EjecutarServicio("LccRecPrepCre", SRV_NOT_FOUND) Then
+Falabella/LCCPrepagoLinea.frm:   If Not mensaje.EjecutarServicio("LccRecCredito") Then
+Falabella/LCCPrepagoLinea.frm:   If Not mensaje.EjecutarServicio("LccRecCreditos") Then
+Falabella/LCCPrepagoLinea.frm:   If Not mensaje.EjecutarServicio("LccRecFactImps", SRV_NOT_FOUND) Then
+Falabella/TCRAvanceEnEfectivo.frm:   If Not mensaje.EjecutarServicio("TcrRecSaldoCta") Then
+Falabella/CJAIngresoBancaInversiones.Frm:   If Not mensaje.EjecutarServicio("CjaRecMotEgreso") Then
+Falabella/HIPLiquidacionCredito.frm:   If Not mensaje.EjecutarServicio("HipRecBenefi") Then
+Falabella/ModulosCMR/CMRRutinas.bas:    If Not mensaje.EjecutarServicio("CjaCMRRecTarTod") Then
+Falabella/ModulosCMR/CMRRutinas.bas:    If Not mensaje.EjecutarServicio("CliRecDatCli") Then
+Falabella/ModulosCMR/CMRRutinas.bas:     If Not mensaje.EjecutarServicio("CjaCMRRecTarTod") Then
+Falabella/ModulosCMR/CMRRutinas.bas:    If Not mensaje.EjecutarServicio("CliRecTipIden") Then
+Falabella/ModulosCMR/CMRRutinas.bas:   If Not mensaje.EjecutarServicio("CliRecDatCli") Then
+Falabella/ModulosCMR/CMRRutinas.bas:    If Not mensaje.EjecutarServicio("CjaCMRRecCredit") Then
+Falabella/ModulosCMR/CMRRutinas.bas:    If Not mensaje.EjecutarServicio("CjaCMRRecTar") Then
+Falabella/ModulosCMR/CMRRutinas.bas:    If Not mensaje.EjecutarServicio("CjaCMRRecInfCli") Then
+Falabella/ModulosCMR/CMRRutinas.bas:   If Not mensaje.EjecutarServicio("CliRecDatCli", SRV_NOT_FOUND) Then
+Falabella/ModulosCMR/CMRRutinas.bas:   If Not mensaje.EjecutarServicio("CjaCMRRecDetTar", , False) Then
+Falabella/Frm Ahorro/AhoPlazoGiro.frm:   sts = servicioAhorro.EjecutarServicio("CajAhoModPosteo")
+Falabella/Frm Ahorro/AhoPlazoGiro.frm:      If servicioAhorro.EjecutarServicio("AhoRecProducto") Then
+Falabella/Frm Ahorro/AhoPlazoGiro.frm:      If servicioAhorro.EjecutarServicio("AhoRecSaldosMen") Then
+Falabella/Frm Ahorro/AhoPlazoGiro.frm:      If servicioAhorro.EjecutarServicio("AhoMovAfecGiro") Then
+Falabella/Frm Ahorro/AhoPlazoGiro.frm:      If servicioAhorro.EjecutarServicio("AhoRecEstado") Then
+Falabella/Frm Ahorro/AhoPlazoGiro.frm:   If servicioAhorro.EjecutarServicio("AhoRecTransacci") Then
+Falabella/Frm Ahorro/AhoPlazoGiro.frm:   If servicioAhorro.EjecutarServicio("AhoRecParametro") Then
+Falabella/Frm Ahorro/AhoPlazoGiro.frm:   If Not mensaje.EjecutarServicio("AhoRecMtoSolGir") Then
+Falabella/Frm Ahorro/frmAhoPlazoImpLibreta.frm:sts = servicioAhorro.EjecutarServicio("CajAhoModPosteo")
+Falabella/Frm Ahorro/frmAhoPlazoDeposito.Frm:sts = servicioAhorro.EjecutarServicio("CajAhoModPosteo")
+Falabella/Frm Ahorro/frmAhoPlazoDeposito.Frm:    If Not servicioAhorro.EjecutarServicio("AhoRecProducto") Then
+Falabella/Frm Ahorro/frmAhoPlazoDeposito.Frm:    If servicioAhorro.EjecutarServicio("AhoRecParametro") Then
+Falabella/Frm Ahorro/frmAhoPlazoDeposito.Frm:    If Not servicioAhorro.EjecutarServicio("AhoRecEstado") Then
+Falabella/Frm Ahorro/frmAhoPlazoDeposito.Frm:    If Not servicioAhorro.EjecutarServicio("AhoRecSaldosMen") Then
+Falabella/Frm Ahorro/frmAhoPlazoDeposito.Frm:If Not servicioAhorro.EjecutarServicio("AhoRecTransacci") Then
+Falabella/Frm Ahorro/frmAhoPlazoDeposito.Frm:If servicioAhorro.EjecutarServicio("AhoRecTransacci") Then
+Falabella/Frm Ahorro/frmAhoPlazoDeposito.Frm:   If servicioAhorro.EjecutarServicio("SgtRecValParida") Then
+Frm/CjaIngresoMotivo.frm:   If mensaje.EjecutarServicio("CjaRecMotNoVal") Then
+Frm/DesgloseEfectivo.Frm:   If mensaje.EjecutarServicio("CjaRecDenominac") Then
+Frm/DesgloseEfectivo.Frm:If mensaje.EjecutarServicio("CjaInsDenominac") Then
+Frm/frmPlanillaCuadratura.frm:   If Not mensaje.EjecutarServicio("HrmRecUsuarios") Then
+Frm/CJAAdministradorDeCajas.frm:   If Not mensaje.EjecutarServicio("CjaRecTipoTer") Then
+Frm/CJAAdministradorDeCajas.frm:   If Not mensaje.EjecutarServicio("CjaInsTerminal") Then
+Frm/CJAAdministradorDeCajas.frm:   If Not mensaje.EjecutarServicio("CjaModTerminal") Then
+Frm/CJAAdministradorDeCajas.frm:   If Not mensaje.EjecutarServicio("CjaRecEstCaja") Then
+Frm/CJAAdministradorDeCajas.frm:            If mensaje.EjecutarServicio("HrmRecUsuarios") Then
+Frm/frmCjaIngresoEgresoATM.frm:   If Not mensaje.EjecutarServicio("CjaRecDescATM") Then
+Frm/CJAIntercambioDivisa.frm:   If Not mensaje.EjecutarServicio("CjaRecCorInter") Then
+Frm/CJAIntercambioDivisa.frm:   If Not mensaje.EjecutarServicio("CliInsOcasional") Then
+Frm/CJAIntercambioDivisa.frm:   If Not mensaje.EjecutarServicio("CliRecCodGlosa") Then
+Frm/CJAIntercambioDivisa.frm:   If mensaje.EjecutarServicio("CliRecOcasional") Then
+Frm/RegistroTrx32.frm:                    Call mensaje.EjecutarServicio("VissatCAnPagOL")
+Frm/RegistroTrx32.frm:                    Call mensaje.EjecutarServicio("VissatConAnuAOL")
+Frm/RegistroTrx32.frm:                    Call mensaje.EjecutarServicio("VissatConRevVta")
+Frm/CJAIngresoEgresoMultiple.Frm:   If Not mensaje.EjecutarServicio("CjaRecMotEgreso") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("DvaRecSolicitud") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("CctRecMotEspPro", SRV_NOT_FOUND) Then Exit Function
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("CliRecCliente") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("CjeRecDocProtCE") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("TcrRecCuenta") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("CctRecCuentaCte") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("CjaRecMonto") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("LccRecLineaCC") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("DepRecOperacion") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("LcdRecLineaCC") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("HipRecDeudOper") Then
+Frm/CJAIngresoEgresoCProt.frm:   If Not mensaje.EjecutarServicio("AhoRecCuentaAho") Then
+Frm/CJASolicitudPrivilegio.frm:   If Not mensaje.EjecutarServicio("CjaRecSolPrvTod", SRV_NOT_FOUND) Then
+Frm/CJASolicitudPrivilegio.frm:   If Not mensaje.EjecutarServicio("CjaAprSolicPriv") Then
+Frm/CJASolicitudPrivilegio.frm:   If Not mensaje.EjecutarServicio("CjaRchSolicPriv") Then
+Frm/CJALiquidacionVentaDivisa.frm:   If mensaje.EjecutarServicio("CjaBloInterCust") Then
+Frm/CJALiquidacionVentaDivisa.frm:   If mensaje.EjecutarServicio("CliRecOcasional") Then
+Frm/CJALiquidacionVentaDivisa.frm:   If Not mensaje.EjecutarServicio("CjaCustIntDiv") Then
+Frm/CrcDevolucionSegMas5Dias.frm:   If Not mensaje.EjecutarServicio("CrcRecSegDevCon") Then
+Frm/CrcDevolucionSegMas5Dias.frm:   If Not mensaje.EjecutarServicio("CrcRecCredito") Then
+Frm/CrcDevolucionSegMas5Dias.frm:   If Not mensaje.EjecutarServicio("CrcRecProducto") Then
+Frm/CrcDevolucionSegMas5Dias.frm:   If Not mensaje.EjecutarServicio("RddRecReprogDeu") Then
+Frm/CrcDevolucionSegMas5Dias.frm:      If Not mensaje.EjecutarServicio("RddRecFrmsPgGir") Then
+Frm/frmCJAIngEgrATM.frm:   If Not mensaje.EjecutarServicio("CjaRecDescATM") Then
+Frm/frmCjaConsultaTraspaso.frm:    If Not mensaje.EjecutarServicio("CjaRecTrasTod", SRV_NOT_FOUND) Then
+Frm/Tarjeta/frmSOLPagoTarjeta.frm:         If Not mensaje.EjecutarServicio("VissatConPagOL") Then
+Frm/CierreDeDia.Frm:   If Not mensaje.EjecutarServicio("CjeValCrrDiaPrs") Then Exit Function
+Frm/CierreDeDia.Frm:        If mensaje.EjecutarServicio("CjaRecDenominac") Then
+Frm/CierreDeDia.Frm:    If mensaje.EjecutarServicio("CjaInsDesglose") Then
+Frm/DesgloseMoneda.frm:   If mensaje.EjecutarServicio("CjaRecDenominac") Then
+Frm/frmCJELecturaDAP.frm:   If Not mensaje.EjecutarServicio("SgtRecSucursal") Then
+Frm/frmCJELecturaDAP.frm:   If Not mensaje.EjecutarServicio("DepValFolPagare", False) Then
+Reportes/repDesgloseEfectivo.Dsr:    If Not mensaje.EjecutarServicio("HrmRecUsuarios") Then
+Reportes/repDesgloseEfectivo.Dsr:   If mensaje.EjecutarServicio("CjaRecDesgEfec", , False) Then
+Reportes/repDocumentoMayorCuantia.Dsr:    If Not mensaje.EjecutarServicio("HrmRecUsuarios") Then
+Reportes/repDocumentoMayorCuantia.Dsr:   If mensaje.EjecutarServicio("CjaRecMonMax", , False) Then
+Reportes/repDetalleTransaccionesCMR.Dsr:   If Not mensaje.EjecutarServicio("HrmRecUsuarios") Then
+Reportes/repCanjeIdentificadorDeLote.Dsr:   If Not mensaje.EjecutarServicio("CjeRecRepLote") Then
+Reportes/repDetalleMontoMayorCuantia.Dsr:    If Not mensaje.EjecutarServicio("HrmRecUsuarios") Then
+Reportes/repDetalleMontoMayorCuantia.Dsr:   If mensaje.EjecutarServicio("CjaRecMonMax", , False) Then
+Reportes/repDetalleTransacciones.Dsr:      sts = mensaje.EjecutarServicio("CjaRecDetTraAnt")
+Reportes/repDetalleTransacciones.Dsr:      sts = mensaje.EjecutarServicio("CjaRecDetTrans")
+Reportes/repDetalleTransacciones.Dsr:   If Not mensaje.EjecutarServicio("HrmRecUsuarios") Then

@@ -1,0 +1,133 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           controllers.Application.index
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)
+
+
+#callback productos
+#POST     /usuario/registroFacebook			controllers.Oauth.registroSistemaFacebook
+
+#callback productos
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Restful restaurant
+GET   /restful/restaurante/mapa/cercanos/    restful.RestaurantesRest.listaRestaurant()
+
+GET   /restful/restaurante/home/			restful.RestaurantesRest.restauranteDia()
+
+GET   /restful/restaurante/id/:id			restful.RestaurantesRest.datoRestaurant(id: String)
+
+
+GET   /restful/restaurante/votados/			restful.RestaurantesRest.restauranteVotados()
+
+GET   /restful/restaurante/puntuados/			restful.RestaurantesRest.restaurantePuntuados()
+
+GET   /restful/restaurante/comentarios/:id			restful.RestaurantesRest.restauranteComentados(id: String)
+
+
+
+
+
+
+
+#Restful platos
+GET   /restful/plato/mapa/cercanos/		restful.PlatosRest.platoMasCercanos()
+
+GET   /restful/plato/votados/			restful.PlatosRest.platoVotados()
+
+GET   /restful/plato/puntuados/			restful.PlatosRest.platosPuntuados()
+
+GET   /restful/plato/home/				restful.PlatosRest.platoDelDia()
+
+GET   /restful/plato/buscar/nombre/				restful.PlatosRest.platoBuscarNombre()
+GET   /restful/plato/buscar/tipoComida/				restful.PlatosRest.platoBuscarTipoComida()
+
+#GET   /restful/plato/buscar/precio/				restful.PlatosRest.platoBuscarPrecio()
+
+GET   /restful/plato/id/:id					restful.PlatosRest.datoPlato(id:String)
+
+GET   /restful/plato/comentarios/:id			restful.PlatosRest.platosComentados(id: String)
+
+#Restful 
+
+GET   /restful/plato/precio/lmt/:id/fotos/			restful.PlatosRest.platoBuscarPrecio(id:Int)
+
+
+#Restful usuario
+GET   /restful/usuario/plato/amigos/		restful.RestaurantesRest.listaRestaurant()
+
+GET   /restful/usuario/plato/mapa/fotos/		restful.PlatosRest.platoFotoMapaUsuario()
+
+GET   /restful/usuario/plato/fotos/			restful.PlatosRest.platoFotoUsuario()
+
+
+POST    /restful/usuario/perfil/foto/					restful.UsuarioRest.actualizarDatosUsuarioConFoto()
+
+POST    /restful/usuario/perfil/					restful.UsuarioRest.actualizarDatosUsuario()
+
+GET    /restful/usuario/perfil/				restful.UsuarioRest.obtenerDatosUsuario()
+
+
+
+#download google
+GET   /restful/usuario/perfil/foto/:fName          	restful.DownloadUsuario.mostrartFoto(fName: String)  
+
+
+
+
+#upload google
+##POST    /restful/foto/restaurante/					restful.UploadFotoPlato.upload()
+
+POST    /restful/foto/plato/					restful.UploadFotoPlato.upload()
+
+
+#download google
+##GET   /restful/foto/restaurante/:fName          	restful.DownloadPlato.mostrartFotoRestaurante(fName: String)  
+
+GET   /restful/foto/plato/:fName          	restful.DownloadPlato.mostrartFotoPlato(fName: String)  
+
+
+#download google
+###GET   /restful/foto/thumbnail/restaurante/:fName          	restful.DownloadFotoRestauranteRest.mostrartFotoRestauranteThumbnail(fName: String)  
+
+GET   /restful/foto/thumbnail/plato/:fName          	restful.DownloadPlato.mostrartFotoPlatoThumbnail(fName: String)  
+
+
+
+
+#registro
+POST     /restful/usuario/registro/registroFacebook/					restful.OauthRest.registroSistemaFacebook()
+POST     /restful/usuario/registro/										restful.OauthRest.registroSistemaCuenta()
+POST     /restful/usuario/registro/foto/								restful.OauthRest.registroSistemaCuentaFoto()
+
+#login
+POST    /restful/usuario/login/											restful.OauthRest.loginSistemaCuenta()
+
+
+
+
+
+#agregarPlato
+
+POST    /restful/plato/comentarios/:idPlato								restful.ComentariosRest.registrarComentarioPlato(idPlato: String)
+
+
+
+
+

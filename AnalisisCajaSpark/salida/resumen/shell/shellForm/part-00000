@@ -1,0 +1,364 @@
+mkdir -p /home/x4/planilla/frmCRCActivacionCredito
+cd /home/x4/planilla/frmCRCActivacionCredito
+echo "Nombre Archivo: CRCActivacion.Frm" >> frmCRCActivacionCredito.txt
+echo "Tipo Datos: " >> frmCRCActivacionCredito.txt
+grep  "CRCActivacion.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCRCActivacionCredito.txt
+echo "Estructuras Internas: " >> frmCRCActivacionCredito.txt
+grep  "CRCActivacion.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCRCActivacionCredito.txt
+echo "LLamados Externos: " >> frmCRCActivacionCredito.txt
+grep  "CRCActivacion.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCRCActivacionCredito.txt
+echo "LLamados Interno: " >> frmCRCActivacionCredito.txt
+echo "LLamados Funcion: " >> frmCRCActivacionCredito.txt
+grep "CRCActivacion.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCRCActivacionCredito.txt
+echo "LLamados Sub: " >> frmCRCActivacionCredito.txt
+grep "CRCActivacion.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCRCActivacionCredito.txt
+mkdir -p /home/x4/planilla/frmCierreDeDia
+cd /home/x4/planilla/frmCierreDeDia
+echo "Nombre Archivo: CierreDeDia.Frm" >> frmCierreDeDia.txt
+echo "Tipo Datos: " >> frmCierreDeDia.txt
+grep  "CierreDeDia.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCierreDeDia.txt
+echo "Estructuras Internas: " >> frmCierreDeDia.txt
+grep  "CierreDeDia.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCierreDeDia.txt
+echo "LLamados Externos: " >> frmCierreDeDia.txt
+grep  "CierreDeDia.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCierreDeDia.txt
+echo "LLamados Interno: " >> frmCierreDeDia.txt
+echo "LLamados Funcion: " >> frmCierreDeDia.txt
+grep "CierreDeDia.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCierreDeDia.txt
+echo "LLamados Sub: " >> frmCierreDeDia.txt
+grep "CierreDeDia.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCierreDeDia.txt
+mkdir -p /home/x4/planilla/frmCJARemesaRecepcion
+cd /home/x4/planilla/frmCJARemesaRecepcion
+echo "Nombre Archivo: CJARemesaRecepcion.frm" >> frmCJARemesaRecepcion.txt
+echo "Tipo Datos: " >> frmCJARemesaRecepcion.txt
+grep  "CJARemesaRecepcion.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCJARemesaRecepcion.txt
+echo "Estructuras Internas: " >> frmCJARemesaRecepcion.txt
+grep  "CJARemesaRecepcion.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCJARemesaRecepcion.txt
+echo "LLamados Externos: " >> frmCJARemesaRecepcion.txt
+grep  "CJARemesaRecepcion.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCJARemesaRecepcion.txt
+echo "LLamados Interno: " >> frmCJARemesaRecepcion.txt
+echo "LLamados Funcion: " >> frmCJARemesaRecepcion.txt
+grep "CJARemesaRecepcion.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCJARemesaRecepcion.txt
+echo "LLamados Sub: " >> frmCJARemesaRecepcion.txt
+grep "CJARemesaRecepcion.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCJARemesaRecepcion.txt
+mkdir -p /home/x4/planilla/frmRDDLiquidacionReprogramacionDeDeuda
+cd /home/x4/planilla/frmRDDLiquidacionReprogramacionDeDeuda
+echo "Nombre Archivo: RDDLiquidacionReprogramacionDeDeuda.frm" >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+echo "Tipo Datos: " >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+grep  "RDDLiquidacionReprogramacionDeDeuda.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+echo "Estructuras Internas: " >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+grep  "RDDLiquidacionReprogramacionDeDeuda.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+echo "LLamados Externos: " >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+grep  "RDDLiquidacionReprogramacionDeDeuda.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmRDDLiquidacionReprogramacionDeDeuda.txt
+echo "LLamados Interno: " >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+echo "LLamados Funcion: " >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+grep "RDDLiquidacionReprogramacionDeDeuda.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+echo "LLamados Sub: " >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+grep "RDDLiquidacionReprogramacionDeDeuda.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmRDDLiquidacionReprogramacionDeDeuda.txt
+mkdir -p /home/x4/planilla/frmDevolucionSegMas5Dias
+cd /home/x4/planilla/frmDevolucionSegMas5Dias
+echo "Nombre Archivo: CrcDevolucionSegMas5Dias.frm" >> frmDevolucionSegMas5Dias.txt
+echo "Tipo Datos: " >> frmDevolucionSegMas5Dias.txt
+grep  "CrcDevolucionSegMas5Dias.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmDevolucionSegMas5Dias.txt
+echo "Estructuras Internas: " >> frmDevolucionSegMas5Dias.txt
+grep  "CrcDevolucionSegMas5Dias.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmDevolucionSegMas5Dias.txt
+echo "LLamados Externos: " >> frmDevolucionSegMas5Dias.txt
+grep  "CrcDevolucionSegMas5Dias.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmDevolucionSegMas5Dias.txt
+echo "LLamados Interno: " >> frmDevolucionSegMas5Dias.txt
+echo "LLamados Funcion: " >> frmDevolucionSegMas5Dias.txt
+grep "CrcDevolucionSegMas5Dias.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmDevolucionSegMas5Dias.txt
+echo "LLamados Sub: " >> frmDevolucionSegMas5Dias.txt
+grep "CrcDevolucionSegMas5Dias.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmDevolucionSegMas5Dias.txt
+mkdir -p /home/x4/planilla/frmCRCPrepagoCredito
+cd /home/x4/planilla/frmCRCPrepagoCredito
+echo "Nombre Archivo: CRCPrepagoCredito.frm" >> frmCRCPrepagoCredito.txt
+echo "Tipo Datos: " >> frmCRCPrepagoCredito.txt
+grep  "CRCPrepagoCredito.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCRCPrepagoCredito.txt
+echo "Estructuras Internas: " >> frmCRCPrepagoCredito.txt
+grep  "CRCPrepagoCredito.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCRCPrepagoCredito.txt
+echo "LLamados Externos: " >> frmCRCPrepagoCredito.txt
+grep  "CRCPrepagoCredito.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCRCPrepagoCredito.txt
+echo "LLamados Interno: " >> frmCRCPrepagoCredito.txt
+echo "LLamados Funcion: " >> frmCRCPrepagoCredito.txt
+grep "CRCPrepagoCredito.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCRCPrepagoCredito.txt
+echo "LLamados Sub: " >> frmCRCPrepagoCredito.txt
+grep "CRCPrepagoCredito.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCRCPrepagoCredito.txt
+mkdir -p /home/x4/planilla/frmProducto
+cd /home/x4/planilla/frmProducto
+echo "Nombre Archivo: Producto.frm" >> frmProducto.txt
+echo "Tipo Datos: " >> frmProducto.txt
+grep  "Producto.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmProducto.txt
+echo "Estructuras Internas: " >> frmProducto.txt
+grep  "Producto.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmProducto.txt
+echo "LLamados Externos: " >> frmProducto.txt
+grep  "Producto.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmProducto.txt
+echo "LLamados Interno: " >> frmProducto.txt
+echo "LLamados Funcion: " >> frmProducto.txt
+grep "Producto.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmProducto.txt
+echo "LLamados Sub: " >> frmProducto.txt
+grep "Producto.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmProducto.txt
+mkdir -p /home/x4/planilla/frmCJASaldoSucursal
+cd /home/x4/planilla/frmCJASaldoSucursal
+echo "Nombre Archivo: CJASaldoSucursal.frm" >> frmCJASaldoSucursal.txt
+echo "Tipo Datos: " >> frmCJASaldoSucursal.txt
+grep  "CJASaldoSucursal.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCJASaldoSucursal.txt
+echo "Estructuras Internas: " >> frmCJASaldoSucursal.txt
+grep  "CJASaldoSucursal.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCJASaldoSucursal.txt
+echo "LLamados Externos: " >> frmCJASaldoSucursal.txt
+grep  "CJASaldoSucursal.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCJASaldoSucursal.txt
+echo "LLamados Interno: " >> frmCJASaldoSucursal.txt
+echo "LLamados Funcion: " >> frmCJASaldoSucursal.txt
+grep "CJASaldoSucursal.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCJASaldoSucursal.txt
+echo "LLamados Sub: " >> frmCJASaldoSucursal.txt
+grep "CJASaldoSucursal.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCJASaldoSucursal.txt
+mkdir -p /home/x4/planilla/frmAperturaDeDia
+cd /home/x4/planilla/frmAperturaDeDia
+echo "Nombre Archivo: AperturaDeDia.Frm" >> frmAperturaDeDia.txt
+echo "Tipo Datos: " >> frmAperturaDeDia.txt
+grep  "AperturaDeDia.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmAperturaDeDia.txt
+echo "Estructuras Internas: " >> frmAperturaDeDia.txt
+grep  "AperturaDeDia.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmAperturaDeDia.txt
+echo "LLamados Externos: " >> frmAperturaDeDia.txt
+grep  "AperturaDeDia.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmAperturaDeDia.txt
+echo "LLamados Interno: " >> frmAperturaDeDia.txt
+echo "LLamados Funcion: " >> frmAperturaDeDia.txt
+grep "AperturaDeDia.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmAperturaDeDia.txt
+echo "LLamados Sub: " >> frmAperturaDeDia.txt
+grep "AperturaDeDia.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmAperturaDeDia.txt
+mkdir -p /home/x4/planilla/frmCJAIngresoEgresoMultiple
+cd /home/x4/planilla/frmCJAIngresoEgresoMultiple
+echo "Nombre Archivo: CJAIngresoEgresoMultiple.Frm" >> frmCJAIngresoEgresoMultiple.txt
+echo "Tipo Datos: " >> frmCJAIngresoEgresoMultiple.txt
+grep  "CJAIngresoEgresoMultiple.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCJAIngresoEgresoMultiple.txt
+echo "Estructuras Internas: " >> frmCJAIngresoEgresoMultiple.txt
+grep  "CJAIngresoEgresoMultiple.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCJAIngresoEgresoMultiple.txt
+echo "LLamados Externos: " >> frmCJAIngresoEgresoMultiple.txt
+grep  "CJAIngresoEgresoMultiple.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCJAIngresoEgresoMultiple.txt
+echo "LLamados Interno: " >> frmCJAIngresoEgresoMultiple.txt
+echo "LLamados Funcion: " >> frmCJAIngresoEgresoMultiple.txt
+grep "CJAIngresoEgresoMultiple.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCJAIngresoEgresoMultiple.txt
+echo "LLamados Sub: " >> frmCJAIngresoEgresoMultiple.txt
+grep "CJAIngresoEgresoMultiple.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCJAIngresoEgresoMultiple.txt
+mkdir -p /home/x4/planilla/frmDesgloseMoneda
+cd /home/x4/planilla/frmDesgloseMoneda
+echo "Nombre Archivo: DesgloseMoneda.frm" >> frmDesgloseMoneda.txt
+echo "Tipo Datos: " >> frmDesgloseMoneda.txt
+grep  "DesgloseMoneda.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmDesgloseMoneda.txt
+echo "Estructuras Internas: " >> frmDesgloseMoneda.txt
+grep  "DesgloseMoneda.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmDesgloseMoneda.txt
+echo "LLamados Externos: " >> frmDesgloseMoneda.txt
+grep  "DesgloseMoneda.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmDesgloseMoneda.txt
+echo "LLamados Interno: " >> frmDesgloseMoneda.txt
+echo "LLamados Funcion: " >> frmDesgloseMoneda.txt
+grep "DesgloseMoneda.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmDesgloseMoneda.txt
+echo "LLamados Sub: " >> frmDesgloseMoneda.txt
+grep "DesgloseMoneda.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmDesgloseMoneda.txt
+mkdir -p /home/x4/planilla/frmGrupo
+cd /home/x4/planilla/frmGrupo
+echo "Nombre Archivo: Grupo.frm" >> frmGrupo.txt
+echo "Tipo Datos: " >> frmGrupo.txt
+grep  "Grupo.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmGrupo.txt
+echo "Estructuras Internas: " >> frmGrupo.txt
+grep  "Grupo.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmGrupo.txt
+echo "LLamados Externos: " >> frmGrupo.txt
+grep  "Grupo.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmGrupo.txt
+echo "LLamados Interno: " >> frmGrupo.txt
+echo "LLamados Funcion: " >> frmGrupo.txt
+grep "Grupo.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmGrupo.txt
+echo "LLamados Sub: " >> frmGrupo.txt
+grep "Grupo.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmGrupo.txt
+mkdir -p /home/x4/planilla/frmCJASobranteFaltanteDeCaja
+cd /home/x4/planilla/frmCJASobranteFaltanteDeCaja
+echo "Nombre Archivo: CJASobranteFaltanteDeCaja.Frm" >> frmCJASobranteFaltanteDeCaja.txt
+echo "Tipo Datos: " >> frmCJASobranteFaltanteDeCaja.txt
+grep  "CJASobranteFaltanteDeCaja.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCJASobranteFaltanteDeCaja.txt
+echo "Estructuras Internas: " >> frmCJASobranteFaltanteDeCaja.txt
+grep  "CJASobranteFaltanteDeCaja.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCJASobranteFaltanteDeCaja.txt
+echo "LLamados Externos: " >> frmCJASobranteFaltanteDeCaja.txt
+grep  "CJASobranteFaltanteDeCaja.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCJASobranteFaltanteDeCaja.txt
+echo "LLamados Interno: " >> frmCJASobranteFaltanteDeCaja.txt
+echo "LLamados Funcion: " >> frmCJASobranteFaltanteDeCaja.txt
+grep "CJASobranteFaltanteDeCaja.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCJASobranteFaltanteDeCaja.txt
+echo "LLamados Sub: " >> frmCJASobranteFaltanteDeCaja.txt
+grep "CJASobranteFaltanteDeCaja.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCJASobranteFaltanteDeCaja.txt
+mkdir -p /home/x4/planilla/frmCVEAbono
+cd /home/x4/planilla/frmCVEAbono
+echo "Nombre Archivo: CVEAbono.frm" >> frmCVEAbono.txt
+echo "Tipo Datos: " >> frmCVEAbono.txt
+grep  "CVEAbono.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCVEAbono.txt
+echo "Estructuras Internas: " >> frmCVEAbono.txt
+grep  "CVEAbono.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCVEAbono.txt
+echo "LLamados Externos: " >> frmCVEAbono.txt
+grep  "CVEAbono.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCVEAbono.txt
+echo "LLamados Interno: " >> frmCVEAbono.txt
+echo "LLamados Funcion: " >> frmCVEAbono.txt
+grep "CVEAbono.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCVEAbono.txt
+echo "LLamados Sub: " >> frmCVEAbono.txt
+grep "CVEAbono.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCVEAbono.txt
+mkdir -p /home/x4/planilla/frmCJASolicitudPrivilegio
+cd /home/x4/planilla/frmCJASolicitudPrivilegio
+echo "Nombre Archivo: CJASolicitudPrivilegio.frm" >> frmCJASolicitudPrivilegio.txt
+echo "Tipo Datos: " >> frmCJASolicitudPrivilegio.txt
+grep  "CJASolicitudPrivilegio.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCJASolicitudPrivilegio.txt
+echo "Estructuras Internas: " >> frmCJASolicitudPrivilegio.txt
+grep  "CJASolicitudPrivilegio.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCJASolicitudPrivilegio.txt
+echo "LLamados Externos: " >> frmCJASolicitudPrivilegio.txt
+grep  "CJASolicitudPrivilegio.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCJASolicitudPrivilegio.txt
+echo "LLamados Interno: " >> frmCJASolicitudPrivilegio.txt
+echo "LLamados Funcion: " >> frmCJASolicitudPrivilegio.txt
+grep "CJASolicitudPrivilegio.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCJASolicitudPrivilegio.txt
+echo "LLamados Sub: " >> frmCJASolicitudPrivilegio.txt
+grep "CJASolicitudPrivilegio.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCJASolicitudPrivilegio.txt
+mkdir -p /home/x4/planilla/frmMediodePago
+cd /home/x4/planilla/frmMediodePago
+echo "Nombre Archivo: MediodePago.frm" >> frmMediodePago.txt
+echo "Tipo Datos: " >> frmMediodePago.txt
+grep  "MediodePago.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmMediodePago.txt
+echo "Estructuras Internas: " >> frmMediodePago.txt
+grep  "MediodePago.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmMediodePago.txt
+echo "LLamados Externos: " >> frmMediodePago.txt
+grep  "MediodePago.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmMediodePago.txt
+echo "LLamados Interno: " >> frmMediodePago.txt
+echo "LLamados Funcion: " >> frmMediodePago.txt
+grep "MediodePago.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmMediodePago.txt
+echo "LLamados Sub: " >> frmMediodePago.txt
+grep "MediodePago.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmMediodePago.txt
+mkdir -p /home/x4/planilla/frmCrcDevResguroMenos5Dias
+cd /home/x4/planilla/frmCrcDevResguroMenos5Dias
+echo "Nombre Archivo: CrcDevResguroMenos5Dias.frm" >> frmCrcDevResguroMenos5Dias.txt
+echo "Tipo Datos: " >> frmCrcDevResguroMenos5Dias.txt
+grep  "CrcDevResguroMenos5Dias.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCrcDevResguroMenos5Dias.txt
+echo "Estructuras Internas: " >> frmCrcDevResguroMenos5Dias.txt
+grep  "CrcDevResguroMenos5Dias.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCrcDevResguroMenos5Dias.txt
+echo "LLamados Externos: " >> frmCrcDevResguroMenos5Dias.txt
+grep  "CrcDevResguroMenos5Dias.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCrcDevResguroMenos5Dias.txt
+echo "LLamados Interno: " >> frmCrcDevResguroMenos5Dias.txt
+echo "LLamados Funcion: " >> frmCrcDevResguroMenos5Dias.txt
+grep "CrcDevResguroMenos5Dias.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCrcDevResguroMenos5Dias.txt
+echo "LLamados Sub: " >> frmCrcDevResguroMenos5Dias.txt
+grep "CrcDevResguroMenos5Dias.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCrcDevResguroMenos5Dias.txt
+mkdir -p /home/x4/planilla/frmCJAIngresoTesoreriaGeneral
+cd /home/x4/planilla/frmCJAIngresoTesoreriaGeneral
+echo "Nombre Archivo: CJAIngresoTesoreriaGral.Frm" >> frmCJAIngresoTesoreriaGeneral.txt
+echo "Tipo Datos: " >> frmCJAIngresoTesoreriaGeneral.txt
+grep  "CJAIngresoTesoreriaGral.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCJAIngresoTesoreriaGeneral.txt
+echo "Estructuras Internas: " >> frmCJAIngresoTesoreriaGeneral.txt
+grep  "CJAIngresoTesoreriaGral.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCJAIngresoTesoreriaGeneral.txt
+echo "LLamados Externos: " >> frmCJAIngresoTesoreriaGeneral.txt
+grep  "CJAIngresoTesoreriaGral.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCJAIngresoTesoreriaGeneral.txt
+echo "LLamados Interno: " >> frmCJAIngresoTesoreriaGeneral.txt
+echo "LLamados Funcion: " >> frmCJAIngresoTesoreriaGeneral.txt
+grep "CJAIngresoTesoreriaGral.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCJAIngresoTesoreriaGeneral.txt
+echo "LLamados Sub: " >> frmCJAIngresoTesoreriaGeneral.txt
+grep "CJAIngresoTesoreriaGral.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCJAIngresoTesoreriaGeneral.txt
+mkdir -p /home/x4/planilla/frmQuickSend
+cd /home/x4/planilla/frmQuickSend
+echo "Nombre Archivo: QuickSend.Frm" >> frmQuickSend.txt
+echo "Tipo Datos: " >> frmQuickSend.txt
+grep  "QuickSend.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmQuickSend.txt
+echo "Estructuras Internas: " >> frmQuickSend.txt
+grep  "QuickSend.Frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmQuickSend.txt
+echo "LLamados Externos: " >> frmQuickSend.txt
+grep  "QuickSend.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmQuickSend.txt
+echo "LLamados Interno: " >> frmQuickSend.txt
+echo "LLamados Funcion: " >> frmQuickSend.txt
+grep "QuickSend.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmQuickSend.txt
+echo "LLamados Sub: " >> frmQuickSend.txt
+grep "QuickSend.Frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmQuickSend.txt
+mkdir -p /home/x4/planilla/frmTCRGiroEnCuotas
+cd /home/x4/planilla/frmTCRGiroEnCuotas
+echo "Nombre Archivo: TCRGiroEnCuotas.frm" >> frmTCRGiroEnCuotas.txt
+echo "Tipo Datos: " >> frmTCRGiroEnCuotas.txt
+grep  "TCRGiroEnCuotas.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmTCRGiroEnCuotas.txt
+echo "Estructuras Internas: " >> frmTCRGiroEnCuotas.txt
+grep  "TCRGiroEnCuotas.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmTCRGiroEnCuotas.txt
+echo "LLamados Externos: " >> frmTCRGiroEnCuotas.txt
+grep  "TCRGiroEnCuotas.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmTCRGiroEnCuotas.txt
+echo "LLamados Interno: " >> frmTCRGiroEnCuotas.txt
+echo "LLamados Funcion: " >> frmTCRGiroEnCuotas.txt
+grep "TCRGiroEnCuotas.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmTCRGiroEnCuotas.txt
+echo "LLamados Sub: " >> frmTCRGiroEnCuotas.txt
+grep "TCRGiroEnCuotas.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmTCRGiroEnCuotas.txt
+mkdir -p /home/x4/planilla/frmCJARemesaEnvio
+cd /home/x4/planilla/frmCJARemesaEnvio
+echo "Nombre Archivo: CJARemesaEnvio.frm" >> frmCJARemesaEnvio.txt
+echo "Tipo Datos: " >> frmCJARemesaEnvio.txt
+grep  "CJARemesaEnvio.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCJARemesaEnvio.txt
+echo "Estructuras Internas: " >> frmCJARemesaEnvio.txt
+grep  "CJARemesaEnvio.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCJARemesaEnvio.txt
+echo "LLamados Externos: " >> frmCJARemesaEnvio.txt
+grep  "CJARemesaEnvio.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCJARemesaEnvio.txt
+echo "LLamados Interno: " >> frmCJARemesaEnvio.txt
+echo "LLamados Funcion: " >> frmCJARemesaEnvio.txt
+grep "CJARemesaEnvio.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCJARemesaEnvio.txt
+echo "LLamados Sub: " >> frmCJARemesaEnvio.txt
+grep "CJARemesaEnvio.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCJARemesaEnvio.txt
+mkdir -p /home/x4/planilla/frmTransacciones
+cd /home/x4/planilla/frmTransacciones
+echo "Nombre Archivo: frmTransacciones.frm" >> frmTransacciones.txt
+echo "Tipo Datos: " >> frmTransacciones.txt
+grep  "frmTransacciones.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmTransacciones.txt
+echo "Estructuras Internas: " >> frmTransacciones.txt
+grep  "frmTransacciones.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmTransacciones.txt
+echo "LLamados Externos: " >> frmTransacciones.txt
+grep  "frmTransacciones.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmTransacciones.txt
+echo "LLamados Interno: " >> frmTransacciones.txt
+echo "LLamados Funcion: " >> frmTransacciones.txt
+grep "frmTransacciones.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmTransacciones.txt
+echo "LLamados Sub: " >> frmTransacciones.txt
+grep "frmTransacciones.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmTransacciones.txt
+mkdir -p /home/x4/planilla/frmTCRConsultaDeudaDisponible
+cd /home/x4/planilla/frmTCRConsultaDeudaDisponible
+echo "Nombre Archivo: frmCMRConsultaDeudaDisponible.frm" >> frmTCRConsultaDeudaDisponible.txt
+echo "Tipo Datos: " >> frmTCRConsultaDeudaDisponible.txt
+grep  "frmCMRConsultaDeudaDisponible.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmTCRConsultaDeudaDisponible.txt
+echo "Estructuras Internas: " >> frmTCRConsultaDeudaDisponible.txt
+grep  "frmCMRConsultaDeudaDisponible.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmTCRConsultaDeudaDisponible.txt
+echo "LLamados Externos: " >> frmTCRConsultaDeudaDisponible.txt
+grep  "frmCMRConsultaDeudaDisponible.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmTCRConsultaDeudaDisponible.txt
+echo "LLamados Interno: " >> frmTCRConsultaDeudaDisponible.txt
+echo "LLamados Funcion: " >> frmTCRConsultaDeudaDisponible.txt
+grep "frmCMRConsultaDeudaDisponible.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmTCRConsultaDeudaDisponible.txt
+echo "LLamados Sub: " >> frmTCRConsultaDeudaDisponible.txt
+grep "frmCMRConsultaDeudaDisponible.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmTCRConsultaDeudaDisponible.txt
+mkdir -p /home/x4/planilla/frmSOLPagoTarjeta
+cd /home/x4/planilla/frmSOLPagoTarjeta
+echo "Nombre Archivo: frmSOLPagoTarjeta.frm" >> frmSOLPagoTarjeta.txt
+echo "Tipo Datos: " >> frmSOLPagoTarjeta.txt
+grep  "frmSOLPagoTarjeta.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmSOLPagoTarjeta.txt
+echo "Estructuras Internas: " >> frmSOLPagoTarjeta.txt
+grep  "frmSOLPagoTarjeta.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmSOLPagoTarjeta.txt
+echo "LLamados Externos: " >> frmSOLPagoTarjeta.txt
+grep  "frmSOLPagoTarjeta.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmSOLPagoTarjeta.txt
+echo "LLamados Interno: " >> frmSOLPagoTarjeta.txt
+echo "LLamados Funcion: " >> frmSOLPagoTarjeta.txt
+grep "frmSOLPagoTarjeta.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmSOLPagoTarjeta.txt
+echo "LLamados Sub: " >> frmSOLPagoTarjeta.txt
+grep "frmSOLPagoTarjeta.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmSOLPagoTarjeta.txt
+mkdir -p /home/x4/planilla/frmCVELiquidacion
+cd /home/x4/planilla/frmCVELiquidacion
+echo "Nombre Archivo: CVELiquidacion.frm" >> frmCVELiquidacion.txt
+echo "Tipo Datos: " >> frmCVELiquidacion.txt
+grep  "CVELiquidacion.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCVELiquidacion.txt
+echo "Estructuras Internas: " >> frmCVELiquidacion.txt
+grep  "CVELiquidacion.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCVELiquidacion.txt
+echo "LLamados Externos: " >> frmCVELiquidacion.txt
+grep  "CVELiquidacion.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCVELiquidacion.txt
+echo "LLamados Interno: " >> frmCVELiquidacion.txt
+echo "LLamados Funcion: " >> frmCVELiquidacion.txt
+grep "CVELiquidacion.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCVELiquidacion.txt
+echo "LLamados Sub: " >> frmCVELiquidacion.txt
+grep "CVELiquidacion.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCVELiquidacion.txt
+mkdir -p /home/x4/planilla/frmCRCPagoDeCuota
+cd /home/x4/planilla/frmCRCPagoDeCuota
+echo "Nombre Archivo: CRCPagoDeCuota.frm" >> frmCRCPagoDeCuota.txt
+echo "Tipo Datos: " >> frmCRCPagoDeCuota.txt
+grep  "CRCPagoDeCuota.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/tipo/formTipo/part-00000 >> frmCRCPagoDeCuota.txt
+echo "Estructuras Internas: " >> frmCRCPagoDeCuota.txt
+grep  "CRCPagoDeCuota.frm"  /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/estructura/formEstructura/part-00000 >> frmCRCPagoDeCuota.txt
+echo "LLamados Externos: " >> frmCRCPagoDeCuota.txt
+grep  "CRCPagoDeCuota.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/dependencia/formAnalisis/part-00000  >>frmCRCPagoDeCuota.txt
+echo "LLamados Interno: " >> frmCRCPagoDeCuota.txt
+echo "LLamados Funcion: " >> frmCRCPagoDeCuota.txt
+grep "CRCPagoDeCuota.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/function/formFunction/part-00000 >> frmCRCPagoDeCuota.txt
+echo "LLamados Sub: " >> frmCRCPagoDeCuota.txt
+grep "CRCPagoDeCuota.frm" /home/x4/libreria/sbt/AnalisisCajaSpark/salida/visual/sub/formSub/part-00000 >> frmCRCPagoDeCuota.txt

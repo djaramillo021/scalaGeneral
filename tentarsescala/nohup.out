@@ -1,0 +1,34 @@
+[0m[[0minfo[0m] [0mLoading global plugins from /home/x4/.sbt/0.13/plugins[0m
+[0m[[0minfo[0m] [0mLoading project definition from /home/x4/git/heroku/tentarseplayscala/project[0m
+[0m[[0minfo[0m] [0mSet current project to tentarseplayscala (in build file:/home/x4/git/heroku/tentarseplayscala/)[0m
+
+[35m--- (Running the application from SBT, auto-reloading is enabled) ---[0m
+
+[[37minfo[0m] play - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+[32m(Server started, use Ctrl+D to stop and go back to the console...)[0m
+
+java.io.IOException: Descriptor de archivo erróneo
+	at java.io.FileInputStream.read0(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:210)
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248)
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+	at play.PlayConsoleInteractionMode$$anonfun$waitForKey$1.play$PlayConsoleInteractionMode$$anonfun$$waitEOF$1(PlayInteractionMode.scala:62)
+	at play.PlayConsoleInteractionMode$$anonfun$waitForKey$1$$anonfun$apply$1.apply$mcV$sp(PlayInteractionMode.scala:73)
+	at play.PlayConsoleInteractionMode$$anonfun$doWithoutEcho$1.apply(PlayInteractionMode.scala:80)
+	at play.PlayConsoleInteractionMode$$anonfun$doWithoutEcho$1.apply(PlayInteractionMode.scala:77)
+	at play.PlayConsoleInteractionMode$.withConsoleReader(PlayInteractionMode.scala:57)
+	at play.PlayConsoleInteractionMode$.doWithoutEcho(PlayInteractionMode.scala:77)
+	at play.PlayConsoleInteractionMode$$anonfun$waitForKey$1.apply(PlayInteractionMode.scala:73)
+	at play.PlayConsoleInteractionMode$$anonfun$waitForKey$1.apply(PlayInteractionMode.scala:60)
+	at play.PlayConsoleInteractionMode$.withConsoleReader(PlayInteractionMode.scala:57)
+	at play.PlayConsoleInteractionMode$.waitForKey(PlayInteractionMode.scala:60)
+	at play.PlayConsoleInteractionMode$.waitForCancel(PlayInteractionMode.scala:83)
+	at play.PlayRun$$anonfun$playRunTask$1$$anonfun$apply$2$$anonfun$apply$3.apply(PlayRun.scala:147)
+	at play.PlayRun$$anonfun$playRunTask$1$$anonfun$apply$2$$anonfun$apply$3.apply(PlayRun.scala:95)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
+[0m[[31mtrace[0m] [0mStack trace suppressed: run [34mlast compile:run[0m for the full output.[0m
+[0m[[31merror[0m] [0m(compile:[31mrun[0m) java.io.IOException: Descriptor de archivo erróneo[0m
+[0m[[31merror[0m] [0mTotal time: 1 s, completed 19-01-2015 07:38:42 AM[0m

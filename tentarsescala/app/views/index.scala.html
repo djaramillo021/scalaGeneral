@@ -1,0 +1,29 @@
+@(message: String)
+
+@main("Welcome to Play") {
+
+    <h1>@message</h1>
+    
+    <form method="post" action = "/foto/restaurante/" enctype="multipart/form-data" >
+  
+  		    	<label>valor1</label>
+		  	<input type="text" name="v1"/>
+		  
+		    <label>valor2</label>
+		  	<input type="text" name="v2"/>
+		  	
+		  	<label>geolatitud</label>
+		  	<input type="text" name="lat"/>
+		  	
+		  	
+		  	<label>geolongitud</label>
+		  	<input type="text" name="lon"/>
+  
+		    <input type="file" name="foto"/>
+    
+    <p>
+        <input type="submit"/>
+    </p>
+   </form>
+
+}

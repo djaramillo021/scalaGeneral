@@ -1,0 +1,772 @@
+2015-07-06 00:19:41,909 - [INFO] - from play in pool-4-thread-1 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-07-06 00:19:56,222 - [DEBUG] - from play in play-internal-execution-context-1 
+Plugin [play.api.db.BoneCPPlugin] is disabled
+
+2015-07-06 00:19:56,258 - [DEBUG] - from play in play-internal-execution-context-1 
+Plugin [play.api.db.evolutions.EvolutionsPlugin] is disabled
+
+2015-07-06 00:19:56,263 - [DEBUG] - from play in play-internal-execution-context-1 
+Plugin [play.api.cache.EhCachePlugin] is disabled
+
+2015-07-06 00:19:57,149 - [INFO] - from play in play-internal-execution-context-1 
+mongodb [default] connected at 127.0.0.1:27017/tentarsedb
+
+2015-07-06 00:19:57,157 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-07-06 00:19:57,364 - [TRACE] - from play in New I/O worker #1 
+Serving this request with: <function1>
+
+2015-07-06 00:19:58,129 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+filtro 0
+
+2015-07-06 00:19:58,138 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+GET /restful/plato/home/?lat=-33.4461&lon=-70.6437348&us=piuand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/plato/home/, ROUTE_CONTROLLER -> restful.PlatosRest, ROUTE_ACTION_METHOD -> platoDelDia, ROUTE_VERB -> GET)
+
+2015-07-06 00:19:58,139 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+filtro 2
+
+2015-07-06 00:19:58,636 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+filtro 1
+
+2015-07-06 00:19:58,658 - [TRACE] - from play in play-akka.actor.default-dispatcher-2 
+Parsing AnyContent as empty
+
+2015-07-06 00:19:58,689 - [TRACE] - from play in play-akka.actor.default-dispatcher-4 
+Invoking action with request: GET /restful/plato/home/?lat=-33.4461&lon=-70.6437348&us=piu
+
+2015-07-06 00:19:58,692 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+restauranteDia
+
+2015-07-06 00:19:59,690 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+foto._id=55918f619a3eff401b7fadc4
+
+2015-07-06 00:20:00,998 - [TRACE] - from play in New I/O worker #1 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpeg HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:20:01,021 - [TRACE] - from play in New I/O worker #1 
+Serving this request with: <function1>
+
+2015-07-06 00:20:01,022 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+filtro 0
+
+2015-07-06 00:20:01,022 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpegand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/foto/plato/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadPlato, ROUTE_ACTION_METHOD -> mostrartFotoPlato, ROUTE_VERB -> GET)
+
+2015-07-06 00:20:01,022 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+filtro 1
+
+2015-07-06 00:20:01,023 - [TRACE] - from play in play-akka.actor.default-dispatcher-3 
+Parsing AnyContent as empty
+
+2015-07-06 00:20:01,023 - [TRACE] - from play in play-akka.actor.default-dispatcher-3 
+Invoking action with request: GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpeg
+
+2015-07-06 00:20:01,024 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+fName:0ypidlncxkhyk6m8khqg.jpeg
+
+2015-07-06 00:20:01,125 - [TRACE] - from play in New I/O worker #2 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgw HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:20:01,142 - [TRACE] - from play in New I/O worker #2 
+Serving this request with: <function1>
+
+2015-07-06 00:20:01,142 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+filtro 0
+
+2015-07-06 00:20:01,143 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgwand returned Map(ROUTE_COMMENTS -> download google, ROUTE_PATTERN -> /restful/usuario/perfil/foto/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadUsuario, ROUTE_ACTION_METHOD -> mostrartFoto, ROUTE_VERB -> GET)
+
+2015-07-06 00:20:01,143 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+filtro 1
+
+2015-07-06 00:20:01,143 - [TRACE] - from play in play-akka.actor.default-dispatcher-6 
+Parsing AnyContent as empty
+
+2015-07-06 00:20:01,147 - [TRACE] - from play in play-akka.actor.default-dispatcher-6 
+Invoking action with request: GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgw
+
+2015-07-06 00:20:04,601 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+ins._3=81044
+
+2015-07-06 00:20:40,672 - [TRACE] - from play in New I/O worker #1 
+Http request received by netty: DefaultHttpRequest(chunked: true)
+POST /restful/foto/plato/ HTTP/1.1
+KEY: a7RMvKN0nwWaw9bBnVvf8VkvIEwarEIDR723WTZ2ELQ=
+Content-Type: multipart/form-data; boundary=15dd0495-b13d-4b92-960d-23dd0347be54
+Content-Length: 37065
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:20:40,767 - [TRACE] - from play in New I/O worker #1 
+Serving this request with: <function1>
+
+2015-07-06 00:20:40,768 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+filtro 0
+
+2015-07-06 00:20:40,768 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+POST /restful/foto/plato/and returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/foto/plato/, ROUTE_CONTROLLER -> restful.UploadFotoPlato, ROUTE_ACTION_METHOD -> upload, ROUTE_VERB -> POST)
+
+2015-07-06 00:20:40,768 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+filtro 1
+
+2015-07-06 00:20:41,424 - [TRACE] - from play in play-akka.actor.default-dispatcher-5 
+Invoking action with request: POST /restful/foto/plato/
+
+2015-07-06 00:20:52,601 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+geolatitud-33.4460133
+
+2015-07-06 00:20:53,191 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+geolongitud-70.6434747
+
+2015-07-06 00:21:00,881 - [TRACE] - from application in play-akka.actor.default-dispatcher-5 
+ggyhi09cf4w8tchbc1grg
+
+2015-07-06 00:21:04,075 - [TRACE] - from application in play-akka.actor.default-dispatcher-5 
+{content-length=[0], content-type=[text/html; charset=UTF-8], date=[Mon, 06 Jul 2015 03:21:04 GMT], etag=["29c3fad825b8574a49ebc743e7a5eeef"], x-goog-stored-content-length=[27298], server=[UploadServer], x-goog-metageneration=[1], alternate-protocol=[443:quic,p=1], x-goog-hash=[md5=KcP62CW4V0pJ68dD56Xu7w==, crc32c=uEXmNQ==], x-goog-stored-content-encoding=[identity], vary=[Origin], x-goog-generation=[1436152864193000]}
+
+2015-07-06 00:21:05,388 - [TRACE] - from application in play-akka.actor.default-dispatcher-5 
+{content-length=[0], content-type=[text/html; charset=UTF-8], date=[Mon, 06 Jul 2015 03:21:05 GMT], etag=["57f084821d6c11aad2388b5edc6e30a6"], x-goog-stored-content-length=[35951], server=[UploadServer], x-goog-metageneration=[1], alternate-protocol=[443:quic,p=1], x-goog-hash=[md5=V/CEgh1sEarSOIte3G4wpg==, crc32c=/dYoCA==], x-goog-stored-content-encoding=[identity], vary=[Origin], x-goog-generation=[1436152865510000]}
+
+2015-07-06 00:21:58,617 - [ERROR] - from application in play-akka.actor.default-dispatcher-5 
+Error en insersion documento
+
+2015-07-06 00:25:28,885 - [TRACE] - from play in New I/O worker #3 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/plato/home/?lat=-33.4460963&lon=-70.6437044&us=piu HTTP/1.1
+KEY: X0iYDHFNBcP4xoR5eWidQJ3DoUQDWM8eiXyroRDnV+U=
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:25:41,861 - [DEBUG] - from play in play-internal-execution-context-5 
+Plugin [play.api.db.BoneCPPlugin] is disabled
+
+2015-07-06 00:25:41,861 - [DEBUG] - from play in play-internal-execution-context-5 
+Plugin [play.api.db.evolutions.EvolutionsPlugin] is disabled
+
+2015-07-06 00:25:41,862 - [DEBUG] - from play in play-internal-execution-context-5 
+Plugin [play.api.cache.EhCachePlugin] is disabled
+
+2015-07-06 00:25:41,908 - [INFO] - from play in play-internal-execution-context-5 
+mongodb [default] connected at 127.0.0.1:27017/tentarsedb
+
+2015-07-06 00:25:41,908 - [INFO] - from play in play-internal-execution-context-5 
+Application started (Dev)
+
+2015-07-06 00:25:41,931 - [TRACE] - from play in New I/O worker #3 
+Serving this request with: <function1>
+
+2015-07-06 00:25:41,944 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+filtro 0
+
+2015-07-06 00:25:41,948 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+GET /restful/plato/home/?lat=-33.4460963&lon=-70.6437044&us=piuand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/plato/home/, ROUTE_CONTROLLER -> restful.PlatosRest, ROUTE_ACTION_METHOD -> platoDelDia, ROUTE_VERB -> GET)
+
+2015-07-06 00:25:41,950 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+filtro 2
+
+2015-07-06 00:25:41,954 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+filtro 1
+
+2015-07-06 00:25:41,955 - [TRACE] - from play in play-akka.actor.default-dispatcher-6 
+Parsing AnyContent as empty
+
+2015-07-06 00:25:41,964 - [TRACE] - from play in play-akka.actor.default-dispatcher-8 
+Invoking action with request: GET /restful/plato/home/?lat=-33.4460963&lon=-70.6437044&us=piu
+
+2015-07-06 00:25:41,973 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+restauranteDia
+
+2015-07-06 00:25:42,133 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+foto._id=55918f619a3eff401b7fadc4
+
+2015-07-06 00:25:42,925 - [TRACE] - from play in New I/O worker #3 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpeg HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:25:42,950 - [TRACE] - from play in New I/O worker #3 
+Serving this request with: <function1>
+
+2015-07-06 00:25:42,950 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+filtro 0
+
+2015-07-06 00:25:42,952 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpegand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/foto/plato/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadPlato, ROUTE_ACTION_METHOD -> mostrartFotoPlato, ROUTE_VERB -> GET)
+
+2015-07-06 00:25:42,952 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+filtro 1
+
+2015-07-06 00:25:42,953 - [TRACE] - from play in play-akka.actor.default-dispatcher-9 
+Parsing AnyContent as empty
+
+2015-07-06 00:25:42,953 - [TRACE] - from play in play-akka.actor.default-dispatcher-10 
+Invoking action with request: GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpeg
+
+2015-07-06 00:25:42,954 - [INFO] - from application in play-akka.actor.default-dispatcher-10 
+fName:0ypidlncxkhyk6m8khqg.jpeg
+
+2015-07-06 00:25:42,995 - [TRACE] - from play in New I/O worker #4 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgw HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:25:43,005 - [TRACE] - from play in New I/O worker #4 
+Serving this request with: <function1>
+
+2015-07-06 00:25:43,006 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+filtro 0
+
+2015-07-06 00:25:43,006 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgwand returned Map(ROUTE_COMMENTS -> download google, ROUTE_PATTERN -> /restful/usuario/perfil/foto/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadUsuario, ROUTE_ACTION_METHOD -> mostrartFoto, ROUTE_VERB -> GET)
+
+2015-07-06 00:25:43,006 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+filtro 1
+
+2015-07-06 00:25:43,006 - [TRACE] - from play in play-akka.actor.default-dispatcher-8 
+Parsing AnyContent as empty
+
+2015-07-06 00:25:43,006 - [TRACE] - from play in play-akka.actor.default-dispatcher-6 
+Invoking action with request: GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgw
+
+2015-07-06 00:25:44,852 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+ins._3=81044
+
+2015-07-06 00:29:18,004 - [TRACE] - from play in New I/O worker #3 
+Http request received by netty: DefaultHttpRequest(chunked: true)
+POST /restful/foto/plato/ HTTP/1.1
+KEY: 9W/0wBufZxiVsY3feW13VC2tBZzGQ31jJnS5GbUo2es=
+Content-Type: multipart/form-data; boundary=3ae81683-c5ec-4b32-bd60-6a5045ea31d3
+Content-Length: 38250
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:29:18,091 - [TRACE] - from play in New I/O worker #3 
+Serving this request with: <function1>
+
+2015-07-06 00:29:18,091 - [INFO] - from application in play-akka.actor.default-dispatcher-12 
+filtro 0
+
+2015-07-06 00:29:18,092 - [INFO] - from application in play-akka.actor.default-dispatcher-12 
+POST /restful/foto/plato/and returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/foto/plato/, ROUTE_CONTROLLER -> restful.UploadFotoPlato, ROUTE_ACTION_METHOD -> upload, ROUTE_VERB -> POST)
+
+2015-07-06 00:29:18,092 - [INFO] - from application in play-akka.actor.default-dispatcher-12 
+filtro 1
+
+2015-07-06 00:29:18,167 - [TRACE] - from play in play-akka.actor.default-dispatcher-12 
+Invoking action with request: POST /restful/foto/plato/
+
+2015-07-06 00:29:23,907 - [INFO] - from application in play-akka.actor.default-dispatcher-12 
+geolatitud-33.4460682
+
+2015-07-06 00:29:23,908 - [INFO] - from application in play-akka.actor.default-dispatcher-12 
+geolongitud-70.6437686
+
+2015-07-06 00:29:23,973 - [TRACE] - from application in play-akka.actor.default-dispatcher-12 
+gad88qhyu259lfaml716g
+
+2015-07-06 00:29:25,138 - [TRACE] - from application in play-akka.actor.default-dispatcher-12 
+{content-length=[0], content-type=[text/html; charset=UTF-8], date=[Mon, 06 Jul 2015 03:29:25 GMT], etag=["e465cefe58fd6a15ca6a6767f83a4446"], x-goog-stored-content-length=[27103], server=[UploadServer], x-goog-metageneration=[1], alternate-protocol=[443:quic,p=1], x-goog-hash=[md5=5GXO/lj9ahXKamdn+DpERg==, crc32c=AtHKqA==], x-goog-stored-content-encoding=[identity], vary=[Origin], x-goog-generation=[1436153365149000]}
+
+2015-07-06 00:29:25,758 - [TRACE] - from application in play-akka.actor.default-dispatcher-12 
+{content-length=[0], content-type=[text/html; charset=UTF-8], date=[Mon, 06 Jul 2015 03:29:26 GMT], etag=["cd4eab189e21024fd0ea47d9c5f10c90"], x-goog-stored-content-length=[37134], server=[UploadServer], x-goog-metageneration=[1], alternate-protocol=[443:quic,p=1], x-goog-hash=[md5=zU6rGJ4hAk/Q6kfZxfEMkA==, crc32c=28/E9w==], x-goog-stored-content-encoding=[identity], vary=[Origin], x-goog-generation=[1436153365908000]}
+
+2015-07-06 00:29:31,988 - [ERROR] - from application in play-akka.actor.default-dispatcher-12 
+Error en insersion documento
+
+2015-07-06 00:35:02,687 - [TRACE] - from play in New I/O worker #5 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/plato/home/?lat=-33.4461105&lon=-70.6437242&us=piu HTTP/1.1
+KEY: T35DvlQz0VCC42GlDaLp8bqIaTD8YU08+zfQfds+KXI=
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:35:07,382 - [DEBUG] - from play in play-internal-execution-context-9 
+Plugin [play.api.db.BoneCPPlugin] is disabled
+
+2015-07-06 00:35:07,383 - [DEBUG] - from play in play-internal-execution-context-9 
+Plugin [play.api.db.evolutions.EvolutionsPlugin] is disabled
+
+2015-07-06 00:35:07,383 - [DEBUG] - from play in play-internal-execution-context-9 
+Plugin [play.api.cache.EhCachePlugin] is disabled
+
+2015-07-06 00:35:07,431 - [INFO] - from play in play-internal-execution-context-9 
+mongodb [default] connected at 127.0.0.1:27017/tentarsedb
+
+2015-07-06 00:35:07,431 - [INFO] - from play in play-internal-execution-context-9 
+Application started (Dev)
+
+2015-07-06 00:35:07,467 - [TRACE] - from play in New I/O worker #5 
+Serving this request with: <function1>
+
+2015-07-06 00:35:07,468 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+filtro 0
+
+2015-07-06 00:35:07,469 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+GET /restful/plato/home/?lat=-33.4461105&lon=-70.6437242&us=piuand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/plato/home/, ROUTE_CONTROLLER -> restful.PlatosRest, ROUTE_ACTION_METHOD -> platoDelDia, ROUTE_VERB -> GET)
+
+2015-07-06 00:35:07,470 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+filtro 2
+
+2015-07-06 00:35:07,477 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+filtro 1
+
+2015-07-06 00:35:07,477 - [TRACE] - from play in play-akka.actor.default-dispatcher-14 
+Parsing AnyContent as empty
+
+2015-07-06 00:35:07,491 - [TRACE] - from play in play-akka.actor.default-dispatcher-16 
+Invoking action with request: GET /restful/plato/home/?lat=-33.4461105&lon=-70.6437242&us=piu
+
+2015-07-06 00:35:07,493 - [INFO] - from application in play-akka.actor.default-dispatcher-16 
+restauranteDia
+
+2015-07-06 00:35:07,642 - [INFO] - from application in play-akka.actor.default-dispatcher-16 
+foto._id=55918f619a3eff401b7fadc4
+
+2015-07-06 00:35:08,381 - [TRACE] - from play in New I/O worker #5 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpeg HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:35:08,418 - [TRACE] - from play in New I/O worker #6 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgw HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:35:08,553 - [TRACE] - from play in New I/O worker #5 
+Serving this request with: <function1>
+
+2015-07-06 00:35:08,553 - [INFO] - from application in play-akka.actor.default-dispatcher-18 
+filtro 0
+
+2015-07-06 00:35:08,554 - [INFO] - from application in play-akka.actor.default-dispatcher-18 
+GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpegand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/foto/plato/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadPlato, ROUTE_ACTION_METHOD -> mostrartFotoPlato, ROUTE_VERB -> GET)
+
+2015-07-06 00:35:08,554 - [INFO] - from application in play-akka.actor.default-dispatcher-18 
+filtro 1
+
+2015-07-06 00:35:08,555 - [TRACE] - from play in New I/O worker #6 
+Serving this request with: <function1>
+
+2015-07-06 00:35:08,555 - [TRACE] - from play in play-akka.actor.default-dispatcher-18 
+Parsing AnyContent as empty
+
+2015-07-06 00:35:08,555 - [INFO] - from application in play-akka.actor.default-dispatcher-19 
+filtro 0
+
+2015-07-06 00:35:08,556 - [TRACE] - from play in play-akka.actor.default-dispatcher-14 
+Invoking action with request: GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpeg
+
+2015-07-06 00:35:08,556 - [INFO] - from application in play-akka.actor.default-dispatcher-19 
+GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgwand returned Map(ROUTE_COMMENTS -> download google, ROUTE_PATTERN -> /restful/usuario/perfil/foto/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadUsuario, ROUTE_ACTION_METHOD -> mostrartFoto, ROUTE_VERB -> GET)
+
+2015-07-06 00:35:08,556 - [INFO] - from application in play-akka.actor.default-dispatcher-19 
+filtro 1
+
+2015-07-06 00:35:08,556 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+fName:0ypidlncxkhyk6m8khqg.jpeg
+
+2015-07-06 00:35:08,557 - [TRACE] - from play in play-akka.actor.default-dispatcher-19 
+Parsing AnyContent as empty
+
+2015-07-06 00:35:08,557 - [TRACE] - from play in play-akka.actor.default-dispatcher-16 
+Invoking action with request: GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgw
+
+2015-07-06 00:35:11,831 - [INFO] - from application in play-akka.actor.default-dispatcher-16 
+ins._3=81044
+
+2015-07-06 00:35:32,100 - [TRACE] - from play in New I/O worker #5 
+Http request received by netty: DefaultHttpRequest(chunked: true)
+POST /restful/foto/plato/ HTTP/1.1
+KEY: ebS2jg74kLkybtJPzZ6HHbyPHfkr4vJNOP35qQVsrls=
+Content-Type: multipart/form-data; boundary=dcb71f66-3afb-42bf-9b90-ba5e6f94c6e9
+Content-Length: 38702
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:35:32,261 - [TRACE] - from play in New I/O worker #5 
+Serving this request with: <function1>
+
+2015-07-06 00:35:32,261 - [INFO] - from application in play-akka.actor.default-dispatcher-18 
+filtro 0
+
+2015-07-06 00:35:32,262 - [INFO] - from application in play-akka.actor.default-dispatcher-18 
+POST /restful/foto/plato/and returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/foto/plato/, ROUTE_CONTROLLER -> restful.UploadFotoPlato, ROUTE_ACTION_METHOD -> upload, ROUTE_VERB -> POST)
+
+2015-07-06 00:35:32,262 - [INFO] - from application in play-akka.actor.default-dispatcher-18 
+filtro 1
+
+2015-07-06 00:35:32,398 - [TRACE] - from play in play-akka.actor.default-dispatcher-20 
+Invoking action with request: POST /restful/foto/plato/
+
+2015-07-06 00:35:36,019 - [INFO] - from application in play-akka.actor.default-dispatcher-20 
+geolatitud-33.4461062
+
+2015-07-06 00:35:36,020 - [INFO] - from application in play-akka.actor.default-dispatcher-20 
+geolongitud-70.6436756
+
+2015-07-06 00:35:36,047 - [TRACE] - from application in play-akka.actor.default-dispatcher-20 
+gkqvirko1hjr6dxrk5erq
+
+2015-07-06 00:35:37,057 - [TRACE] - from application in play-akka.actor.default-dispatcher-20 
+{content-length=[0], content-type=[text/html; charset=UTF-8], date=[Mon, 06 Jul 2015 03:35:37 GMT], etag=["9fde170cc06a7042f4bf802997dc3e48"], x-goog-stored-content-length=[24181], server=[UploadServer], x-goog-metageneration=[1], alternate-protocol=[443:quic,p=1], x-goog-hash=[md5=n94XDMBqcEL0v4Apl9w+SA==, crc32c=1efbSw==], x-goog-stored-content-encoding=[identity], vary=[Origin], x-goog-generation=[1436153737229000]}
+
+2015-07-06 00:35:37,644 - [TRACE] - from application in play-akka.actor.default-dispatcher-20 
+{content-length=[0], content-type=[text/html; charset=UTF-8], date=[Mon, 06 Jul 2015 03:35:37 GMT], etag=["7361c2cd3cfe421b66250911adb379ea"], x-goog-stored-content-length=[37590], server=[UploadServer], x-goog-metageneration=[1], alternate-protocol=[443:quic,p=1], x-goog-hash=[md5=c2HCzTz+QhtmJQkRrbN56g==, crc32c=zgVCKg==], x-goog-stored-content-encoding=[identity], vary=[Origin], x-goog-generation=[1436153737799000]}
+
+2015-07-06 00:35:55,468 - [ERROR] - from application in play-akka.actor.default-dispatcher-20 
+Error en insersion documento
+
+2015-07-06 00:42:16,486 - [TRACE] - from play in New I/O worker #7 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/plato/home/?lat=-33.4460931&lon=-70.6436354&us=piu HTTP/1.1
+KEY: jbuurDqL1cP9z4ja/rvJsCRKH/5f8cKNvOrsZ4FSSRw=
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:42:39,646 - [ERROR] - from application in New I/O worker #7 
+
+
+! @6ml0a898m - Internal server error, for (GET) [/restful/plato/home/?lat=-33.4460931&lon=-70.6436354&us=piu] ->
+
+play.PlayExceptions$CompilationException: Compilation error[value getMillis is not a member of java.util.Date]
+	at play.PlayExceptions$CompilationException$.apply(PlayExceptions.scala:27) ~[na:na]
+	at play.PlayExceptions$CompilationException$.apply(PlayExceptions.scala:27) ~[na:na]
+	at scala.Option.map(Option.scala:145) ~[scala-library-2.11.5.jar:na]
+	at play.PlayReloader$$anon$1$$anonfun$play$PlayReloader$$anon$$taskFailureHandler$1.apply(PlayReloader.scala:234) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$play$PlayReloader$$anon$$taskFailureHandler$1.apply(PlayReloader.scala:229) ~[na:na]
+	at scala.Option.map(Option.scala:145) ~[scala-library-2.11.5.jar:na]
+	at play.PlayReloader$$anon$1.play$PlayReloader$$anon$$taskFailureHandler(PlayReloader.scala:229) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2.apply(PlayReloader.scala:89) ~[na:na]
+	at play.PlayReloader$$anon$1$$anonfun$reload$2.apply(PlayReloader.scala:89) ~[na:na]
+	at scala.util.Either$LeftProjection.map(Either.scala:377) ~[scala-library-2.11.5.jar:na]
+	at play.PlayReloader$$anon$1.reload(PlayReloader.scala:89) ~[na:na]
+	at play.core.ReloadableApplication$$anonfun$get$1.apply(ApplicationProvider.scala:122) ~[play_2.11-2.3.4.jar:2.3.4]
+	at play.core.ReloadableApplication$$anonfun$get$1.apply(ApplicationProvider.scala:120) ~[play_2.11-2.3.4.jar:2.3.4]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) ~[scala-library-2.11.5.jar:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) ~[scala-library-2.11.5.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask$AdaptedRunnableAction.exec(ForkJoinTask.java:1361) ~[scala-library-2.11.5.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) ~[scala-library-2.11.5.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) ~[scala-library-2.11.5.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) ~[scala-library-2.11.5.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) ~[scala-library-2.11.5.jar:na]
+
+2015-07-06 00:42:39,916 - [TRACE] - from play in New I/O worker #7 
+No handler, got direct result: scala.concurrent.impl.Promise$KeptPromise@71ce9a6
+
+2015-07-06 00:42:39,935 - [TRACE] - from play in New I/O worker #7 
+Serving this request with: <function1>
+
+2015-07-06 00:43:47,251 - [TRACE] - from play in New I/O worker #8 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/plato/home/?lat=-33.4464279&lon=-70.6433407&us=piu HTTP/1.1
+KEY: oxg34qnYC6pMhpdW1S4yhTwTQM5QuMtLmjuHFUJMZ+g=
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:44:15,121 - [DEBUG] - from play in play-internal-execution-context-10 
+Plugin [play.api.db.BoneCPPlugin] is disabled
+
+2015-07-06 00:44:15,123 - [DEBUG] - from play in play-internal-execution-context-10 
+Plugin [play.api.db.evolutions.EvolutionsPlugin] is disabled
+
+2015-07-06 00:44:15,163 - [DEBUG] - from play in play-internal-execution-context-10 
+Plugin [play.api.cache.EhCachePlugin] is disabled
+
+2015-07-06 00:44:15,386 - [INFO] - from play in play-internal-execution-context-10 
+mongodb [default] connected at 127.0.0.1:27017/tentarsedb
+
+2015-07-06 00:44:15,386 - [INFO] - from play in play-internal-execution-context-10 
+Application started (Dev)
+
+2015-07-06 00:44:15,425 - [TRACE] - from play in New I/O worker #8 
+Serving this request with: <function1>
+
+2015-07-06 00:44:15,426 - [INFO] - from application in play-akka.actor.default-dispatcher-17 
+filtro 0
+
+2015-07-06 00:44:15,426 - [INFO] - from application in play-akka.actor.default-dispatcher-17 
+GET /restful/plato/home/?lat=-33.4464279&lon=-70.6433407&us=piuand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/plato/home/, ROUTE_CONTROLLER -> restful.PlatosRest, ROUTE_ACTION_METHOD -> platoDelDia, ROUTE_VERB -> GET)
+
+2015-07-06 00:44:15,441 - [INFO] - from application in play-akka.actor.default-dispatcher-17 
+filtro 2
+
+2015-07-06 00:44:15,458 - [INFO] - from application in play-akka.actor.default-dispatcher-17 
+filtro 1
+
+2015-07-06 00:44:15,459 - [TRACE] - from play in play-akka.actor.default-dispatcher-17 
+Parsing AnyContent as empty
+
+2015-07-06 00:44:15,460 - [TRACE] - from play in play-akka.actor.default-dispatcher-21 
+Invoking action with request: GET /restful/plato/home/?lat=-33.4464279&lon=-70.6433407&us=piu
+
+2015-07-06 00:44:15,463 - [INFO] - from application in play-akka.actor.default-dispatcher-21 
+restauranteDia
+
+2015-07-06 00:44:15,977 - [INFO] - from application in play-akka.actor.default-dispatcher-21 
+foto._id=55918f619a3eff401b7fadc4
+
+2015-07-06 00:44:16,863 - [TRACE] - from play in New I/O worker #8 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpeg HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:44:16,880 - [TRACE] - from play in New I/O worker #8 
+Serving this request with: <function1>
+
+2015-07-06 00:44:16,880 - [INFO] - from application in play-akka.actor.default-dispatcher-22 
+filtro 0
+
+2015-07-06 00:44:16,881 - [INFO] - from application in play-akka.actor.default-dispatcher-22 
+GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpegand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/foto/plato/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadPlato, ROUTE_ACTION_METHOD -> mostrartFotoPlato, ROUTE_VERB -> GET)
+
+2015-07-06 00:44:16,881 - [INFO] - from application in play-akka.actor.default-dispatcher-22 
+filtro 1
+
+2015-07-06 00:44:16,881 - [TRACE] - from play in play-akka.actor.default-dispatcher-22 
+Parsing AnyContent as empty
+
+2015-07-06 00:44:16,881 - [TRACE] - from play in play-akka.actor.default-dispatcher-21 
+Invoking action with request: GET /restful/foto/plato/0ypidlncxkhyk6m8khqg.jpeg
+
+2015-07-06 00:44:16,881 - [INFO] - from application in play-akka.actor.default-dispatcher-21 
+fName:0ypidlncxkhyk6m8khqg.jpeg
+
+2015-07-06 00:44:16,942 - [TRACE] - from play in New I/O worker #1 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgw HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:44:16,964 - [TRACE] - from play in New I/O worker #1 
+Serving this request with: <function1>
+
+2015-07-06 00:44:16,965 - [INFO] - from application in play-akka.actor.default-dispatcher-22 
+filtro 0
+
+2015-07-06 00:44:16,965 - [INFO] - from application in play-akka.actor.default-dispatcher-22 
+GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgwand returned Map(ROUTE_COMMENTS -> download google, ROUTE_PATTERN -> /restful/usuario/perfil/foto/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadUsuario, ROUTE_ACTION_METHOD -> mostrartFoto, ROUTE_VERB -> GET)
+
+2015-07-06 00:44:16,965 - [INFO] - from application in play-akka.actor.default-dispatcher-22 
+filtro 1
+
+2015-07-06 00:44:16,965 - [TRACE] - from play in play-akka.actor.default-dispatcher-22 
+Parsing AnyContent as empty
+
+2015-07-06 00:44:16,966 - [TRACE] - from play in play-akka.actor.default-dispatcher-23 
+Invoking action with request: GET /restful/usuario/perfil/foto/hpwepv1dvbm0gmncu9nzgw
+
+2015-07-06 00:44:18,615 - [INFO] - from application in play-akka.actor.default-dispatcher-23 
+ins._3=81044
+
+2015-07-06 00:44:58,699 - [TRACE] - from play in New I/O worker #8 
+Http request received by netty: DefaultHttpRequest(chunked: true)
+POST /restful/foto/plato/ HTTP/1.1
+KEY: /OrppPSMprNvVXZ5ftjYUjwTQM5QuMtLmjuHFUJMZ+g=
+Content-Type: multipart/form-data; boundary=c52d6a64-1c59-4085-8c42-868384a1de04
+Content-Length: 39895
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:44:58,862 - [TRACE] - from play in New I/O worker #8 
+Serving this request with: <function1>
+
+2015-07-06 00:44:58,862 - [INFO] - from application in play-akka.actor.default-dispatcher-25 
+filtro 0
+
+2015-07-06 00:44:58,862 - [INFO] - from application in play-akka.actor.default-dispatcher-25 
+POST /restful/foto/plato/and returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/foto/plato/, ROUTE_CONTROLLER -> restful.UploadFotoPlato, ROUTE_ACTION_METHOD -> upload, ROUTE_VERB -> POST)
+
+2015-07-06 00:44:58,862 - [INFO] - from application in play-akka.actor.default-dispatcher-25 
+filtro 1
+
+2015-07-06 00:44:58,988 - [TRACE] - from play in play-akka.actor.default-dispatcher-24 
+Invoking action with request: POST /restful/foto/plato/
+
+2015-07-06 00:45:10,362 - [INFO] - from application in play-akka.actor.default-dispatcher-24 
+geolatitud-33.4461214
+
+2015-07-06 00:45:10,362 - [INFO] - from application in play-akka.actor.default-dispatcher-24 
+geolongitud-70.6436627
+
+2015-07-06 00:45:10,438 - [TRACE] - from application in play-akka.actor.default-dispatcher-24 
+2pgguimqtvkt3ylxayhg
+
+2015-07-06 00:45:12,617 - [TRACE] - from application in play-akka.actor.default-dispatcher-24 
+{content-length=[0], content-type=[text/html; charset=UTF-8], date=[Mon, 06 Jul 2015 03:45:11 GMT], etag=["ab377ea9844a06a2c3ea5a2f752600e4"], x-goog-stored-content-length=[27064], server=[UploadServer], x-goog-metageneration=[1], alternate-protocol=[443:quic,p=1], x-goog-hash=[md5=qzd+qYRKBqLD6lovdSYA5A==, crc32c=46ycNg==], x-goog-stored-content-encoding=[identity], vary=[Origin], x-goog-generation=[1436154311683000]}
+
+2015-07-06 00:45:14,117 - [TRACE] - from application in play-akka.actor.default-dispatcher-24 
+{content-length=[0], content-type=[text/html; charset=UTF-8], date=[Mon, 06 Jul 2015 03:45:14 GMT], etag=["3a84057348f3fefa4298346a177d1460"], x-goog-stored-content-length=[38779], server=[UploadServer], x-goog-metageneration=[1], alternate-protocol=[443:quic,p=1], x-goog-hash=[md5=OoQFc0jz/vpCmDRqF30UYA==, crc32c=loO/yA==], x-goog-stored-content-encoding=[identity], vary=[Origin], x-goog-generation=[1436154314318000]}
+
+2015-07-06 00:45:24,696 - [TRACE] - from play in New I/O worker #1 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/plato/home/?lat=-33.4460903&lon=-70.6434866&us=piu HTTP/1.1
+KEY: 2vMnCsiQJp2sGGf/CXRKULqIaTD8YU08+zfQfds+KXI=
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:45:24,698 - [TRACE] - from play in New I/O worker #1 
+Serving this request with: <function1>
+
+2015-07-06 00:45:24,698 - [INFO] - from application in play-akka.actor.default-dispatcher-24 
+filtro 0
+
+2015-07-06 00:45:24,699 - [INFO] - from application in play-akka.actor.default-dispatcher-24 
+GET /restful/plato/home/?lat=-33.4460903&lon=-70.6434866&us=piuand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/plato/home/, ROUTE_CONTROLLER -> restful.PlatosRest, ROUTE_ACTION_METHOD -> platoDelDia, ROUTE_VERB -> GET)
+
+2015-07-06 00:45:24,700 - [INFO] - from application in play-akka.actor.default-dispatcher-24 
+filtro 2
+
+2015-07-06 00:45:24,700 - [INFO] - from application in play-akka.actor.default-dispatcher-24 
+filtro 1
+
+2015-07-06 00:45:24,701 - [TRACE] - from play in play-akka.actor.default-dispatcher-24 
+Parsing AnyContent as empty
+
+2015-07-06 00:45:24,701 - [TRACE] - from play in play-akka.actor.default-dispatcher-27 
+Invoking action with request: GET /restful/plato/home/?lat=-33.4460903&lon=-70.6434866&us=piu
+
+2015-07-06 00:45:24,701 - [INFO] - from application in play-akka.actor.default-dispatcher-27 
+restauranteDia
+
+2015-07-06 00:45:24,706 - [INFO] - from application in play-akka.actor.default-dispatcher-27 
+foto._id=5599f9cb231828d487c14d36
+
+2015-07-06 00:45:24,929 - [TRACE] - from play in New I/O worker #8 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/foto/plato/2pgguimqtvkt3ylxayhg HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:45:24,932 - [TRACE] - from play in New I/O worker #8 
+Serving this request with: <function1>
+
+2015-07-06 00:45:24,933 - [INFO] - from application in play-akka.actor.default-dispatcher-27 
+filtro 0
+
+2015-07-06 00:45:24,934 - [INFO] - from application in play-akka.actor.default-dispatcher-27 
+GET /restful/foto/plato/2pgguimqtvkt3ylxayhgand returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/foto/plato/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadPlato, ROUTE_ACTION_METHOD -> mostrartFotoPlato, ROUTE_VERB -> GET)
+
+2015-07-06 00:45:24,935 - [INFO] - from application in play-akka.actor.default-dispatcher-27 
+filtro 1
+
+2015-07-06 00:45:24,935 - [TRACE] - from play in New I/O worker #1 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/usuario/perfil/foto/98fl3zqcozlgdji1oxvtw HTTP/1.1
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:45:24,941 - [TRACE] - from play in play-akka.actor.default-dispatcher-27 
+Parsing AnyContent as empty
+
+2015-07-06 00:45:24,942 - [TRACE] - from play in play-akka.actor.default-dispatcher-25 
+Invoking action with request: GET /restful/foto/plato/2pgguimqtvkt3ylxayhg
+
+2015-07-06 00:45:24,943 - [INFO] - from application in play-akka.actor.default-dispatcher-25 
+fName:2pgguimqtvkt3ylxayhg
+
+2015-07-06 00:45:24,943 - [TRACE] - from play in New I/O worker #1 
+Serving this request with: <function1>
+
+2015-07-06 00:45:24,943 - [INFO] - from application in play-akka.actor.default-dispatcher-27 
+filtro 0
+
+2015-07-06 00:45:24,943 - [INFO] - from application in play-akka.actor.default-dispatcher-27 
+GET /restful/usuario/perfil/foto/98fl3zqcozlgdji1oxvtwand returned Map(ROUTE_COMMENTS -> download google, ROUTE_PATTERN -> /restful/usuario/perfil/foto/$fName<[^/]+>, ROUTE_CONTROLLER -> restful.DownloadUsuario, ROUTE_ACTION_METHOD -> mostrartFoto, ROUTE_VERB -> GET)
+
+2015-07-06 00:45:24,943 - [INFO] - from application in play-akka.actor.default-dispatcher-27 
+filtro 1
+
+2015-07-06 00:45:24,943 - [TRACE] - from play in play-akka.actor.default-dispatcher-27 
+Parsing AnyContent as empty
+
+2015-07-06 00:45:24,945 - [TRACE] - from play in play-akka.actor.default-dispatcher-24 
+Invoking action with request: GET /restful/usuario/perfil/foto/98fl3zqcozlgdji1oxvtw
+
+2015-07-06 00:45:26,055 - [INFO] - from application in play-akka.actor.default-dispatcher-24 
+ins._3=91922
+
+2015-07-06 00:45:59,148 - [TRACE] - from play in New I/O worker #8 
+Http request received by netty: DefaultHttpRequest(chunked: false)
+GET /restful/plato/comentarios/5599f9cb231828d487c14d36 HTTP/1.1
+KEY: mGJua5hocpl84jeOUsv3ZTwTQM5QuMtLmjuHFUJMZ+g=
+Host: 192.168.0.7:9000
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/2.4.0
+
+2015-07-06 00:45:59,517 - [TRACE] - from play in New I/O worker #8 
+Serving this request with: <function1>
+
+2015-07-06 00:45:59,517 - [INFO] - from application in play-akka.actor.default-dispatcher-25 
+filtro 0
+
+2015-07-06 00:45:59,517 - [INFO] - from application in play-akka.actor.default-dispatcher-25 
+GET /restful/plato/comentarios/5599f9cb231828d487c14d36and returned Map(ROUTE_COMMENTS -> , ROUTE_PATTERN -> /restful/plato/comentarios/$id<[^/]+>, ROUTE_CONTROLLER -> restful.PlatosRest, ROUTE_ACTION_METHOD -> platosComentados, ROUTE_VERB -> GET)
+
+2015-07-06 00:45:59,518 - [INFO] - from application in play-akka.actor.default-dispatcher-25 
+filtro 2
+
+2015-07-06 00:45:59,518 - [INFO] - from application in play-akka.actor.default-dispatcher-25 
+filtro 1
+
+2015-07-06 00:45:59,519 - [TRACE] - from play in play-akka.actor.default-dispatcher-25 
+Parsing AnyContent as empty
+
+2015-07-06 00:45:59,520 - [TRACE] - from play in play-akka.actor.default-dispatcher-28 
+Invoking action with request: GET /restful/plato/comentarios/5599f9cb231828d487c14d36
+
+2015-07-06 00:45:59,523 - [INFO] - from application in play-akka.actor.default-dispatcher-28 
+restauranteComentados
+
